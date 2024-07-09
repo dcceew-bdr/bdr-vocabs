@@ -1,0 +1,43 @@
+PREFIX : <https://linked.data.gov.au/dataset/bdr/orgs/>
+PREFIX cs: <https://linked.data.gov.au/def/bdr/orgs>
+PREFIX schema: <https://schema.org/>
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+
+:wamuseum
+    a
+        skos:Concept ,
+        schema:Organization ;
+    skos:definition "The Western Australian Museum"@en ;
+    skos:historyNote "Defined by BDR admin as real organisation expected in data from WA but also as an example" ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Western Australian Museum"@en ;
+    schema:name "Western Australian Museum" ;
+    skos:topConceptOf cs: ;
+    schema:url "https://visit.museum.wa.gov.au"^^xsd:anyURI ;
+.
+
+<https://linked.data.gov.au/org/dcceew>
+    a
+        skos:Concept ,
+        schema:Organization ;
+    skos:definition "The Western Australian Museum"@en ;
+    skos:historyNote "Defined by BDR admin" ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Department of Climate Change, Energy, the Environment and Water"@en ;
+    schema:name "Department of Climate Change, Energy, the Environment and Water" ;
+    skos:topConceptOf cs: ;
+    schema:url "https://www.dcceew.gov.au"^^xsd:anyURI ;
+.
+
+cs:
+    a skos:ConceptScheme ;
+    skos:definition "Known organisations that submit data to the Biodiversity Date Repository"@en ;
+    skos:hasTopConcept :wamuseum , <https://linked.data.gov.au/org/dcceew> ;
+    skos:historyNote "This vocabulary was developed for the Biodiversity Data Repository and is live in that it grows with new data submissions from new organisations" ;
+    skos:prefLabel "BDR Datatypes"@en ;
+    schema:creator <https://linked.data.gov.au/org/dcceew> ;
+    schema:dateCreated "2024-07-09"^^xsd:date ;
+    schema:dateModified "2024-07-09"^^xsd:date ;
+    schema:publisher <https://linked.data.gov.au/org/dcceew> ;
+.
