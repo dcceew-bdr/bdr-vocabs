@@ -6,15 +6,12 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 
 :wamuseum
     a
-        skos:Concept ,
-        schema:Organization ;
+        skos:Concept ;
     skos:definition "The Western Australian Museum"@en ;
     skos:historyNote "Defined by BDR admin as real organisation expected in data from WA but also as an example" ;
     skos:inScheme cs: ;
     skos:prefLabel "Western Australian Museum"@en ;
     skos:topConceptOf cs: ;
-    schema:name "Western Australian Museum" ;
-    schema:url "https://visit.museum.wa.gov.au"^^xsd:anyURI ;
 .
 
 <https://linked.data.gov.au/org/dcceew>
