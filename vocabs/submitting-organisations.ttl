@@ -37,7 +37,8 @@ cs:
     skos:prefLabel "BDR Submitting Organisations"@en ;
     schema:creator <https://linked.data.gov.au/org/dcceew> ;
     schema:dateCreated "2024-07-09"^^xsd:date ;
-    schema:dateModified "2024-07-09"^^xsd:date ;
+    schema:dateModified "2024-07-10"^^xsd:date ;
+    schema:license <http://purl.org/NET/rdflicense/cc-by4.0> ;
     schema:publisher <https://linked.data.gov.au/org/dcceew> ;
 .
 
