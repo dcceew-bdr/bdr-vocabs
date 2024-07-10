@@ -24,6 +24,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:inScheme cs: ;
     skos:prefLabel "Observations Count"@en ;
     skos:topConceptOf cs: ;
+    skos:broader :DataStatistic ;
 .
 
 :DatasetsCount
@@ -33,6 +34,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:inScheme cs: ;
     skos:prefLabel "Datasets Count"@en ;
     skos:topConceptOf cs: ;
+    skos:broader :DataStatistic ;
 .
 
 cs:
@@ -41,7 +43,7 @@ cs:
 
 These OPs are for anything, e.g. surface texture of a material sample as well as statistics of data."""@en ;
     skos:hasTopConcept :DataStatistic ;
-    skos:historyNote "This vocabulary was developed for the Biodiversity Data Repository and is live in that it grows with new data submissions that use define new datatypes" ;
+    skos:historyNote "This vocabulary was developed for the Biodiversity Data Repository as a catch-all vocab/register of observable properties which are not characterised elsewhere" ;
     skos:prefLabel "BDR Observable Properties"@en ;
     schema:creator <https://linked.data.gov.au/org/dcceew> ;
     schema:dateCreated "2024-07-10"^^xsd:date ;
