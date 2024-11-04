@@ -18,7 +18,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     a
         skos:Concept ,
         schema:Organization ;
-    skos:definition "The Western Australian Museum"@en ;
+    skos:definition "The Federal Governement Department of Climate Change, Energy, the Environment and Water"@en ;
     skos:historyNote "Defined by BDR admin" ;
     skos:inScheme cs: ;
     skos:prefLabel "Department of Climate Change, Energy, the Environment and Water"@en ;
