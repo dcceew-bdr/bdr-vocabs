@@ -15,6 +15,19 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:topConceptOf cs: ;
 .
 
+<https://linked.data.gov.au/org/birdlife>
+    a
+        skos:Concept ,
+        irg:RegisteredIRI ,
+        schema:Organization ;
+    skos:definition "Australian Bird science and conservation organisation."@en ;
+    skos:historyNote "Added by BDR Admin for the use in the BDR, from AGLDWG Orgs Catalogue https://catalogue.linked.data.gov.au/index.php/org/birdlife" ;
+    skos:inScheme cs: ;
+    skos:prefLabel "BirdLife Australia"@en ;
+    skos:topConceptOf cs: ;
+    schema:name "BirdLife Australia" ;
+.
+
 <https://linked.data.gov.au/org/dcceew>
     a
         skos:Concept,
