@@ -56,6 +56,20 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     schema:url "https://www.csiro.au"^^xsd:anyURI ;
     schema:name "Commonwealth Scientific and Industrial Research Organisation" .
 
+<https://linked.data.gov.au/org/tern>
+    a
+        skos:Concept,
+        irg:RegisteredIRI,
+        schema:Organisation ;
+    skos:historyNote "From AGLDWG Orgs Catalogue https://catalogue.linked.data.gov.au/index.php/org/tern" ;
+    skos:topConceptOf cs: ;
+    skos:inScheme cs: ;
+    skos:definition "Terrestrial Ecosystems Research Network"@en ;
+    skos:prefLabel "TERN"@en ;
+    schema:description "Australia’s land ecosystem observatory." ;
+    schema:url "https://tern.org.au"^^xsd:anyURI ;
+    schema:name "Terrestrial Ecosystems Research Network" .
+
 cs:
     a skos:ConceptScheme ;
     skos:definition "Known organisations that submit data to the Biodiversity Date Repository"@en ;
