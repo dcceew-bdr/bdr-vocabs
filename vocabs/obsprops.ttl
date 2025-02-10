@@ -51,9 +51,3 @@ These OPs are for anything, e.g. surface texture of a material sample as well as
     schema:license <http://purl.org/NET/rdflicense/cc-by4.0> ;
     schema:publisher <https://linked.data.gov.au/org/dcceew> ;
 .
-
-<https://linked.data.gov.au/org/dcceew>
-    a schema:Organization ;
-    schema:name "Department of Climate Change, Energy, the Environment and Water" ;
-    schema:url "https://www.dcceew.gov.au"^^xsd:anyURI ;
-.

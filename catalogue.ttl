@@ -1,0 +1,19 @@
+PREFIX schema: <https://schema.org/>
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+
+<https://linked.data.gov.au/dataset/bdr/vocabs>
+    a schema:DataCatalog ;
+    schema:hasPart
+        <https://linked.data.gov.au/dataset/bdr/datatypes> ,
+        <https://linked.data.gov.au/dataset/bdr/obsprops> ,
+        <https://linked.data.gov.au/dataset/bdr/orgs> ,
+        <https://linked.data.gov.au/dataset/bdr/smrr> ;
+    schema:codeRepository "https://github.com/dcceew-bdr/bdr-vocabs/" ;
+    schema:creator <https://linked.data.gov.au/org/dcceew> ;
+    schema:dateCreated "2023"^^xsd:gYear ;
+    schema:dateModified "2025-02-10"^^xsd:date ;
+    schema:description "Vocabularies created for use specifically with the Biodiversity Data Repository systems and data" ;
+    schema:name "BDR Vocabularies" ;
+    schema:publisher <https://linked.data.gov.au/org/dcceew> ;
+.

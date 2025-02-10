@@ -1,6 +1,5 @@
 PREFIX : <https://linked.data.gov.au/dataset/bdr/orgs/>
 PREFIX cs: <https://linked.data.gov.au/dataset/bdr/orgs>
-PREFIX irg: <https://linked.data.gov.au/def/irg#>
 PREFIX schema: <https://schema.org/>
 PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
 PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
@@ -18,7 +17,6 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 <https://linked.data.gov.au/org/birdlife>
     a
         skos:Concept ,
-        irg:RegisteredIRI ,
         schema:Organization ;
     skos:definition "Australian Bird science and conservation organisation."@en ;
     skos:historyNote "Added by BDR Admin for the use in the BDR, from AGLDWG Orgs Catalogue https://catalogue.linked.data.gov.au/index.php/org/birdlife" ;
@@ -26,14 +24,14 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:prefLabel "BirdLife Australia"@en ;
     skos:topConceptOf cs: ;
     schema:name "BirdLife Australia" ;
+    schema:url "https://birdlife.org.au"^^xsd:anyURI ;
 .
 
 <https://linked.data.gov.au/org/dcceew>
     a
         skos:Concept,
-        irg:RegisteredIRI,
         schema:Organization ;
-    skos:definition "The Federal Governement Department of Climate Change, Energy, the Environment and Water"@en ;
+    skos:definition "The Federal Government Department of Climate Change, Energy, the Environment and Water"@en ;
     skos:historyNote "Defined by BDR admin, from AGLDWG Orgs Catalogue https://catalogue.linked.data.gov.au/index.php/org/dcceew" ;
     skos:inScheme cs: ;
     skos:prefLabel "Department of Climate Change, Energy, the Environment and Water"@en ;
@@ -45,7 +43,6 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 <https://linked.data.gov.au/org/csiro>
     a
         skos:Concept,
-        irg:RegisteredIRI,
         schema:Organisation ;
     skos:historyNote "From AGLDWG Orgs Catalogue https://catalogue.linked.data.gov.au/index.php/org/csiro" ;
     skos:topConceptOf cs: ;
@@ -59,7 +56,6 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 <https://linked.data.gov.au/org/tern>
     a
         skos:Concept,
-        irg:RegisteredIRI,
         schema:Organisation ;
     skos:historyNote "From AGLDWG Orgs Catalogue https://catalogue.linked.data.gov.au/index.php/org/tern" ;
     skos:topConceptOf cs: ;

@@ -1,0 +1,138 @@
+PREFIX dcat: <http://www.w3.org/ns/dcat#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX schema: <https://schema.org/>
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+
+<http://purl.org/NET/rdflicense/cc-by4.0>
+    schema:name "Creative Commons - Attribution 4.0 International - CC BY 4.0"@en ;
+    schema:url "http://creativecommons.org/licenses/by/4.0/"^^xsd:anyURI ;
+.
+
+rdfs:Datatype
+    schema:description "The class of RDF datatypes." ;
+    schema:name "Datatype" ;
+.
+
+skos:Concept
+    schema:description "An idea or notion; a unit of thought."@en ;
+    schema:name
+        "Concept"@en ;
+.
+
+skos:ConceptScheme
+    schema:description "A set of concepts, optionally including statements about semantic relationships between those concepts."@en ;
+    schema:name "Concept Scheme"@en ;
+.
+
+skos:broader
+    schema:description "Relates a concept to a concept that is more general in meaning."@en ;
+    schema:name "has broader"@en ;
+.
+
+skos:definition
+    schema:description "A statement or formal explanation of the meaning of a concept."@en ;
+    schema:name "definition"@en ;
+.
+
+skos:hasTopConcept
+    schema:description "Relates, by convention, a concept scheme to a concept which is topmost in the broader/narrower concept hierarchies for that scheme, providing an entry point to these hierarchies."@en ;
+    schema:name "has top concept"@en ;
+.
+
+skos:historyNote
+    schema:description "A note about the past state/use/meaning of a concept."@en ;
+    schema:name "history note"@en ;
+.
+
+skos:inScheme
+    schema:description "Relates a resource (for example a concept) to a concept scheme in which it is included."@en ;
+    schema:name "is in scheme"@en ;
+.
+
+skos:prefLabel
+    schema:description "The preferred lexical label for a resource, in a given language."@en ;
+    schema:name "preferred label"@en ;
+.
+
+skos:scopeNote
+    schema:description "A note that helps to clarify the meaning and/or the use of a concept."@en ;
+    schema:name "scope note"@en ;
+.
+
+skos:topConceptOf
+    schema:description "Relates a concept to the concept scheme that it is a top level concept of."@en ;
+    schema:name "is top concept in scheme"@en ;
+.
+
+dcat:contactPoint
+    schema:description "Relevant contact information for the catalogued resource. Use of vCard is recommended."@en ;
+    schema:name "contact point"@en ;
+.
+
+schema:DataCatalog
+    schema:description "A collection of datasets." ;
+    schema:name "DataCatalog" ;
+.
+
+schema:Organization
+    schema:description "An organization such as a school, NGO, corporation, club, etc." ;
+    schema:name "Organization" ;
+.
+
+schema:codeRepository
+    schema:description "Link to the repository where the un-compiled, human readable code and related code is located (SVN, GitHub, CodePlex)." ;
+    schema:name "codeRepository" ;
+.
+
+schema:creator
+    schema:description "The creator/author of this CreativeWork. This is the same as the Author property for CreativeWork." ;
+    schema:name "creator" ;
+.
+
+schema:dateCreated
+    schema:description "The date on which the CreativeWork was created or the item was added to a DataFeed." ;
+    schema:name "dateCreated" ;
+.
+
+schema:dateModified
+    schema:description "The date on which the CreativeWork was most recently modified or when the item's entry was modified within a DataFeed." ;
+    schema:name "dateModified" ;
+.
+
+schema:description
+    schema:description
+        "A description of the item" ;
+    schema:name "description" ;
+.
+
+schema:hasPart
+    schema:description "Indicates an item or CreativeWork that is part of this item, or CreativeWork (in some sense)." ;
+    schema:name "hasPart" ;
+.
+
+schema:license
+    schema:description "A license document that applies to this content, typically indicated by URL." ;
+    schema:name "license" ;
+.
+
+schema:name
+    schema:description
+        "The name of the item" ;
+    schema:name "name" ;
+.
+
+schema:publisher
+    schema:description "The publisher of the creative work." ;
+    schema:name "publisher" ;
+.
+
+schema:url
+    schema:description "URL of the item." ;
+    schema:name "url" ;
+.
+
+<https://schema.org/Organisation>
+    schema:description "An organization such as a school, NGO, corporation, club, etc." ;
+    schema:name "Organisation" ;
+.
