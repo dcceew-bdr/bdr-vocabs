@@ -10,7 +10,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:definition "Validate the RDF data associated with the submission then insert it into the BDR Graph. This is used for the delivery of new Datasets, new BDR Sites, new Systematic-Survey submissions, and new Incidential Occurrences."@en ;
     skos:historyNote "Defined by the BDR Team for use in data submissions to the BDR" ;
     skos:inScheme cs: ;
-    skos:prefLabel "Validatable And Insert"@en ;
+    skos:prefLabel "Validate And Insert"@en ;
     skos:topConceptOf cs: ;
 .
 
@@ -20,7 +20,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:definition "Validate the RDF data associated with the submission then use it as a delta to update existing data in the BDR Graph. This is used for updating Dataset metadata, modifying existing Sites, and modifying existing Systematic-Survey submissions."@en ;
     skos:historyNote "Defined by the BDR Team for use in data submissions to the BDR" ;
     skos:inScheme cs: ;
-    skos:prefLabel "Validatable And Update"@en ;
+    skos:prefLabel "Validate And Update"@en ;
     skos:topConceptOf cs: ;
 .
 
