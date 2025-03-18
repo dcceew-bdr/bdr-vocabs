@@ -8,7 +8,8 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
         <https://linked.data.gov.au/dataset/bdr/datatypes> ,
         <https://linked.data.gov.au/dataset/bdr/obsprops> ,
         <https://linked.data.gov.au/dataset/bdr/orgs> ,
-        <https://linked.data.gov.au/dataset/bdr/smrr> ;
+        <https://linked.data.gov.au/dataset/bdr/smrr> ,
+        <https://linked.data.gov.au/dataset/bdr/sma> ;
     schema:codeRepository "https://github.com/dcceew-bdr/bdr-vocabs/" ;
     schema:creator <https://linked.data.gov.au/org/dcceew> ;
     schema:dateCreated "2023"^^xsd:gYear ;
