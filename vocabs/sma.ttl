@@ -1,26 +1,27 @@
-PREFIX : <https://linked.data.gov.au/dataset/bdr/smrr/>
-PREFIX cs: <https://linked.data.gov.au/dataset/bdr/submission_actions>
+PREFIX : <https://linked.data.gov.au/dataset/bdr/sma/>
+PREFIX cs: <https://linked.data.gov.au/dataset/bdr/sma>
 PREFIX schema: <https://schema.org/>
 PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
 PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 
 
-:ValidateAndInsert
+:Insert
     a skos:Concept ;
-    skos:definition "Validate the RDF data associated with the submission then insert it into the BDR Graph. This is used for the delivery of new Datasets, new BDR Sites, new Systematic-Survey submissions, and new Incidential Occurrences."@en ;
+    skos:definition "Insert submission into the BDR Graph. This is used for the delivery of new Datasets, new BDR Sites, new Systematic-Survey submissions, and new Incidential Occurrences."@en ;
     skos:historyNote "Defined by the BDR Team for use in data submissions to the BDR" ;
+    skos:scopeNote "In the BDR Data Ingestion pipeline, the submission must pass validation before it is inserted.";
     skos:inScheme cs: ;
-    skos:prefLabel "Validate And Insert"@en ;
+    skos:prefLabel "Insert"@en ;
     skos:topConceptOf cs: ;
 .
 
-
-:ValidateAndUpdate
+:Update
     a skos:Concept ;
     skos:definition "Validate the RDF data associated with the submission then use it as a delta to update existing data in the BDR Graph. This is used for updating Dataset metadata, modifying existing Sites, and modifying existing Systematic-Survey submissions."@en ;
     skos:historyNote "Defined by the BDR Team for use in data submissions to the BDR" ;
+    skos:scopeNote "Updating an entity that does not exist will return an error. In the BDR Data Ingestion pipeline, the delta submission must pass validation before it is used to update the dataset." ;
     skos:inScheme cs: ;
-    skos:prefLabel "Validate And Update"@en ;
+    skos:prefLabel "Update"@en ;
     skos:topConceptOf cs: ;
 .
 
@@ -34,6 +35,16 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:topConceptOf cs: ;
 .
 
+:Check
+    a skos:Concept ;
+    skos:definition "Only validate the submission, and do not insert it into the BDR Graph."@en ;
+    skos:historyNote "Defined by the BDR Team for use in testing data submissions to the BDR" ;
+    skos:scopeNote "This is the same as Insert but it does not ingest the resulting subgraph to the BDR.";
+    skos:inScheme cs: ;
+    skos:prefLabel "Check"@en ;
+    skos:topConceptOf cs: ;
+.
+
 cs:
     a skos:ConceptScheme ;
     skos:definition "Collection of actions for a Submission Manifest that provide hints for how to process a BDR Submissions"@en ;
@@ -41,12 +52,13 @@ cs:
     skos:prefLabel "BDR Submission Manifest Actions"@en ;
     skos:scopeNote "See the ABIS Specification, <https://linked.data.gov.au/def/abis> - BDR Profile Section, for the definition of BDR Submission Manifest Actions"@en ;
     schema:creator <https://linked.data.gov.au/org/dcceew> ;
-    schema:dateCreated "2025-03-13"^^xsd:date ;
-    schema:dateModified "2025-03-13"^^xsd:date ;
+    schema:dateCreated "2025-03-18"^^xsd:date ;
+    schema:dateModified "2025-03-18"^^xsd:date ;
     schema:license <http://purl.org/NET/rdflicense/cc-by4.0> ;
     schema:publisher <https://linked.data.gov.au/org/dcceew> ;
     skos:hasTopConcept 
-        :ValidateAndInsert ,
-        :ValidateAndUpdate ,
-        :Remove ;
+        :Insert ,
+        :Update ,
+        :Remove ,
+        :Check ;
 .
