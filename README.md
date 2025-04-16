@@ -4,7 +4,7 @@ Vocabularies created for use specifically with the [Biodiversity Data Repository
 
 These vocabularies are presented online as part of the BDR's catalogues of information at:
 
-* **<https://vocabs.bdr.gov.au>**
+* **<https://bdr.gov.au>**
 
 Typically, you will want to access these vocabularies from there. This location is only for back-end editing of vocabulary content by BDR Staff.
 
@@ -27,9 +27,8 @@ _Department of Climate Change, Energy and the Environment (DCCEEW)_
 
 This catalogue of vocabularies is created as a [Prez Manifest](https://prez.dev/manifest/)-compliant catalogue. The manifest file is `manifest.ttl` and it lists the following resources:
 
-Resource | Role | Description
---- | --- | ---
-Catalogue Definition:<br />[`catalogue.ttl`](catalogue.ttl) | [Catalogue Data](https://prez.dev/ManifestResourceRoles/CatalogueData) | The definition of, and medata for, the container which here is a dcat:Catalog object
-Resource Data:<br />[`vocabs/*.ttl`](vocabs/*.ttl) | [Resource Data](https://prez.dev/ManifestResourceRoles/ResourceData) | skos:ConceptScheme objects in RDF (Turtle) files in the vocabs/ folder
-Profile Definition:<br />[`ogc_records_profile.ttl`](https://github.com/RDFLib/prez/blob/main/prez/reference_data/profiles/ogc_records_profile.ttl) | [Catalogue & Resource Model](https://prez.dev/ManifestResourceRoles/CatalogueAndResourceModel) | The default Prez profile for Records API
-Labels:<br />[`labels.ttl`](labels.ttl) | [Complete Catalogue and Resource Labels](https://prez.dev/ManifestResourceRoles/CompleteCatalogueAndResourceLabels) | An RDF file containing all the labels for the container content
+| Resource                                                                                                                                            | Role                                                                                                                | Description                                                                          |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
+| Catalogue Definition:<br />[`catalogue.ttl`](catalogue.ttl)                                                                                         | [Catalogue Data](https://prez.dev/ManifestResourceRoles/CatalogueData)                                              | The definition of, and medata for, the container which here is a dcat:Catalog object |
+| Resource Data:<br />[`vocabs/*.ttl`](vocabs/*.ttl)                                                                                                  | [Resource Data](https://prez.dev/ManifestResourceRoles/ResourceData)                                                | skos:ConceptScheme objects in RDF (Turtle) files in the vocabs/ folder               |
+| Labels:<br />[`labels.ttl`](labels.ttl)                                                                                                             | [Complete Catalogue and Resource Labels](https://prez.dev/ManifestResourceRoles/CompleteCatalogueAndResourceLabels) | An RDF file containing all the labels for the container content                      |
