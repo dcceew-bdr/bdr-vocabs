@@ -6,7 +6,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     a schema:DataCatalog ;
     schema:hasPart
         <https://linked.data.gov.au/dataset/bdr/datatypes> ,
-        <https://linked.data.gov.au/dataset/bdr/obsprops> ,
+        <https://linked.data.gov.au/dataset/bdr/op> ,
         <https://linked.data.gov.au/dataset/bdr/orgs> ,
         <https://linked.data.gov.au/dataset/bdr/smrr> ,
         <https://linked.data.gov.au/dataset/bdr/sma> ;

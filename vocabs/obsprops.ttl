@@ -1,5 +1,5 @@
-PREFIX : <https://linked.data.gov.au/dataset/bdr/obsprops/>
-PREFIX cs: <https://linked.data.gov.au/dataset/bdr/obsprops>
+PREFIX : <https://linked.data.gov.au/dataset/bdr/op/>
+PREFIX cs: <https://linked.data.gov.au/dataset/bdr/op>
 PREFIX dcat: <http://www.w3.org/ns/dcat#>
 PREFIX orgs: <https://linked.data.gov.au/dataset/bdr/orgs/>
 PREFIX owl: <http://www.w3.org/2002/07/owl#>
