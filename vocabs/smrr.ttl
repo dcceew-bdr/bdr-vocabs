@@ -52,13 +52,13 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:topConceptOf cs: ;
 .
 
-:SupplimentaryData
+:SupplementaryData
     a skos:Concept ;
     skos:broader :NotForValidation ;
-    skos:definition "The Artifacts in this Resource are supplimentary, non-RDF, data for the Submission defined by the Manifest defining this Resource. They must not be validated"@en ;
+    skos:definition "The Artifacts in this Resource are supplementary, non-RDF, data for the Submission defined by the Manifest defining this Resource. They must not be validated"@en ;
     skos:historyNote "Defined by BDR Staff for use in data submissions to the BDR" ;
     skos:inScheme cs: ;
-    skos:prefLabel "Supplimentary Data"@en ;
+    skos:prefLabel "Supplementary Data"@en ;
     skos:topConceptOf cs: ;
 .
 
