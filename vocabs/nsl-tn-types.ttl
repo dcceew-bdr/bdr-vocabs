@@ -1,0 +1,172 @@
+PREFIX : <https://linked.data.gov.au/def/nsl/tn-types/>
+PREFIX cs: <https://linked.data.gov.au/def/nsl/tn-types>
+PREFIX schema: <https://schema.org/>
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+
+:scientific
+    a skos:Concept ;
+    skos:definition "scientific name"@en ;
+    skos:historyNote "Defined by the BDR Team based on text literals in the NSL graph." ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Scientific Name"@en ;
+    skos:topConceptOf cs: ;
+.
+
+:common
+    a skos:Concept ;
+    skos:definition "common name"@en ;
+    skos:historyNote "Defined by the BDR Team based on text literals in the NSL graph." ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Common Name"@en ;
+    skos:topConceptOf cs: ;
+.
+
+:vernacular
+    a skos:Concept ;
+    skos:definition "vernacular name"@en ;
+    skos:historyNote "Defined by the BDR Team based on text literals in the NSL graph." ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Vernacular Name"@en ;
+    skos:topConceptOf cs: ;
+.
+
+:miscellaneous
+    a skos:Concept ;
+    skos:definition "miscellaneous"@en ;
+    skos:historyNote "Defined by the BDR Team based on text literals in the NSL graph." ;
+    skos:inScheme cs: ;
+    skos:prefLabel "miscellaneous"@en ;
+    skos:topConceptOf cs: ;
+.
+
+:nominotypical
+    a skos:Concept ;
+    skos:definition "nominotypical"@en ;
+    skos:historyNote "Defined by the BDR Team based on text literals in the NSL graph." ;
+    skos:inScheme cs: ;
+    skos:prefLabel "nominotypical"@en ;
+    skos:topConceptOf cs: ;
+.
+
+:autonym
+    a skos:Concept ;
+    skos:definition "autonym"@en ;
+    skos:historyNote "Defined by the BDR Team based on text literals in the NSL graph." ;
+    skos:inScheme cs: ;
+    skos:prefLabel "autonym"@en ;
+    skos:topConceptOf cs: ;
+.
+
+:phrase-name
+    a skos:Concept ;
+    skos:definition "phrase-name"@en ;
+    skos:historyNote "Defined by the BDR Team based on text literals in the NSL graph." ;
+    skos:inScheme cs: ;
+    skos:prefLabel "phrase-name"@en ;
+    skos:topConceptOf cs: ;
+.
+
+:named-hybrid
+    a skos:Concept ;
+    skos:definition "named-hybrid"@en ;
+    skos:historyNote "Defined by the BDR Team based on text literals in the NSL graph." ;
+    skos:inScheme cs: ;
+    skos:prefLabel "named-hybrid"@en ;
+    skos:topConceptOf cs: ;
+.
+
+:hybrid-formula-parents-known
+    a skos:Concept ;
+    skos:definition "hybrid-formula-parents-known"@en ;
+    skos:historyNote "Defined by the BDR Team based on text literals in the NSL graph." ;
+    skos:inScheme cs: ;
+    skos:prefLabel "hybrid-formula-parents-known"@en ;
+    skos:topConceptOf cs: ;
+.
+
+:cultivar-hybrid
+    a skos:Concept ;
+    skos:definition "cultivar-hybrid"@en ;
+    skos:historyNote "Defined by the BDR Team based on text literals in the NSL graph." ;
+    skos:inScheme cs: ;
+    skos:prefLabel "cultivar-hybrid"@en ;
+    skos:topConceptOf cs: ;
+.
+
+:intergrade
+    a skos:Concept ;
+    skos:definition "intergrade"@en ;
+    skos:historyNote "Defined by the BDR Team based on text literals in the NSL graph." ;
+    skos:inScheme cs: ;
+    skos:prefLabel "intergrade"@en ;
+    skos:topConceptOf cs: ;
+.
+
+:cultivar
+    a skos:Concept ;
+    skos:definition "cultivar"@en ;
+    skos:historyNote "Defined by the BDR Team based on text literals in the NSL graph." ;
+    skos:inScheme cs: ;
+    skos:prefLabel "cultivar"@en ;
+    skos:topConceptOf cs: ;
+.
+
+:named-hybrid-autonym
+    a skos:Concept ;
+    skos:definition "named-hybrid-autonym"@en ;
+    skos:historyNote "Defined by the BDR Team based on text literals in the NSL graph." ;
+    skos:inScheme cs: ;
+    skos:prefLabel "named-hybrid-autonym"@en ;
+    skos:topConceptOf cs: ;
+.
+
+:informal
+    a skos:Concept ;
+    skos:definition "informal"@en ;
+    skos:historyNote "Defined by the BDR Team based on text literals in the NSL graph." ;
+    skos:inScheme cs: ;
+    skos:prefLabel "informal"@en ;
+    skos:topConceptOf cs: ;
+.
+
+:preferred-common
+    a skos:Concept ;
+    skos:definition "preferred-common"@en ;
+    skos:historyNote "Defined by the BDR Team based on text literals in the NSL graph." ;
+    skos:inScheme cs: ;
+    skos:prefLabel "preferred-common"@en ;
+    skos:broader :common ;
+.
+
+:hybrid-formula-unknown-2nd-parent
+    a skos:Concept ;
+    skos:definition "hybrid-formula-unknown-2nd-parent"@en ;
+    skos:historyNote "Defined by the BDR Team based on text literals in the NSL graph." ;
+    skos:inScheme cs: ;
+    skos:prefLabel "hybrid-formula-unknown-2nd-parent"@en ;
+    skos:topConceptOf cs: ;
+.
+
+:graft-chimera
+    a skos:Concept ;
+    skos:definition "graft-chimera"@en ;
+    skos:historyNote "Defined by the BDR Team based on text literals in the NSL graph." ;
+    skos:inScheme cs: ;
+    skos:prefLabel "graft-chimera"@en ;
+    skos:topConceptOf cs: ;
+.
+
+
+cs:
+    a skos:ConceptScheme ;
+    skos:definition "Vocabulary of types for TaxonName instances in the NSL, as used in the BDR."@en ;
+    skos:historyNote "This vocabulary was developed by the BDR team for the use in the NSL integration within the BDR." ;
+    skos:scopeNote "This is used the for soft-typing instances of TaxonName via the schema:additionalType property." ;
+    skos:prefLabel "NSL TaxonName Types"@en ;
+    schema:creator <https://linked.data.gov.au/org/dcceew> ;
+    schema:dateCreated "2025-05-20"^^xsd:date ;
+    schema:dateModified "2025-05-20"^^xsd:date ;
+    schema:license <http://purl.org/NET/rdflicense/cc-by4.0> ;
+    schema:publisher <https://linked.data.gov.au/org/dcceew> ;
+.
