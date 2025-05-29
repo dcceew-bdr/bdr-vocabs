@@ -9,7 +9,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:definition "valid-name"@en ;
     skos:historyNote "Defined by the BDR Team based on text literals in the NSL graph." ;
     skos:inScheme cs: ;
-    skos:prefLabel "valid-name"@en ;
+    skos:prefLabel "Valid Name"@en ;
     skos:topConceptOf cs: ;
 .
 
@@ -18,7 +18,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:definition "alternative-name"@en ;
     skos:historyNote "Defined by the BDR Team based on text literals in the NSL graph." ;
     skos:inScheme cs: ;
-    skos:prefLabel "alternative-name"@en ;
+    skos:prefLabel "Alternative Name"@en ;
     skos:topConceptOf cs: ;
 .
 
@@ -27,7 +27,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:definition "synonym"@en ;
     skos:historyNote "Defined by the BDR Team based on text literals in the NSL graph." ;
     skos:inScheme cs: ;
-    skos:prefLabel "synonym"@en ;
+    skos:prefLabel "Synonym"@en ;
     skos:topConceptOf cs: ;
 .
 
@@ -36,7 +36,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:definition "primary-synonym"@en ;
     skos:historyNote "Defined by the BDR Team based on text literals in the NSL graph." ;
     skos:inScheme cs: ;
-    skos:prefLabel "primary-synonym"@en ;
+    skos:prefLabel "Primary Synonym"@en ;
     skos:broader :synonym ;
 .
 
@@ -45,7 +45,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:definition "heterotypic-synonym"@en ;
     skos:historyNote "Defined by the BDR Team based on text literals in the NSL graph." ;
     skos:inScheme cs: ;
-    skos:prefLabel "heterotypic-synonym"@en ;
+    skos:prefLabel "Heterotypic Synonym"@en ;
     skos:broader :synonym ;
 .
 
@@ -54,7 +54,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:definition "homotypic-synonym"@en ;
     skos:historyNote "Defined by the BDR Team based on text literals in the NSL graph." ;
     skos:inScheme cs: ;
-    skos:prefLabel "homotypic-synonym"@en ;
+    skos:prefLabel "Homotypic Synonym"@en ;
     skos:broader :synonym ;
 .
 
@@ -63,7 +63,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:definition "taxonomic-synonym"@en ;
     skos:historyNote "Defined by the BDR Team based on text literals in the NSL graph." ;
     skos:inScheme cs: ;
-    skos:prefLabel "taxonomic-synonym"@en ;
+    skos:prefLabel "Taxonomic Synonym"@en ;
     skos:broader :synonym ;
 .
 
@@ -72,7 +72,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:definition "doubtful-taxonomic-synonym"@en ;
     skos:historyNote "Defined by the BDR Team based on text literals in the NSL graph." ;
     skos:inScheme cs: ;
-    skos:prefLabel "doubtful-taxonomic-synonym"@en ;
+    skos:prefLabel "Doubtful Taxonomic Synonym"@en ;
     skos:broader :synonym ;
 .
 
@@ -81,7 +81,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:definition "pro-parte-taxonomic-synonym"@en ;
     skos:historyNote "Defined by the BDR Team based on text literals in the NSL graph." ;
     skos:inScheme cs: ;
-    skos:prefLabel "pro-parte-taxonomic-synonym"@en ;
+    skos:prefLabel "Pro Parte Taxonomic Synonym"@en ;
     skos:broader :synonym ;
 .
 
@@ -90,7 +90,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:definition "doubtful-pro-parte-taxonomic-synonym"@en ;
     skos:historyNote "Defined by the BDR Team based on text literals in the NSL graph." ;
     skos:inScheme cs: ;
-    skos:prefLabel "doubtful-pro-parte-taxonomic-synonym"@en ;
+    skos:prefLabel "Doubtful Pro Parte Taxonomic Synonym"@en ;
     skos:broader :synonym ;
 .
 
@@ -99,7 +99,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:definition "nomenclatural-synonym"@en ;
     skos:historyNote "Defined by the BDR Team based on text literals in the NSL graph." ;
     skos:inScheme cs: ;
-    skos:prefLabel "nomenclatural-synonym"@en ;
+    skos:prefLabel "Nomenclatural Synonym"@en ;
     skos:broader :synonym ;
 .
 
@@ -108,7 +108,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:definition "doubtful-nomenclatural-synonym"@en ;
     skos:historyNote "Defined by the BDR Team based on text literals in the NSL graph." ;
     skos:inScheme cs: ;
-    skos:prefLabel "doubtful-nomenclatural-synonym"@en ;
+    skos:prefLabel "Doubtful Nomenclatural Synonym"@en ;
     skos:broader :synonym ;
 .
 
@@ -117,7 +117,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:definition "pro-parte-nomenclatural-synonym"@en ;
     skos:historyNote "Defined by the BDR Team based on text literals in the NSL graph." ;
     skos:inScheme cs: ;
-    skos:prefLabel "pro-parte-nomenclatural-synonym"@en ;
+    skos:prefLabel "Pro Parte Nomenclatural Synonym"@en ;
     skos:broader :synonym ;
 .
 
@@ -126,7 +126,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:definition "replaced-synonym"@en ;
     skos:historyNote "Defined by the BDR Team based on text literals in the NSL graph." ;
     skos:inScheme cs: ;
-    skos:prefLabel "replaced-synonym"@en ;
+    skos:prefLabel "Replaced Synonym"@en ;
     skos:broader :synonym ;
 .
 
@@ -135,7 +135,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:definition "replacement-name"@en ;
     skos:historyNote "Defined by the BDR Team based on text literals in the NSL graph." ;
     skos:inScheme cs: ;
-    skos:prefLabel "replacement-name"@en ;
+    skos:prefLabel "Replacement Name"@en ;
     skos:topConceptOf cs: ;
 .
 
@@ -144,7 +144,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:definition "secondary-reference"@en ;
     skos:historyNote "Defined by the BDR Team based on text literals in the NSL graph." ;
     skos:inScheme cs: ;
-    skos:prefLabel "secondary-reference"@en ;
+    skos:prefLabel "Secondary Reference"@en ;
     skos:topConceptOf cs: ;
 .
 
@@ -153,7 +153,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:definition "orthographic-variant"@en ;
     skos:historyNote "Defined by the BDR Team based on text literals in the NSL graph." ;
     skos:inScheme cs: ;
-    skos:prefLabel "orthographic-variant"@en ;
+    skos:prefLabel "Orthographic Variant"@en ;
     skos:topConceptOf cs: ;
 .
 
@@ -162,7 +162,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:definition "basionym"@en ;
     skos:historyNote "Defined by the BDR Team based on text literals in the NSL graph." ;
     skos:inScheme cs: ;
-    skos:prefLabel "basionym"@en ;
+    skos:prefLabel "Basionym"@en ;
     skos:topConceptOf cs: ;
 .
 
@@ -172,7 +172,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:definition "comb-nov"@en ;
     skos:historyNote "Defined by the BDR Team based on text literals in the NSL graph." ;
     skos:inScheme cs: ;
-    skos:prefLabel "comb-nov"@en ;
+    skos:prefLabel "Comb Nov"@en ;
     skos:topConceptOf cs: ;
 .
 
@@ -181,7 +181,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:definition "isonym"@en ;
     skos:historyNote "Defined by the BDR Team based on text literals in the NSL graph." ;
     skos:inScheme cs: ;
-    skos:prefLabel "isonym"@en ;
+    skos:prefLabel "Isonym"@en ;
     skos:topConceptOf cs: ;
 .
 
@@ -190,7 +190,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:definition "tax-nov"@en ;
     skos:historyNote "Defined by the BDR Team based on text literals in the NSL graph." ;
     skos:inScheme cs: ;
-    skos:prefLabel "tax-nov"@en ;
+    skos:prefLabel "Tax Nov"@en ;
     skos:topConceptOf cs: ;
 .
 
@@ -199,7 +199,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:definition "autonym"@en ;
     skos:historyNote "Defined by the BDR Team based on text literals in the NSL graph." ;
     skos:inScheme cs: ;
-    skos:prefLabel "autonym"@en ;
+    skos:prefLabel "Autonym"@en ;
     skos:topConceptOf cs: ;
 .
 
@@ -208,7 +208,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:definition "explicit-autonym"@en ;
     skos:historyNote "Defined by the BDR Team based on text literals in the NSL graph." ;
     skos:inScheme cs: ;
-    skos:prefLabel "explicit-autonym"@en ;
+    skos:prefLabel "Explicit Autonym"@en ;
     skos:broader :autonym ;
 .
 
@@ -217,7 +217,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:definition "implicit-autonym"@en ;
     skos:historyNote "Defined by the BDR Team based on text literals in the NSL graph." ;
     skos:inScheme cs: ;
-    skos:prefLabel "implicit-autonym"@en ;
+    skos:prefLabel "Implicit Autonym"@en ;
     skos:broader :autonym ;
 .
 
@@ -226,7 +226,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:definition "primary-reference"@en ;
     skos:historyNote "Defined by the BDR Team based on text literals in the NSL graph." ;
     skos:inScheme cs: ;
-    skos:prefLabel "primary-reference"@en ;
+    skos:prefLabel "Primary Reference"@en ;
     skos:topConceptOf cs: ;
 .
 
@@ -235,7 +235,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:definition "nom-nov"@en ;
     skos:historyNote "Defined by the BDR Team based on text literals in the NSL graph." ;
     skos:inScheme cs: ;
-    skos:prefLabel "nom-nov"@en ;
+    skos:prefLabel "Nom Nov"@en ;
     skos:topConceptOf cs: ;
 .
 
@@ -244,7 +244,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:definition "stat-nov"@en ;
     skos:historyNote "Defined by the BDR Team based on text literals in the NSL graph." ;
     skos:inScheme cs: ;
-    skos:prefLabel "stat-nov"@en ;
+    skos:prefLabel "Stat Nov"@en ;
     skos:topConceptOf cs: ;
 .
 
@@ -253,7 +253,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:definition "comb-et-stat-nov"@en ;
     skos:historyNote "Defined by the BDR Team based on text literals in the NSL graph." ;
     skos:inScheme cs: ;
-    skos:prefLabel "comb-et-stat-nov"@en ;
+    skos:prefLabel "Comb Et Stat Nov"@en ;
     skos:broader :stat-nov ;
 .
 
@@ -262,7 +262,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:definition "nom-et-stat-nov"@en ;
     skos:historyNote "Defined by the BDR Team based on text literals in the NSL graph." ;
     skos:inScheme cs: ;
-    skos:prefLabel "nom-et-stat-nov"@en ;
+    skos:prefLabel "Nom Et Stat Nov"@en ;
     skos:broader :stat-nov ;
 .
 

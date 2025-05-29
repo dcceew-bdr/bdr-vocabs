@@ -6,7 +6,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 
 :scientific
     a skos:Concept ;
-    skos:definition "scientific name"@en ;
+    skos:definition "A Taxon Name given to a Taxon by the scientific community"@en ;
     skos:historyNote "Defined by the BDR Team based on text literals in the NSL graph." ;
     skos:inScheme cs: ;
     skos:prefLabel "Scientific Name"@en ;
@@ -15,7 +15,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 
 :common
     a skos:Concept ;
-    skos:definition "common name"@en ;
+    skos:definition "A Taxon Name often and informally given to a Taxon"@en ;
     skos:historyNote "Defined by the BDR Team based on text literals in the NSL graph." ;
     skos:inScheme cs: ;
     skos:prefLabel "Common Name"@en ;
@@ -24,7 +24,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 
 :vernacular
     a skos:Concept ;
-    skos:definition "vernacular name"@en ;
+    skos:definition "A Taxon Name given to a Taxon in the language spoken by ordinary people"@en ;
     skos:historyNote "Defined by the BDR Team based on text literals in the NSL graph." ;
     skos:inScheme cs: ;
     skos:prefLabel "Vernacular Name"@en ;
@@ -33,7 +33,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 
 :miscellaneous
     a skos:Concept ;
-    skos:definition "miscellaneous"@en ;
+    skos:definition "A Taxon Name given to a Taxon without specific logic"@en ;
     skos:historyNote "Defined by the BDR Team based on text literals in the NSL graph." ;
     skos:inScheme cs: ;
     skos:prefLabel "miscellaneous"@en ;
@@ -42,7 +42,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 
 :nominotypical
     a skos:Concept ;
-    skos:definition "nominotypical"@en ;
+    skos:definition "A Taxon Name that shares the same name as the higher-level Taxon Name it belongs to"@en ;
     skos:historyNote "Defined by the BDR Team based on text literals in the NSL graph." ;
     skos:inScheme cs: ;
     skos:prefLabel "nominotypical"@en ;
@@ -51,7 +51,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 
 :autonym
     a skos:Concept ;
-    skos:definition "autonym"@en ;
+    skos:definition "A Taxon Name automatically created within a scientific classification"@en ;
     skos:historyNote "Defined by the BDR Team based on text literals in the NSL graph." ;
     skos:inScheme cs: ;
     skos:prefLabel "autonym"@en ;
@@ -60,7 +60,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 
 :phrase-name
     a skos:Concept ;
-    skos:definition "phrase-name"@en ;
+    skos:definition "An informal Taxon Name an given to a plant Taxon that has not yet been given a formal scientific name"@en ;
     skos:historyNote "Defined by the BDR Team based on text literals in the NSL graph." ;
     skos:inScheme cs: ;
     skos:prefLabel "phrase-name"@en ;
@@ -96,7 +96,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 
 :intergrade
     a skos:Concept ;
-    skos:definition "intergrade"@en ;
+    skos:definition "A Taxon Name given to intergrade taxa"@en ;
     skos:historyNote "Defined by the BDR Team based on text literals in the NSL graph." ;
     skos:inScheme cs: ;
     skos:prefLabel "intergrade"@en ;
@@ -105,7 +105,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 
 :cultivar
     a skos:Concept ;
-    skos:definition "cultivar"@en ;
+    skos:definition "A Taxon Name given to a cultivar of a Taxon"@en ;
     skos:historyNote "Defined by the BDR Team based on text literals in the NSL graph." ;
     skos:inScheme cs: ;
     skos:prefLabel "cultivar"@en ;
@@ -123,7 +123,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 
 :informal
     a skos:Concept ;
-    skos:definition "informal"@en ;
+    skos:definition "A non-formal Taxon Name given to a Taxon"@en ;
     skos:historyNote "Defined by the BDR Team based on text literals in the NSL graph." ;
     skos:inScheme cs: ;
     skos:prefLabel "informal"@en ;
@@ -132,7 +132,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 
 :preferred-common
     a skos:Concept ;
-    skos:definition "preferred-common"@en ;
+    skos:definition "The preferred common Taxon Name of a Taxon"@en ;
     skos:historyNote "Defined by the BDR Team based on text literals in the NSL graph." ;
     skos:inScheme cs: ;
     skos:prefLabel "preferred-common"@en ;
