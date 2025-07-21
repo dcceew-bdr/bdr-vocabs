@@ -35,6 +35,16 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:topConceptOf cs: ;
 .
 
+:Replace
+    a skos:Concept ;
+    skos:definition "Replace the given RDF assets within the BDR Graph. This can be used to replace an Incidental Occurrence recordd, or replace an entity iwhtin a Systematic-Survey. The existing entities (and their associated properties) are first removed from the BDR before inserting this submission."@en ;
+    skos:scopeNote "This action cannot be used to replace a complete BDR Dataset. Email the BDR team discuss the complete removal and replacement of a Dataset." ;
+    skos:historyNote "Defined by the BDR Team for use in data submissions to the BDR" ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Replace"@en ;
+    skos:topConceptOf cs: ;
+.
+
 :Check
     a skos:Concept ;
     skos:definition "Only validate the submission, and do not insert it into the BDR Graph."@en ;
