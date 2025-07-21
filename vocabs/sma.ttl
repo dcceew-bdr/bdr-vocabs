@@ -70,5 +70,6 @@ cs:
         :Insert ,
         :Update ,
         :Remove ,
+        :Replace ,
         :Check ;
 .
