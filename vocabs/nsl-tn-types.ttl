@@ -166,7 +166,24 @@ cs:
     skos:prefLabel "NSL TaxonName Types"@en ;
     schema:creator <https://linked.data.gov.au/org/dcceew> ;
     schema:dateCreated "2025-05-20"^^xsd:date ;
-    schema:dateModified "2025-05-20"^^xsd:date ;
+    schema:dateModified "2025-08-15"^^xsd:date ;
     schema:license <http://purl.org/NET/rdflicense/cc-by4.0> ;
     schema:publisher <https://linked.data.gov.au/org/dcceew> ;
+    skos:hasTopConcept
+        :scientific ,
+        :common ,
+        :vernacular ,
+        :miscellaneous ,
+        :nominotypical ,
+        :autonym ,
+        :phrase-name ,
+        :named-hybrid ,
+        :hybrid-formula-parents-known ,
+        :cultivar-hybrid ,
+        :intergrade ,
+        :cultivar ,
+        :named-hybrid-autonym ,
+        :informal ,
+        :hybrid-formula-unknown-2nd-parent ,
+        :graft-chimera ;
 .

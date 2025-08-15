@@ -275,7 +275,22 @@ cs:
     skos:prefLabel "NSL TaxonNameUsage Types"@en ;
     schema:creator <https://linked.data.gov.au/org/dcceew> ;
     schema:dateCreated "2025-05-20"^^xsd:date ;
-    schema:dateModified "2025-05-20"^^xsd:date ;
+    schema:dateModified "2025-08-15"^^xsd:date ;
     schema:license <http://purl.org/NET/rdflicense/cc-by4.0> ;
     schema:publisher <https://linked.data.gov.au/org/dcceew> ;
+    skos:hasTopConcept
+        :valid-name ,
+        :alternative-name ,
+        :synonym ,
+        :replacement-name ,
+        :secondary-reference ,
+        :orthographic-variant ,
+        :basionym ,
+        :comb-nov ,
+        :isonym ,
+        :tax-nov ,
+        :autonym ,
+        :primary-reference ,
+        :nom-nov ,
+        :stat-nov ;
 .
