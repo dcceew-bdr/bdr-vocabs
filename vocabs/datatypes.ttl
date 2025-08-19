@@ -16,7 +16,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:inScheme cs: ;
     skos:prefLabel "WAM Number"@en ;
     skos:topConceptOf cs: ;
-    dcat:contactPoint orgs:wamuseum ;
+    dcat:contactPoint <https://linked.data.gov.au/org/wam> ;
 .
 
 :MERITProjectID
