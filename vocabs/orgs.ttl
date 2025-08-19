@@ -1,3 +1,4 @@
+PREFIX cs: <https://linked.data.gov.au/dataset/bdr/orgs>
 PREFIX schema: <https://schema.org/>
 PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
 PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
@@ -7,9 +8,9 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
         skos:Concept ,
         schema:Organization ;
     skos:definition "ACT Government"@en ;
-    skos:inScheme <https://linked.data.gov.au/dataset/bdr/orgs> ;
+    skos:inScheme cs: ;
     skos:prefLabel "ACT Government"@en ;
-    skos:topConceptOf <https://linked.data.gov.au/dataset/bdr/orgs> ;
+    skos:topConceptOf cs: ;
     schema:name "ACT Government" ;
     schema:url "https://www.act.gov.au"^^xsd:anyURI ;
 .
@@ -19,9 +20,9 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
         skos:Concept ,
         schema:Organization ;
     skos:definition "ACT Wildlife Atlas"@en ;
-    skos:inScheme <https://linked.data.gov.au/dataset/bdr/orgs> ;
+    skos:inScheme cs: ;
     skos:prefLabel "ACT Wildlife Atlas"@en ;
-    skos:topConceptOf <https://linked.data.gov.au/dataset/bdr/orgs> ;
+    skos:topConceptOf cs: ;
     schema:name "ACT Wildlife Atlas" ;
     schema:url "https://researchdata.edu.au/act-wildlife-atlas/3543262"^^xsd:anyURI ;
 .
@@ -31,10 +32,10 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
         skos:Concept ,
         schema:Organization ;
     skos:definition "Australian Museum"@en ;
-    skos:inScheme <https://linked.data.gov.au/dataset/bdr/orgs> ;
+    skos:inScheme cs: ;
     skos:notation "85 407 224 698"^^<http://id.loc.gov/vocabulary/identifiers/ausbn> ;
     skos:prefLabel "Australian Museum"@en ;
-    skos:topConceptOf <https://linked.data.gov.au/dataset/bdr/orgs> ;
+    skos:topConceptOf cs: ;
     schema:name "Australian Museum" ;
     schema:url "https://australian.museum"^^xsd:anyURI ;
 .
@@ -44,10 +45,10 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
         skos:Concept ,
         schema:Organization ;
     skos:definition "AMBS Ecology & Heritage"@en ;
-    skos:inScheme <https://linked.data.gov.au/dataset/bdr/orgs> ;
+    skos:inScheme cs: ;
     skos:notation "96 609 155 464"^^<http://id.loc.gov/vocabulary/identifiers/ausbn> ;
     skos:prefLabel "AMBS Ecology & Heritage"@en ;
-    skos:topConceptOf <https://linked.data.gov.au/dataset/bdr/orgs> ;
+    skos:topConceptOf cs: ;
     schema:name "AMBS Ecology & Heritage" ;
     schema:url "https://www.ambs.consulting"^^xsd:anyURI ;
 .
@@ -57,9 +58,9 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
         skos:Concept ,
         schema:Organization ;
     skos:definition "Australian Tropical Herbarium"@en ;
-    skos:inScheme <https://linked.data.gov.au/dataset/bdr/orgs> ;
+    skos:inScheme cs: ;
     skos:prefLabel "Australian Tropical Herbarium"@en ;
-    skos:topConceptOf <https://linked.data.gov.au/dataset/bdr/orgs> ;
+    skos:topConceptOf cs: ;
     schema:name "Australian Tropical Herbarium" ;
     schema:url "https://www.ath.org.au"^^xsd:anyURI ;
 .
@@ -69,10 +70,10 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
         skos:Concept ,
         schema:Organization ;
     skos:definition "Australian Wildlife Conservancy"@en ;
-    skos:inScheme <https://linked.data.gov.au/dataset/bdr/orgs> ;
+    skos:inScheme cs: ;
     skos:notation "36 068 572 556"^^<http://id.loc.gov/vocabulary/identifiers/ausbn> ;
     skos:prefLabel "Australian Wildlife Conservancy"@en ;
-    skos:topConceptOf <https://linked.data.gov.au/dataset/bdr/orgs> ;
+    skos:topConceptOf cs: ;
     schema:name "Australian Wildlife Conservancy" ;
     schema:url "https://www.australianwildlife.org"^^xsd:anyURI ;
 .
@@ -82,9 +83,9 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
         skos:Concept ,
         schema:Organization ;
     skos:definition "Auckland War Memorial Museum"@en ;
-    skos:inScheme <https://linked.data.gov.au/dataset/bdr/orgs> ;
+    skos:inScheme cs: ;
     skos:prefLabel "Auckland War Memorial Museum"@en ;
-    skos:topConceptOf <https://linked.data.gov.au/dataset/bdr/orgs> ;
+    skos:topConceptOf cs: ;
     schema:name "Auckland War Memorial Museum" ;
     schema:url "https://www.aucklandmuseum.com"^^xsd:anyURI ;
 .
@@ -94,9 +95,9 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
         skos:Concept ,
         schema:Organization ;
     skos:definition "Biological Databases of South Australia"@en ;
-    skos:inScheme <https://linked.data.gov.au/dataset/bdr/orgs> ;
+    skos:inScheme cs: ;
     skos:prefLabel "Biological Databases of South Australia"@en ;
-    skos:topConceptOf <https://linked.data.gov.au/dataset/bdr/orgs> ;
+    skos:topConceptOf cs: ;
     schema:name "Biological Databases of South Australia" ;
     schema:url "https://www.environment.sa.gov.au/topics/science/information-and-data/biological-databases-of-south-australia"^^xsd:anyURI ;
 .
@@ -106,10 +107,10 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
         skos:Concept ,
         schema:Organization ;
     skos:definition "BHP"@en ;
-    skos:inScheme <https://linked.data.gov.au/dataset/bdr/orgs> ;
+    skos:inScheme cs: ;
     skos:notation "57 071 987 669"^^<http://id.loc.gov/vocabulary/identifiers/ausbn> ;
     skos:prefLabel "BHP"@en ;
-    skos:topConceptOf <https://linked.data.gov.au/dataset/bdr/orgs> ;
+    skos:topConceptOf cs: ;
     schema:name "BHP" ;
     schema:url "https://www.bhp.com"^^xsd:anyURI ;
 .
@@ -120,10 +121,10 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
         schema:Organization ;
     skos:definition "Australian Bird science and conservation organisation."@en ;
     skos:historyNote "Added by BDR Admin for the use in the BDR, from AGLDWG Orgs Catalogue https://catalogue.linked.data.gov.au/index.php/org/birdlife" ;
-    skos:inScheme <https://linked.data.gov.au/dataset/bdr/orgs> ;
+    skos:inScheme cs: ;
     skos:notation "75 149 124 774"^^<http://id.loc.gov/vocabulary/identifiers/ausbn> ;
     skos:prefLabel "BirdLife Australia"@en ;
-    skos:topConceptOf <https://linked.data.gov.au/dataset/bdr/orgs> ;
+    skos:topConceptOf cs: ;
     schema:name "BirdLife Australia" ;
     schema:url "https://birdlife.org.au"^^xsd:anyURI ;
 .
@@ -133,9 +134,9 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
         skos:Concept ,
         schema:Organization ;
     skos:definition "Centre for Australian National Biodiversity Research"@en ;
-    skos:inScheme <https://linked.data.gov.au/dataset/bdr/orgs> ;
+    skos:inScheme cs: ;
     skos:prefLabel "Centre for Australian National Biodiversity Research"@en ;
-    skos:topConceptOf <https://linked.data.gov.au/dataset/bdr/orgs> ;
+    skos:topConceptOf cs: ;
     schema:name "Centre for Australian National Biodiversity Research" ;
     schema:url "https://www.anbg.gov.au/cpbr/"^^xsd:anyURI ;
 .
@@ -145,9 +146,9 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
         skos:Concept ,
         schema:Organization ;
     skos:definition "CSIRO"@en ;
-    skos:inScheme <https://linked.data.gov.au/dataset/bdr/orgs> ;
+    skos:inScheme cs: ;
     skos:prefLabel "CSIRO"@en ;
-    skos:topConceptOf <https://linked.data.gov.au/dataset/bdr/orgs> ;
+    skos:topConceptOf cs: ;
     schema:name "CSIRO" ;
     schema:url "https://www.csiro.au"^^xsd:anyURI ;
 .
@@ -157,9 +158,9 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
         skos:Concept ,
         schema:Organization ;
     skos:definition "WA Department of Agriculture and Food"@en ;
-    skos:inScheme <https://linked.data.gov.au/dataset/bdr/orgs> ;
+    skos:inScheme cs: ;
     skos:prefLabel "WA Department of Agriculture and Food"@en ;
-    skos:topConceptOf <https://linked.data.gov.au/dataset/bdr/orgs> ;
+    skos:topConceptOf cs: ;
     schema:name "WA Department of Agriculture and Food" ;
     schema:url "https://www.dpird.wa.gov.au"^^xsd:anyURI ;
 .
@@ -169,10 +170,10 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
         skos:Concept ,
         schema:Organization ;
     skos:definition "Gaia Resources"@en ;
-    skos:inScheme <https://linked.data.gov.au/dataset/bdr/orgs> ;
+    skos:inScheme cs: ;
     skos:notation "94 119 508 824"^^<http://id.loc.gov/vocabulary/identifiers/ausbn> ;
     skos:prefLabel "Gaia Resources"@en ;
-    skos:topConceptOf <https://linked.data.gov.au/dataset/bdr/orgs> ;
+    skos:topConceptOf cs: ;
     schema:name "Gaia Resources" ;
     schema:url "https://www.gaiaresources.com.au"^^xsd:anyURI ;
 .
@@ -182,10 +183,10 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
         skos:Concept ,
         schema:Organization ;
     skos:definition "James Cook University"@en ;
-    skos:inScheme <https://linked.data.gov.au/dataset/bdr/orgs> ;
+    skos:inScheme cs: ;
     skos:notation "46 253 211 955"^^<http://id.loc.gov/vocabulary/identifiers/ausbn> ;
     skos:prefLabel "James Cook University"@en ;
-    skos:topConceptOf <https://linked.data.gov.au/dataset/bdr/orgs> ;
+    skos:topConceptOf cs: ;
     schema:name "James Cook University" ;
     schema:url "https://www.jcu.edu.au"^^xsd:anyURI ;
 .
@@ -195,10 +196,10 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
         skos:Concept ,
         schema:Organization ;
     skos:definition "La Trobe University"@en ;
-    skos:inScheme <https://linked.data.gov.au/dataset/bdr/orgs> ;
+    skos:inScheme cs: ;
     skos:notation "64 804 735 113"^^<http://id.loc.gov/vocabulary/identifiers/ausbn> ;
     skos:prefLabel "La Trobe University"@en ;
-    skos:topConceptOf <https://linked.data.gov.au/dataset/bdr/orgs> ;
+    skos:topConceptOf cs: ;
     schema:name "La Trobe University" ;
     schema:url "https://www.latrobe.edu.au"^^xsd:anyURI ;
 .
@@ -208,10 +209,10 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
         skos:Concept ,
         schema:Organization ;
     skos:definition "MJD Environmental"@en ;
-    skos:inScheme <https://linked.data.gov.au/dataset/bdr/orgs> ;
+    skos:inScheme cs: ;
     skos:notation "58 609 765 693"^^<http://id.loc.gov/vocabulary/identifiers/ausbn> ;
     skos:prefLabel "MJD Environmental"@en ;
-    skos:topConceptOf <https://linked.data.gov.au/dataset/bdr/orgs> ;
+    skos:topConceptOf cs: ;
     schema:name "MJD Environmental" ;
     schema:url "https://www.mjdenvironmental.com"^^xsd:anyURI ;
 .
@@ -221,10 +222,10 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
         skos:Concept ,
         schema:Organization ;
     skos:definition "Museums Victoria"@en ;
-    skos:inScheme <https://linked.data.gov.au/dataset/bdr/orgs> ;
+    skos:inScheme cs: ;
     skos:notation "63 640 679 155"^^<http://id.loc.gov/vocabulary/identifiers/ausbn> ;
     skos:prefLabel "Museums Victoria"@en ;
-    skos:topConceptOf <https://linked.data.gov.au/dataset/bdr/orgs> ;
+    skos:topConceptOf cs: ;
     schema:name "Museums Victoria" ;
     schema:url "https://museumsvictoria.com.au"^^xsd:anyURI ;
 .
@@ -234,9 +235,9 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
         skos:Concept ,
         schema:Organization ;
     skos:definition "Manaaki Whenua – Landcare Research"@en ;
-    skos:inScheme <https://linked.data.gov.au/dataset/bdr/orgs> ;
+    skos:inScheme cs: ;
     skos:prefLabel "Manaaki Whenua – Landcare Research"@en ;
-    skos:topConceptOf <https://linked.data.gov.au/dataset/bdr/orgs> ;
+    skos:topConceptOf cs: ;
     schema:name "Manaaki Whenua – Landcare Research" ;
     schema:url "https://www.landcareresearch.co.nz"^^xsd:anyURI ;
 .
@@ -246,10 +247,10 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
         skos:Concept ,
         schema:Organization ;
     skos:definition "NPANSW"@en ;
-    skos:inScheme <https://linked.data.gov.au/dataset/bdr/orgs> ;
+    skos:inScheme cs: ;
     skos:notation "67 694 961 955"^^<http://id.loc.gov/vocabulary/identifiers/ausbn> ;
     skos:prefLabel "NPANSW"@en ;
-    skos:topConceptOf <https://linked.data.gov.au/dataset/bdr/orgs> ;
+    skos:topConceptOf cs: ;
     schema:name "NPANSW" ;
     schema:url "https://npansw.org.au"^^xsd:anyURI ;
 .
@@ -259,9 +260,9 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
         skos:Concept ,
         schema:Organization ;
     skos:definition "NSW BioNet"@en ;
-    skos:inScheme <https://linked.data.gov.au/dataset/bdr/orgs> ;
+    skos:inScheme cs: ;
     skos:prefLabel "NSW BioNet"@en ;
-    skos:topConceptOf <https://linked.data.gov.au/dataset/bdr/orgs> ;
+    skos:topConceptOf cs: ;
     schema:name "NSW BioNet" ;
     schema:url "https://www.environment.nsw.gov.au/topics/animals-and-plants/biodiversity/nsw-bionet"^^xsd:anyURI ;
 .
@@ -271,9 +272,9 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
         skos:Concept ,
         schema:Organization ;
     skos:definition "NSW Department of Primary Industries Forests"@en ;
-    skos:inScheme <https://linked.data.gov.au/dataset/bdr/orgs> ;
+    skos:inScheme cs: ;
     skos:prefLabel "NSW Department of Primary Industries Forests"@en ;
-    skos:topConceptOf <https://linked.data.gov.au/dataset/bdr/orgs> ;
+    skos:topConceptOf cs: ;
     schema:name "NSW Department of Primary Industries Forests" ;
     schema:url "https://www.dpi.nsw.gov.au/forestry"^^xsd:anyURI ;
 .
@@ -283,10 +284,10 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
         skos:Concept ,
         schema:Organization ;
     skos:definition "NSW Department of Climate Change, Energy, the Environment and Water"@en ;
-    skos:inScheme <https://linked.data.gov.au/dataset/bdr/orgs> ;
+    skos:inScheme cs: ;
     skos:notation "27 578 976 844"^^<http://id.loc.gov/vocabulary/identifiers/ausbn> ;
     skos:prefLabel "NSW Department of Climate Change, Energy, the Environment and Water"@en ;
-    skos:topConceptOf <https://linked.data.gov.au/dataset/bdr/orgs> ;
+    skos:topConceptOf cs: ;
     schema:name "NSW Department of Climate Change, Energy, the Environment and Water" ;
     schema:url "https://www.nsw.gov.au/departments-and-agencies/dcceew"^^xsd:anyURI ;
 .
@@ -296,9 +297,9 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
         skos:Concept ,
         schema:Organization ;
     skos:definition "NSW Dept of Planning and Environment"@en ;
-    skos:inScheme <https://linked.data.gov.au/dataset/bdr/orgs> ;
+    skos:inScheme cs: ;
     skos:prefLabel "NSW Dept of Planning and Environment"@en ;
-    skos:topConceptOf <https://linked.data.gov.au/dataset/bdr/orgs> ;
+    skos:topConceptOf cs: ;
     schema:name "NSW Dept of Planning and Environment" ;
     schema:url "https://www.dpie.nsw.gov.au"^^xsd:anyURI ;
 .
@@ -308,9 +309,9 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
         skos:Concept ,
         schema:Organization ;
     skos:definition "NSW Dept of Planning Industry and Environment"@en ;
-    skos:inScheme <https://linked.data.gov.au/dataset/bdr/orgs> ;
+    skos:inScheme cs: ;
     skos:prefLabel "NSW Dept of Planning Industry and Environment"@en ;
-    skos:topConceptOf <https://linked.data.gov.au/dataset/bdr/orgs> ;
+    skos:topConceptOf cs: ;
     schema:name "NSW Dept of Planning Industry and Environment" ;
     schema:url "https://www.dpie.nsw.gov.au"^^xsd:anyURI ;
 .
@@ -320,10 +321,10 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
         skos:Concept ,
         schema:Organization ;
     skos:definition "NSW National Parks and Wildlife Service"@en ;
-    skos:inScheme <https://linked.data.gov.au/dataset/bdr/orgs> ;
+    skos:inScheme cs: ;
     skos:notation "27 578 976 844"^^<http://id.loc.gov/vocabulary/identifiers/ausbn> ;
     skos:prefLabel "NSW National Parks and Wildlife Service"@en ;
-    skos:topConceptOf <https://linked.data.gov.au/dataset/bdr/orgs> ;
+    skos:topConceptOf cs: ;
     schema:name "NSW National Parks and Wildlife Service" ;
     schema:url "https://www.nationalparks.nsw.gov.au"^^xsd:anyURI ;
 .
@@ -333,9 +334,9 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
         skos:Concept ,
         schema:Organization ;
     skos:definition "NT Fauna Atlas"@en ;
-    skos:inScheme <https://linked.data.gov.au/dataset/bdr/orgs> ;
+    skos:inScheme cs: ;
     skos:prefLabel "NT Fauna Atlas"@en ;
-    skos:topConceptOf <https://linked.data.gov.au/dataset/bdr/orgs> ;
+    skos:topConceptOf cs: ;
     schema:name "NT Fauna Atlas" ;
     schema:url "https://data.nt.gov.au/dataset/nt-fauna-atlas"^^xsd:anyURI ;
 .
@@ -345,9 +346,9 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
         skos:Concept ,
         schema:Organization ;
     skos:definition "Northern-Territory Department of Infrastructure Planning and Environment"@en ;
-    skos:inScheme <https://linked.data.gov.au/dataset/bdr/orgs> ;
+    skos:inScheme cs: ;
     skos:prefLabel "Northern-Territory Department of Infrastructure Planning and Environment"@en ;
-    skos:topConceptOf <https://linked.data.gov.au/dataset/bdr/orgs> ;
+    skos:topConceptOf cs: ;
     schema:name "Northern-Territory Department of Infrastructure Planning and Environment" ;
     schema:url "https://environment.nt.gov.au"^^xsd:anyURI ;
 .
@@ -357,10 +358,10 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
         skos:Concept ,
         schema:Organization ;
     skos:definition "NT Department of Lands Planning and Environment"@en ;
-    skos:inScheme <https://linked.data.gov.au/dataset/bdr/orgs> ;
+    skos:inScheme cs: ;
     skos:notation "84 085 734 992"^^<http://id.loc.gov/vocabulary/identifiers/ausbn> ;
     skos:prefLabel "NT Department of Lands Planning and Environment"@en ;
-    skos:topConceptOf <https://linked.data.gov.au/dataset/bdr/orgs> ;
+    skos:topConceptOf cs: ;
     schema:name "NT Department of Lands Planning and Environment" ;
     schema:url "https://environment.nt.gov.au"^^xsd:anyURI ;
 .
@@ -370,9 +371,9 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
         skos:Concept ,
         schema:Organization ;
     skos:definition "NT Department of Land Resource Management"@en ;
-    skos:inScheme <https://linked.data.gov.au/dataset/bdr/orgs> ;
+    skos:inScheme cs: ;
     skos:prefLabel "NT Department of Land Resource Management"@en ;
-    skos:topConceptOf <https://linked.data.gov.au/dataset/bdr/orgs> ;
+    skos:topConceptOf cs: ;
     schema:name "NT Department of Land Resource Management" ;
     schema:url "https://environment.nt.gov.au"^^xsd:anyURI ;
 .
@@ -382,9 +383,9 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
         skos:Concept ,
         schema:Organization ;
     skos:definition "NT Herbarium"@en ;
-    skos:inScheme <https://linked.data.gov.au/dataset/bdr/orgs> ;
+    skos:inScheme cs: ;
     skos:prefLabel "NT Herbarium"@en ;
-    skos:topConceptOf <https://linked.data.gov.au/dataset/bdr/orgs> ;
+    skos:topConceptOf cs: ;
     schema:name "NT Herbarium" ;
     schema:url "https://nt.gov.au/environment/native-plants/native-plants-and-nt-herbarium"^^xsd:anyURI ;
 .
@@ -394,10 +395,10 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
         skos:Concept ,
         schema:Organization ;
     skos:definition "Queensland Department of Agriculture and Fisheries"@en ;
-    skos:inScheme <https://linked.data.gov.au/dataset/bdr/orgs> ;
+    skos:inScheme cs: ;
     skos:notation "66 934 348 189"^^<http://id.loc.gov/vocabulary/identifiers/ausbn> ;
     skos:prefLabel "Queensland Department of Agriculture and Fisheries"@en ;
-    skos:topConceptOf <https://linked.data.gov.au/dataset/bdr/orgs> ;
+    skos:topConceptOf cs: ;
     schema:name "Queensland Department of Agriculture and Fisheries" ;
     schema:url "https://www.dpi.qld.gov.au"^^xsd:anyURI ;
 .
@@ -407,10 +408,10 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
         skos:Concept ,
         schema:Organization ;
     skos:definition "Queen Victoria Museum & Art Gallery"@en ;
-    skos:inScheme <https://linked.data.gov.au/dataset/bdr/orgs> ;
+    skos:inScheme cs: ;
     skos:notation "73 149 070 625"^^<http://id.loc.gov/vocabulary/identifiers/ausbn> ;
     skos:prefLabel "Queen Victoria Museum & Art Gallery"@en ;
-    skos:topConceptOf <https://linked.data.gov.au/dataset/bdr/orgs> ;
+    skos:topConceptOf cs: ;
     schema:name "Queen Victoria Museum & Art Gallery" ;
     schema:url "https://www.qvmag.tas.gov.au"^^xsd:anyURI ;
 .
@@ -420,9 +421,9 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
         skos:Concept ,
         schema:Organization ;
     skos:definition "Royal Botanic Gardens and Domain Trust"@en ;
-    skos:inScheme <https://linked.data.gov.au/dataset/bdr/orgs> ;
+    skos:inScheme cs: ;
     skos:prefLabel "Royal Botanic Gardens and Domain Trust"@en ;
-    skos:topConceptOf <https://linked.data.gov.au/dataset/bdr/orgs> ;
+    skos:topConceptOf cs: ;
     schema:name "Royal Botanic Gardens and Domain Trust" ;
     schema:url "https://www.service.nsw.gov.au/nswgovdirectory/royal-botanic-gardens-and-domain-trust-the"^^xsd:anyURI ;
 .
@@ -432,9 +433,9 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
         skos:Concept ,
         schema:Organization ;
     skos:definition "Royal Botanic Gardens Victoria"@en ;
-    skos:inScheme <https://linked.data.gov.au/dataset/bdr/orgs> ;
+    skos:inScheme cs: ;
     skos:prefLabel "Royal Botanic Gardens Victoria"@en ;
-    skos:topConceptOf <https://linked.data.gov.au/dataset/bdr/orgs> ;
+    skos:topConceptOf cs: ;
     schema:name "Royal Botanic Gardens Victoria" ;
     schema:url "https://www.rbg.vic.gov.au"^^xsd:anyURI ;
 .
@@ -444,10 +445,10 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
         skos:Concept ,
         schema:Organization ;
     skos:definition "Rio Tinto"@en ;
-    skos:inScheme <https://linked.data.gov.au/dataset/bdr/orgs> ;
+    skos:inScheme cs: ;
     skos:notation "96 004 458 404"^^<http://id.loc.gov/vocabulary/identifiers/ausbn> ;
     skos:prefLabel "Rio Tinto"@en ;
-    skos:topConceptOf <https://linked.data.gov.au/dataset/bdr/orgs> ;
+    skos:topConceptOf cs: ;
     schema:name "Rio Tinto" ;
     schema:url "https://www.riotinto.com"^^xsd:anyURI ;
 .
@@ -457,9 +458,9 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
         skos:Concept ,
         schema:Organization ;
     skos:definition "SA Department for Environment and Water"@en ;
-    skos:inScheme <https://linked.data.gov.au/dataset/bdr/orgs> ;
+    skos:inScheme cs: ;
     skos:prefLabel "SA Department for Environment and Water"@en ;
-    skos:topConceptOf <https://linked.data.gov.au/dataset/bdr/orgs> ;
+    skos:topConceptOf cs: ;
     schema:name "SA Department for Environment and Water" ;
     schema:url "https://www.environment.sa.gov.au"^^xsd:anyURI ;
 .
@@ -469,10 +470,10 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
         skos:Concept ,
         schema:Organization ;
     skos:definition "SA Department for Environment and Water"@en ;
-    skos:inScheme <https://linked.data.gov.au/dataset/bdr/orgs> ;
+    skos:inScheme cs: ;
     skos:notation "36 702 093 234"^^<http://id.loc.gov/vocabulary/identifiers/ausbn> ;
     skos:prefLabel "SA Department for Environment and Water"@en ;
-    skos:topConceptOf <https://linked.data.gov.au/dataset/bdr/orgs> ;
+    skos:topConceptOf cs: ;
     schema:name "SA Department for Environment and Water" ;
     schema:url "https://www.environment.sa.gov.au"^^xsd:anyURI ;
 .
@@ -482,9 +483,9 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
         skos:Concept ,
         schema:Organization ;
     skos:definition "State Herbarium of South Australia"@en ;
-    skos:inScheme <https://linked.data.gov.au/dataset/bdr/orgs> ;
+    skos:inScheme cs: ;
     skos:prefLabel "State Herbarium of South Australia"@en ;
-    skos:topConceptOf <https://linked.data.gov.au/dataset/bdr/orgs> ;
+    skos:topConceptOf cs: ;
     schema:name "State Herbarium of South Australia" ;
     schema:url "https://www.botanicgardens.sa.gov.au/science/research/state-herbarium"^^xsd:anyURI ;
 .
@@ -494,10 +495,10 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
         skos:Concept ,
         schema:Organization ;
     skos:definition "South Australian Museum"@en ;
-    skos:inScheme <https://linked.data.gov.au/dataset/bdr/orgs> ;
+    skos:inScheme cs: ;
     skos:notation "39 808 959 302"^^<http://id.loc.gov/vocabulary/identifiers/ausbn> ;
     skos:prefLabel "South Australian Museum"@en ;
-    skos:topConceptOf <https://linked.data.gov.au/dataset/bdr/orgs> ;
+    skos:topConceptOf cs: ;
     schema:name "South Australian Museum" ;
     schema:url "https://www.samuseum.sa.gov.au"^^xsd:anyURI ;
 .
@@ -507,9 +508,9 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
         skos:Concept ,
         schema:Organization ;
     skos:definition "Science for Wildlife"@en ;
-    skos:inScheme <https://linked.data.gov.au/dataset/bdr/orgs> ;
+    skos:inScheme cs: ;
     skos:prefLabel "Science for Wildlife"@en ;
-    skos:topConceptOf <https://linked.data.gov.au/dataset/bdr/orgs> ;
+    skos:topConceptOf cs: ;
     schema:name "Science for Wildlife" ;
     schema:url "https://www.scienceforwildlife.org"^^xsd:anyURI ;
 .
@@ -519,9 +520,9 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
         skos:Concept ,
         schema:Organization ;
     skos:definition "Scion Crown Research Institute of NZ"@en ;
-    skos:inScheme <https://linked.data.gov.au/dataset/bdr/orgs> ;
+    skos:inScheme cs: ;
     skos:prefLabel "Scion Crown Research Institute of NZ"@en ;
-    skos:topConceptOf <https://linked.data.gov.au/dataset/bdr/orgs> ;
+    skos:topConceptOf cs: ;
     schema:name "Scion Crown Research Institute of NZ" ;
     schema:url "https://www.scionresearch.com"^^xsd:anyURI ;
 .
@@ -531,10 +532,10 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
         skos:Concept ,
         schema:Organization ;
     skos:definition "Sydney Fungal Studies Group"@en ;
-    skos:inScheme <https://linked.data.gov.au/dataset/bdr/orgs> ;
+    skos:inScheme cs: ;
     skos:notation "76 384 308 862"^^<http://id.loc.gov/vocabulary/identifiers/ausbn> ;
     skos:prefLabel "Sydney Fungal Studies Group"@en ;
-    skos:topConceptOf <https://linked.data.gov.au/dataset/bdr/orgs> ;
+    skos:topConceptOf cs: ;
     schema:name "Sydney Fungal Studies Group" ;
     schema:url "https://www.sydneyfungalstudies.org.au"^^xsd:anyURI ;
 .
@@ -544,9 +545,9 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
         skos:Concept ,
         schema:Organization ;
     skos:definition "Museum of New Zealand Te Papa Tongarewa"@en ;
-    skos:inScheme <https://linked.data.gov.au/dataset/bdr/orgs> ;
+    skos:inScheme cs: ;
     skos:prefLabel "Museum of New Zealand Te Papa Tongarewa"@en ;
-    skos:topConceptOf <https://linked.data.gov.au/dataset/bdr/orgs> ;
+    skos:topConceptOf cs: ;
     schema:name "Museum of New Zealand Te Papa Tongarewa" ;
     schema:url "https://www.tepapa.govt.nz"^^xsd:anyURI ;
 .
@@ -557,9 +558,9 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
         schema:Organisation ;
     skos:definition "Terrestrial Ecosystems Research Network"@en ;
     skos:historyNote "From AGLDWG Orgs Catalogue https://catalogue.linked.data.gov.au/index.php/org/tern" ;
-    skos:inScheme <https://linked.data.gov.au/dataset/bdr/orgs> ;
+    skos:inScheme cs: ;
     skos:prefLabel "Terrestrial Ecosystems Research Network"@en ;
-    skos:topConceptOf <https://linked.data.gov.au/dataset/bdr/orgs> ;
+    skos:topConceptOf cs: ;
     schema:description "Australia’s land ecosystem observatory." ;
     schema:name "Terrestrial Ecosystems Research Network" ;
     schema:url "https://tern.org.au"^^xsd:anyURI ;
@@ -570,10 +571,10 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
         skos:Concept ,
         schema:Organization ;
     skos:definition "Tasmanian Museum and Art Gallery"@en ;
-    skos:inScheme <https://linked.data.gov.au/dataset/bdr/orgs> ;
+    skos:inScheme cs: ;
     skos:notation "17 334 217 592"^^<http://id.loc.gov/vocabulary/identifiers/ausbn> ;
     skos:prefLabel "Tasmanian Museum and Art Gallery"@en ;
-    skos:topConceptOf <https://linked.data.gov.au/dataset/bdr/orgs> ;
+    skos:topConceptOf cs: ;
     schema:name "Tasmanian Museum and Art Gallery" ;
     schema:url "https://www.tmag.tas.gov.au"^^xsd:anyURI ;
 .
@@ -583,10 +584,10 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
         skos:Concept ,
         schema:Organization ;
     skos:definition "University of Adelaide"@en ;
-    skos:inScheme <https://linked.data.gov.au/dataset/bdr/orgs> ;
+    skos:inScheme cs: ;
     skos:notation "61 249 878 937"^^<http://id.loc.gov/vocabulary/identifiers/ausbn> ;
     skos:prefLabel "University of Adelaide"@en ;
-    skos:topConceptOf <https://linked.data.gov.au/dataset/bdr/orgs> ;
+    skos:topConceptOf cs: ;
     schema:name "University of Adelaide" ;
     schema:url "https://www.adelaide.edu.au"^^xsd:anyURI ;
 .
@@ -596,10 +597,10 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
         skos:Concept ,
         schema:Organization ;
     skos:definition "Umwelt Australia Pty Ltd"@en ;
-    skos:inScheme <https://linked.data.gov.au/dataset/bdr/orgs> ;
+    skos:inScheme cs: ;
     skos:notation "18 059 519 041"^^<http://id.loc.gov/vocabulary/identifiers/ausbn> ;
     skos:prefLabel "Umwelt Australia Pty Ltd"@en ;
-    skos:topConceptOf <https://linked.data.gov.au/dataset/bdr/orgs> ;
+    skos:topConceptOf cs: ;
     schema:name "Umwelt Australia Pty Ltd" ;
     schema:url "https://www.umwelt.com.au"^^xsd:anyURI ;
 .
@@ -609,10 +610,10 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
         skos:Concept ,
         schema:Organization ;
     skos:definition "University of New England"@en ;
-    skos:inScheme <https://linked.data.gov.au/dataset/bdr/orgs> ;
+    skos:inScheme cs: ;
     skos:notation "75 792 454 315"^^<http://id.loc.gov/vocabulary/identifiers/ausbn> ;
     skos:prefLabel "University of New England"@en ;
-    skos:topConceptOf <https://linked.data.gov.au/dataset/bdr/orgs> ;
+    skos:topConceptOf cs: ;
     schema:name "University of New England" ;
     schema:url "https://www.une.edu.au"^^xsd:anyURI ;
 .
@@ -622,10 +623,10 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
         skos:Concept ,
         schema:Organization ;
     skos:definition "The University of NSW"@en ;
-    skos:inScheme <https://linked.data.gov.au/dataset/bdr/orgs> ;
+    skos:inScheme cs: ;
     skos:notation "57 195 873 179"^^<http://id.loc.gov/vocabulary/identifiers/ausbn> ;
     skos:prefLabel "The University of NSW"@en ;
-    skos:topConceptOf <https://linked.data.gov.au/dataset/bdr/orgs> ;
+    skos:topConceptOf cs: ;
     schema:name "The University of NSW" ;
     schema:url "https://www.unsw.edu.au"^^xsd:anyURI ;
 .
@@ -635,9 +636,9 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
         skos:Concept ,
         schema:Organization ;
     skos:definition "The University of Melbourne"@en ;
-    skos:inScheme <https://linked.data.gov.au/dataset/bdr/orgs> ;
+    skos:inScheme cs: ;
     skos:prefLabel "The University of Melbourne"@en ;
-    skos:topConceptOf <https://linked.data.gov.au/dataset/bdr/orgs> ;
+    skos:topConceptOf cs: ;
     schema:name "The University of Melbourne" ;
     schema:url "https://www.unimelb.edu.au"^^xsd:anyURI ;
 .
@@ -647,9 +648,9 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
         skos:Concept ,
         schema:Organization ;
     skos:definition "Vic Department of Energy, Environment and Climate Action"@en ;
-    skos:inScheme <https://linked.data.gov.au/dataset/bdr/orgs> ;
+    skos:inScheme cs: ;
     skos:prefLabel "Vic Department of Energy, Environment and Climate Action"@en ;
-    skos:topConceptOf <https://linked.data.gov.au/dataset/bdr/orgs> ;
+    skos:topConceptOf cs: ;
     schema:name "Vic Department of Energy, Environment and Climate Action" ;
     schema:url "https://www.deeca.vic.gov.au"^^xsd:anyURI ;
 .
@@ -659,9 +660,9 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
         skos:Concept ,
         schema:Organization ;
     skos:definition "WA Biodiversity Information Office"@en ;
-    skos:inScheme <https://linked.data.gov.au/dataset/bdr/orgs> ;
+    skos:inScheme cs: ;
     skos:prefLabel "WA Biodiversity Information Office"@en ;
-    skos:topConceptOf <https://linked.data.gov.au/dataset/bdr/orgs> ;
+    skos:topConceptOf cs: ;
     schema:name "WA Biodiversity Information Office" ;
     schema:url "https://bio.wa.gov.au"^^xsd:anyURI ;
 .
@@ -671,10 +672,10 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
         skos:Concept ,
         schema:Organization ;
     skos:definition "WA Department of Biodiversity, Conservation and Attractions"@en ;
-    skos:inScheme <https://linked.data.gov.au/dataset/bdr/orgs> ;
+    skos:inScheme cs: ;
     skos:notation "38 052 249 024"^^<http://id.loc.gov/vocabulary/identifiers/ausbn> ;
     skos:prefLabel "WA Department of Biodiversity, Conservation and Attractions"@en ;
-    skos:topConceptOf <https://linked.data.gov.au/dataset/bdr/orgs> ;
+    skos:topConceptOf cs: ;
     schema:name "WA Department of Biodiversity, Conservation and Attractions" ;
     schema:url "https://www.dbca.wa.gov.au"^^xsd:anyURI ;
 .
@@ -684,9 +685,9 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
         skos:Concept ,
         schema:Organization ;
     skos:definition "WA Herbarium"@en ;
-    skos:inScheme <https://linked.data.gov.au/dataset/bdr/orgs> ;
+    skos:inScheme cs: ;
     skos:prefLabel "WA Herbarium"@en ;
-    skos:topConceptOf <https://linked.data.gov.au/dataset/bdr/orgs> ;
+    skos:topConceptOf cs: ;
     schema:name "WA Herbarium" ;
     schema:url "https://www.dbca.wa.gov.au/science/research-tools-and-repositories/western-australian-herbarium"^^xsd:anyURI ;
 .
@@ -696,9 +697,9 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
         skos:Concept ,
         schema:Organization ;
     skos:definition "Western Australian Biodiversity Science Institute"@en ;
-    skos:inScheme <https://linked.data.gov.au/dataset/bdr/orgs> ;
+    skos:inScheme cs: ;
     skos:prefLabel "Western Australian Biodiversity Science Institute"@en ;
-    skos:topConceptOf <https://linked.data.gov.au/dataset/bdr/orgs> ;
+    skos:topConceptOf cs: ;
     schema:name "Western Australian Biodiversity Science Institute" ;
     schema:url "https://wabsi.org.au"^^xsd:anyURI ;
 .
@@ -708,10 +709,10 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
         skos:Concept ,
         schema:Organization ;
     skos:definition "Western Australian Museum"@en ;
-    skos:inScheme <https://linked.data.gov.au/dataset/bdr/orgs> ;
+    skos:inScheme cs: ;
     skos:notation "95 249 517 733"^^<http://id.loc.gov/vocabulary/identifiers/ausbn> ;
     skos:prefLabel "Western Australian Museum"@en ;
-    skos:topConceptOf <https://linked.data.gov.au/dataset/bdr/orgs> ;
+    skos:topConceptOf cs: ;
     schema:name "Western Australian Museum" ;
     schema:url "https://visit.museum.wa.gov.au"^^xsd:anyURI ;
 .
@@ -721,14 +722,14 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
         skos:Concept ,
         schema:Organization ;
     skos:definition "Western Shield"@en ;
-    skos:inScheme <https://linked.data.gov.au/dataset/bdr/orgs> ;
+    skos:inScheme cs: ;
     skos:prefLabel "Western Shield"@en ;
-    skos:topConceptOf <https://linked.data.gov.au/dataset/bdr/orgs> ;
+    skos:topConceptOf cs: ;
     schema:name "Western Shield" ;
     schema:url "http://www.dbca.wa.gov.au/management/threat-management/invasive-animals/western-shield"^^xsd:anyURI ;
 .
 
-<https://linked.data.gov.au/dataset/bdr/orgs>
+cs:
     a skos:ConceptScheme ;
     skos:definition "Organisations known to own & submit data to the Biodiversity Date Repository"@en ;
     skos:hasTopConcept
@@ -791,8 +792,9 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
         <https://linked.data.gov.au/org/wam> ,
         <https://linked.data.gov.au/org/western-shield> ;
     skos:historyNote
-        "Added from data supplied to tne BDR from jurisdictions via https://submit.bdr.gov.au in mid-2025" ,
-        "This vocabulary was developed for the Biodiversity Data Repository and is live in that it grows with new data submissions from new organisations" ;
+        """2025-08: Added from data supplied to the BDR from jurisdictions via https://submit.bdr.gov.au in mid-2025" ,
+
+This vocabulary was initially developed for the Biodiversity Data Repository and is live in that it grows with new data submissions from new organisations""" ;
     skos:prefLabel "BDR Organisations"@en ;
     schema:creator <https://linked.data.gov.au/org/dcceew> ;
     schema:dateCreated "2024-07-09"^^xsd:date ;
