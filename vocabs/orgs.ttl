@@ -7,7 +7,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     a
         skos:Concept ,
         schema:Organization ;
-    skos:definition "ACT Government"@en ;
+    skos:definition "The government of the Australian Capital Territory."@en ;
     skos:inScheme cs: ;
     skos:prefLabel "ACT Government"@en ;
     skos:topConceptOf cs: ;
@@ -19,7 +19,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     a
         skos:Concept ,
         schema:Organization ;
-    skos:definition "ACT Wildlife Atlas"@en ;
+    skos:definition "This spatial dataset maps the location of wildlife records held within the ACT Wildlife Atlas up until December 2014. Records include mammals, fish, amphibians, invertebrates, reptiles and birds."@en ;
     skos:inScheme cs: ;
     skos:prefLabel "ACT Wildlife Atlas"@en ;
     skos:topConceptOf cs: ;
@@ -31,7 +31,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     a
         skos:Concept ,
         schema:Organization ;
-    skos:definition "Australian Museum"@en ;
+    skos:definition "The Australian Museum is an NSW Government organisation operating under the Department of Creative Industries"@en ;
     skos:inScheme cs: ;
     skos:notation "85 407 224 698"^^<http://id.loc.gov/vocabulary/identifiers/ausbn> ;
     skos:prefLabel "Australian Museum"@en ;
@@ -44,7 +44,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     a
         skos:Concept ,
         schema:Organization ;
-    skos:definition "AMBS Ecology & Heritage"@en ;
+    skos:definition "AMBS Ecology & Heritage is a specialist consultancy providing expert advice and services in Aboriginal and historic heritage and archaeology"@en ;
     skos:inScheme cs: ;
     skos:notation "96 609 155 464"^^<http://id.loc.gov/vocabulary/identifiers/ausbn> ;
     skos:prefLabel "AMBS Ecology & Heritage"@en ;
@@ -57,7 +57,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     a
         skos:Concept ,
         schema:Organization ;
-    skos:definition "Australian Tropical Herbarium"@en ;
+    skos:definition "As Australia’s only university established to focus on the issues of Northern Australia and the Tropics worldwide"@en ;
     skos:inScheme cs: ;
     skos:prefLabel "Australian Tropical Herbarium"@en ;
     skos:topConceptOf cs: ;
@@ -69,7 +69,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     a
         skos:Concept ,
         schema:Organization ;
-    skos:definition "Australian Wildlife Conservancy"@en ;
+    skos:definition "Australian Wildlife Conservancy (AWC) protects Australia's unique wildlife through science"@en ;
     skos:inScheme cs: ;
     skos:notation "36 068 572 556"^^<http://id.loc.gov/vocabulary/identifiers/ausbn> ;
     skos:prefLabel "Australian Wildlife Conservancy"@en ;
@@ -82,7 +82,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     a
         skos:Concept ,
         schema:Organization ;
-    skos:definition "Auckland War Memorial Museum"@en ;
+    skos:definition "The Museum is a war memorial for the province of Auckland and holds one of New Zealand's top three heritage libraries. It has pre-eminent Māori and Pacific collections"@en ;
     skos:inScheme cs: ;
     skos:prefLabel "Auckland War Memorial Museum"@en ;
     skos:topConceptOf cs: ;
@@ -94,7 +94,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     a
         skos:Concept ,
         schema:Organization ;
-    skos:definition "Biological Databases of South Australia"@en ;
+    skos:definition "The Biological Databases of South Australia (BDBSA) is South Australia's flora and fauna database that stores and manages specimen and observation records"@en ;
     skos:inScheme cs: ;
     skos:prefLabel "Biological Databases of South Australia"@en ;
     skos:topConceptOf cs: ;
@@ -106,7 +106,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     a
         skos:Concept ,
         schema:Organization ;
-    skos:definition "BHP"@en ;
+    skos:definition "BHP is a large mining company whose 'purpose is to bring people and resources together to build a better world. We do this through our strategy to deliver long-term value and returns through the cycle.'"@en ;
     skos:inScheme cs: ;
     skos:notation "57 071 987 669"^^<http://id.loc.gov/vocabulary/identifiers/ausbn> ;
     skos:prefLabel "BHP"@en ;
@@ -119,7 +119,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     a
         skos:Concept ,
         schema:Organization ;
-    skos:definition "Australian Bird science and conservation organisation."@en ;
+    skos:definition "BirdLife Australia’s mission is to save birds. For over 120 years"@en ;
     skos:historyNote "Added by BDR Admin for the use in the BDR, from AGLDWG Orgs Catalogue https://catalogue.linked.data.gov.au/index.php/org/birdlife" ;
     skos:inScheme cs: ;
     skos:notation "75 149 124 774"^^<http://id.loc.gov/vocabulary/identifiers/ausbn> ;
@@ -133,7 +133,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     a
         skos:Concept ,
         schema:Organization ;
-    skos:definition "Centre for Australian National Biodiversity Research"@en ;
+    skos:definition "The Centre for Australian National Biodiversity Research (CANBR) includes the Australian National Herbarium. These are jointly managed by CSIRO and the Director of National Parks with strong links to the Australian National Botanic Gardens. The Herbarium"@en ;
     skos:inScheme cs: ;
     skos:prefLabel "Centre for Australian National Biodiversity Research"@en ;
     skos:topConceptOf cs: ;
@@ -145,7 +145,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     a
         skos:Concept ,
         schema:Organization ;
-    skos:definition "CSIRO"@en ;
+    skos:definition "Australia's national science research agency."@en ;
     skos:inScheme cs: ;
     skos:prefLabel "CSIRO"@en ;
     skos:topConceptOf cs: ;
@@ -169,7 +169,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     a
         skos:Concept ,
         schema:Organization ;
-    skos:definition "Gaia Resources"@en ;
+    skos:definition "Gaia Resources provides a range of services around technology consulting to organisations that work with the environment"@en ;
     skos:inScheme cs: ;
     skos:notation "94 119 508 824"^^<http://id.loc.gov/vocabulary/identifiers/ausbn> ;
     skos:prefLabel "Gaia Resources"@en ;
@@ -182,7 +182,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     a
         skos:Concept ,
         schema:Organization ;
-    skos:definition "James Cook University"@en ;
+    skos:definition "James Cook University (JCU) is a public university in North Queensland, Australia. The second oldest university in Queensland, JCU is a teaching and research institution. The university's main campuses are located in the tropical cities of Cairns and Townsville, and one in the city state of Singapore. JCU also has study centres in Mount Isa, Mackay, Thursday Island and Rockhampton."@en ;
     skos:inScheme cs: ;
     skos:notation "46 253 211 955"^^<http://id.loc.gov/vocabulary/identifiers/ausbn> ;
     skos:prefLabel "James Cook University"@en ;
@@ -195,7 +195,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     a
         skos:Concept ,
         schema:Organization ;
-    skos:definition "La Trobe University"@en ;
+    skos:definition "La Trobe University is a public research university based in Melbourne"@en ;
     skos:inScheme cs: ;
     skos:notation "64 804 735 113"^^<http://id.loc.gov/vocabulary/identifiers/ausbn> ;
     skos:prefLabel "La Trobe University"@en ;
@@ -208,7 +208,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     a
         skos:Concept ,
         schema:Organization ;
-    skos:definition "MJD Environmental"@en ;
+    skos:definition "MJD Environmental is an innovative Environmental Consultancy local to the Hunter and servicing the Hunter Valley and beyond in the Land Development"@en ;
     skos:inScheme cs: ;
     skos:notation "58 609 765 693"^^<http://id.loc.gov/vocabulary/identifiers/ausbn> ;
     skos:prefLabel "MJD Environmental"@en ;
@@ -221,7 +221,11 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     a
         skos:Concept ,
         schema:Organization ;
-    skos:definition "Museums Victoria"@en ;
+    skos:definition """For more than 160 years, the people of Victoria have turned to their State museum to connect the past and the present, and to imagine the future. As Australia's largest public museum organisation, we inspire audiences to engage in life’s deep mysteries and big questions.
+
+Our museums present unique and exceptional experiences for more than 2 million visitors each year, who come from all over Australia and around the world to be inspired and to learn about themselves and the universe we inhabit.
+
+The collection is an invaluable record of Victoria's environmental and cultural history, and our amazing wealth of over 15 million items has been creating a sense of wonder and awe in visitors for generations."""@en ;
     skos:inScheme cs: ;
     skos:notation "63 640 679 155"^^<http://id.loc.gov/vocabulary/identifiers/ausbn> ;
     skos:prefLabel "Museums Victoria"@en ;
@@ -234,7 +238,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     a
         skos:Concept ,
         schema:Organization ;
-    skos:definition "Manaaki Whenua – Landcare Research"@en ;
+    skos:definition "Manaaki Whenua – Landcare Research is one of seven Crown Research Institutes (CRIs) formed in 1992. CRIs function as independent companies but are owned by"@en ;
     skos:inScheme cs: ;
     skos:prefLabel "Manaaki Whenua – Landcare Research"@en ;
     skos:topConceptOf cs: ;
@@ -246,7 +250,9 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     a
         skos:Concept ,
         schema:Organization ;
-    skos:definition "NPANSW"@en ;
+    skos:definition """The National Parks Association of NSW (commonly known as NPA) is a member-based conservation organisation and registered charity. Our mission is protecting nature through community action.
+
+We are committed to protecting, conserving and restoring the integrity and diversity of nature, its biodiversity, geodiversity, supporting ecological processes and associated cultural values. We complement our conservation work by providing rewarding and enjoyable opportunities for people to experience, appreciate, study and care for nature."""@en ;
     skos:inScheme cs: ;
     skos:notation "67 694 961 955"^^<http://id.loc.gov/vocabulary/identifiers/ausbn> ;
     skos:prefLabel "NPANSW"@en ;
@@ -259,7 +265,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     a
         skos:Concept ,
         schema:Organization ;
-    skos:definition "NSW BioNet"@en ;
+    skos:definition  "The gateway to NSW biodiversity information."@en ;
     skos:inScheme cs: ;
     skos:prefLabel "NSW BioNet"@en ;
     skos:topConceptOf cs: ;
@@ -271,7 +277,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     a
         skos:Concept ,
         schema:Organization ;
-    skos:definition "NSW Department of Primary Industries Forests"@en ;
+    skos:definition "From 1 July 2024, the NSW Department of Primary Industries Forests became part of the newly formed NSW Department of Primary Industries and Regional Development."@en ;
     skos:inScheme cs: ;
     skos:prefLabel "NSW Department of Primary Industries Forests"@en ;
     skos:topConceptOf cs: ;
@@ -283,7 +289,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     a
         skos:Concept ,
         schema:Organization ;
-    skos:definition "NSW Department of Climate Change, Energy, the Environment and Water"@en ;
+    skos:definition "The NSW Department of Climate Change, Energy, the Environment and Water (DCCEEW) works to protect the state’s environment and heritage. It leads the way on climate change, driving the sustainable transition to a net zero economy, powered by affordable, reliable, and clean energy."@en ;
     skos:inScheme cs: ;
     skos:notation "27 578 976 844"^^<http://id.loc.gov/vocabulary/identifiers/ausbn> ;
     skos:prefLabel "NSW Department of Climate Change, Energy, the Environment and Water"@en ;
@@ -296,7 +302,11 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     a
         skos:Concept ,
         schema:Organization ;
-    skos:definition "NSW Dept of Planning and Environment"@en ;
+    skos:definition """The New South Wales Department of Planning and Environment (DPE) was a department of the New South Wales Government, responsible for effective and sustainable planning to support the growth in the state of New South Wales, Australia.
+
+The department was renamed from the Department of Planning, Industry and Environment (DPIE) on 21 December 2021.
+
+Superseding agencies: Department of Planning, Housing and Infrastructure & Department of Climate Change, Energy, the Environment and Water."""@en ;
     skos:inScheme cs: ;
     skos:prefLabel "NSW Dept of Planning and Environment"@en ;
     skos:topConceptOf cs: ;
@@ -308,7 +318,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     a
         skos:Concept ,
         schema:Organization ;
-    skos:definition "NSW Dept of Planning Industry and Environment"@en ;
+    skos:definition "The New South Wales Department of Department of Planning, Industry and Environment (DPIE) was renamed to the Department of Planning and Environment (DPE) on 21 December 2021."@en ;
     skos:inScheme cs: ;
     skos:prefLabel "NSW Dept of Planning Industry and Environment"@en ;
     skos:topConceptOf cs: ;
@@ -320,7 +330,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     a
         skos:Concept ,
         schema:Organization ;
-    skos:definition "NSW National Parks and Wildlife Service"@en ;
+    skos:definition "NSW National Parks and Wildlife Service (NPWS) is part of Environment and Heritage in the Department of Climate Change"@en ;
     skos:inScheme cs: ;
     skos:notation "27 578 976 844"^^<http://id.loc.gov/vocabulary/identifiers/ausbn> ;
     skos:prefLabel "NSW National Parks and Wildlife Service"@en ;
@@ -333,7 +343,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     a
         skos:Concept ,
         schema:Organization ;
-    skos:definition "NT Fauna Atlas"@en ;
+    skos:definition "This is a comprehensive database of all known vertebrate fauna records, including mammals, birds, reptiles, frogs and fish, as well threatened invertebrates, for the Northern Territory."@en ;
     skos:inScheme cs: ;
     skos:prefLabel "NT Fauna Atlas"@en ;
     skos:topConceptOf cs: ;
@@ -345,7 +355,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     a
         skos:Concept ,
         schema:Organization ;
-    skos:definition "Northern-Territory Department of Infrastructure Planning and Environment"@en ;
+    skos:definition "The Northern Territory Department of Infrastructure, Planning and Environment is now called the Department of Logistics and Infrastructure (DLI). It was previously named the Department of Infrastructure, Planning and Logistics (DIPL). The DLI was established in September 2024 by the Northern Territory Government. It focuses on infrastructure, logistics, and sustainable development across the Northern Territory."@en ;
     skos:inScheme cs: ;
     skos:prefLabel "Northern-Territory Department of Infrastructure Planning and Environment"@en ;
     skos:topConceptOf cs: ;
@@ -357,7 +367,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     a
         skos:Concept ,
         schema:Organization ;
-    skos:definition "NT Department of Lands Planning and Environment"@en ;
+    skos:definition "The department includes the key functions that foster and protect the environment and natural resources in the Northern Territory."@en ;
     skos:inScheme cs: ;
     skos:notation "84 085 734 992"^^<http://id.loc.gov/vocabulary/identifiers/ausbn> ;
     skos:prefLabel "NT Department of Lands Planning and Environment"@en ;
@@ -370,7 +380,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     a
         skos:Concept ,
         schema:Organization ;
-    skos:definition "NT Department of Land Resource Management"@en ;
+    skos:definition "The Department has been superseded by the Department of Lands"@en ;
     skos:inScheme cs: ;
     skos:prefLabel "NT Department of Land Resource Management"@en ;
     skos:topConceptOf cs: ;
@@ -382,7 +392,9 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     a
         skos:Concept ,
         schema:Organization ;
-    skos:definition "NT Herbarium"@en ;
+    skos:definition """A herbarium is a 'museum or library of plant specimens'. They are part of an international network dedicated to the study and identification of plants.
+
+The NT Herbarium has a collection of 270,000 preserved plant specimens kept for reference and research."""@en ;
     skos:inScheme cs: ;
     skos:prefLabel "NT Herbarium"@en ;
     skos:topConceptOf cs: ;
@@ -394,7 +406,13 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     a
         skos:Concept ,
         schema:Organization ;
-    skos:definition "Queensland Department of Agriculture and Fisheries"@en ;
+    skos:definition """We are the Department of Primary Industries, part of the Queensland Government.
+
+We were formerly known as the Department of Agriculture and Fisheries.
+
+We ensure that Queensland’s primary industries—the essential backbone of our economy and communities—are productive, profitable and sustainable for future generations.
+
+We do this by connecting industries, the community and government to grow our economy, protect our primary industries from biosecurity threats and support rural communities."""@en ;
     skos:inScheme cs: ;
     skos:notation "66 934 348 189"^^<http://id.loc.gov/vocabulary/identifiers/ausbn> ;
     skos:prefLabel "Queensland Department of Agriculture and Fisheries"@en ;
@@ -407,7 +425,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     a
         skos:Concept ,
         schema:Organization ;
-    skos:definition "Queen Victoria Museum & Art Gallery"@en ;
+    skos:definition "The Queen Victoria Museum and Art Gallery (QVMAG) is the cultural hub of Launceston and the leading destination for art, history and natural sciences in Northern Tasmania. "@en ;
     skos:inScheme cs: ;
     skos:notation "73 149 070 625"^^<http://id.loc.gov/vocabulary/identifiers/ausbn> ;
     skos:prefLabel "Queen Victoria Museum & Art Gallery"@en ;
@@ -420,7 +438,13 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     a
         skos:Concept ,
         schema:Organization ;
-    skos:definition "Royal Botanic Gardens and Domain Trust"@en ;
+    skos:definition """Botanic Gardens of Sydney encompasses three world-leading botanic gardens, Australia’s premier botanical research institute, and Sydney’s leading outdoor activation precinct.
+
+As Australia’s oldest scientific institution, we are custodians of more than $1.2 billion in state significant cultural, heritage and botanical collections.
+
+The Gardens are a leading entity within the tourism sector with a focus on engaging international, national and regional visitors.
+
+Botanic Gardens of Sydney is the registered business name of the Royal Botanic Gardens and Domain Trust, which is constituted under the Royal Botanic Gardens and Domain Trust Act 1980."""@en ;
     skos:inScheme cs: ;
     skos:prefLabel "Royal Botanic Gardens and Domain Trust"@en ;
     skos:topConceptOf cs: ;
@@ -432,7 +456,9 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     a
         skos:Concept ,
         schema:Organization ;
-    skos:definition "Royal Botanic Gardens Victoria"@en ;
+    skos:definition """Royal Botanic Gardens Victoria plays a leading role in the conservation of plants through biodiversity research, programs to protect rare and threatened plants, and the study of habitats. This work is supported by education and visitor programs about the importance of plants to life.
+
+The organisation encompasses two diverse sites at Melbourne and Cranbourne and the State Botanical Collection housed at the National Herbarium of Victoria. Royal Botanic Gardens Victoria is managed by the Royal Botanic Gardens Board Victoria, which is responsible to the Minister for Environment."""@en ;
     skos:inScheme cs: ;
     skos:prefLabel "Royal Botanic Gardens Victoria"@en ;
     skos:topConceptOf cs: ;
@@ -444,7 +470,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     a
         skos:Concept ,
         schema:Organization ;
-    skos:definition "Rio Tinto"@en ;
+    skos:definition "Rio Tinto Group is a British-Australian multinational company that is the world's second largest metals and mining corporation."@en ;
     skos:inScheme cs: ;
     skos:notation "96 004 458 404"^^<http://id.loc.gov/vocabulary/identifiers/ausbn> ;
     skos:prefLabel "Rio Tinto"@en ;
@@ -457,7 +483,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     a
         skos:Concept ,
         schema:Organization ;
-    skos:definition "SA Department for Environment and Water"@en ;
+    skos:definition "The Department for Environment and Water (DEW) manages a complex portfolio of natural and built assets that are critical to the wellbeing and economic prosperity of all South Australians."@en ;
     skos:inScheme cs: ;
     skos:prefLabel "SA Department for Environment and Water"@en ;
     skos:topConceptOf cs: ;
@@ -469,7 +495,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     a
         skos:Concept ,
         schema:Organization ;
-    skos:definition "SA Department for Environment and Water"@en ;
+    skos:definition "The South Australian Department for Environment, Water and Natural Resources (DEWNR) has changed its name. It is now the Department for Environment and Water (DEW). This name change occurred on March 22, 2018, according to State Records South Australia. The change was due to adjustments in ministerial portfolios and reporting lines. "@en ;
     skos:inScheme cs: ;
     skos:notation "36 702 093 234"^^<http://id.loc.gov/vocabulary/identifiers/ausbn> ;
     skos:prefLabel "SA Department for Environment and Water"@en ;
@@ -482,7 +508,9 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     a
         skos:Concept ,
         schema:Organization ;
-    skos:definition "State Herbarium of South Australia"@en ;
+    skos:definition """The State Herbarium of South Australia, sometimes called the South Australian Herbarium, and having the herbarium code, AD, is located in Adelaide, South Australia. It is one of several State and Commonwealth herbaria in Australia. The Department for Environment and Water is the state agency which is responsible for the Herbarium, but the Board of the Botanic Gardens and State Herbarium (established by an Act of Parliament, most recently the Botanic Gardens and State Herbarium Act 1978) is charged with its establishment and maintenance.
+
+The herbarium is responsible for Electronic Flora of South Australia. It also produces the journal, Swainsona (formerly Journal of the Adelaide Botanic Gardens)."""@en ;
     skos:inScheme cs: ;
     skos:prefLabel "State Herbarium of South Australia"@en ;
     skos:topConceptOf cs: ;
@@ -494,7 +522,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     a
         skos:Concept ,
         schema:Organization ;
-    skos:definition "South Australian Museum"@en ;
+    skos:definition "The South Australian Museum has been committed to making Australia’s natural and cultural heritage accessible, engaging and fun for over 165 years. It is a place where families can learn and grow together. Today the Museum is one of the most visited museums in Australia and holds collections of national and international significance. It is a leader in remote and regional community engagement, and in Australian Aboriginal heritage and scientific research."@en ;
     skos:inScheme cs: ;
     skos:notation "39 808 959 302"^^<http://id.loc.gov/vocabulary/identifiers/ausbn> ;
     skos:prefLabel "South Australian Museum"@en ;
@@ -507,7 +535,9 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     a
         skos:Concept ,
         schema:Organization ;
-    skos:definition "Science for Wildlife"@en ;
+    skos:definition """Science for Wildlife is a leading not-for-profit conservation organisation working to ensure a future for wildlife and the places they call home.
+
+Bringing the best available science to wildlife conservation in Australia and beyond, through the creation and sharing of ecological knowledge we empower people to participate in conservation that has an on-the-ground, enduring impact. Working with iconic and important species in key areas, our research and conservation work is designed to bring broader ecosystem benefits, maximising gains for many other animals and their habitats. We work beyond fences, at a landscape scale to bring real world solutions to conservation challenges. Our work is highly regarded by government and industry partners and informs conservation policy and action both nationally and globally."""@en ;
     skos:inScheme cs: ;
     skos:prefLabel "Science for Wildlife"@en ;
     skos:topConceptOf cs: ;
@@ -519,7 +549,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     a
         skos:Concept ,
         schema:Organization ;
-    skos:definition "Scion Crown Research Institute of NZ"@en ;
+    skos:definition "Scion is a group of the New Zealand Institute for Bioeconomy Science"@en ;
     skos:inScheme cs: ;
     skos:prefLabel "Scion Crown Research Institute of NZ"@en ;
     skos:topConceptOf cs: ;
@@ -531,7 +561,11 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     a
         skos:Concept ,
         schema:Organization ;
-    skos:definition "Sydney Fungal Studies Group"@en ;
+    skos:definition """The Sydney Fungal Studies Group Incorporated (SFSGI) consists of mycological and other academics, students, and many other, non-academic but interested people of all age groups.
+
+The SFSGI aims to advance the study of fungi at all levels, particularly the larger fungi, to educate people at all stages of skill and knowledge in the science of mycology, and to interact with groups and societies having mycological or closely related interests.
+
+Membership is open to all, with the only requirements being that they are interested in contributing to the activities of the Group, subscribe to the aims of the Group, and that they respect the basic principles of nature conservation."""@en ;
     skos:inScheme cs: ;
     skos:notation "76 384 308 862"^^<http://id.loc.gov/vocabulary/identifiers/ausbn> ;
     skos:prefLabel "Sydney Fungal Studies Group"@en ;
@@ -544,7 +578,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     a
         skos:Concept ,
         schema:Organization ;
-    skos:definition "Museum of New Zealand Te Papa Tongarewa"@en ;
+    skos:definition "Te Papa is New Zealand's national museum, renowned for being bicultural, scholarly, innovative, and fun. Our success is built on our relationships with and our ability to represent our community."@en ;
     skos:inScheme cs: ;
     skos:prefLabel "Museum of New Zealand Te Papa Tongarewa"@en ;
     skos:topConceptOf cs: ;
@@ -570,7 +604,9 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     a
         skos:Concept ,
         schema:Organization ;
-    skos:definition "Tasmanian Museum and Art Gallery"@en ;
+    skos:definition """Tasmanian Museum and Art Gallery (TMAG) is Tasmania's leading natural and cultural heritage organisation. It is a combined museum, art gallery and herbarium which safeguards the physical evidence of Tasmania's natural and cultural heritage, and the cultural identity of Tasmanians.
+
+TMAG is Australia's second-oldest museum and has its origins in the collections of Australia's oldest scientific society, the Royal Society of Tasmania, established in 1843.  The first permanent home of the museum opened on the corner of Argyle and Macquarie streets in 1863 and the museum has gradually expanded from this corner to occupy the entire city block."""@en ;
     skos:inScheme cs: ;
     skos:notation "17 334 217 592"^^<http://id.loc.gov/vocabulary/identifiers/ausbn> ;
     skos:prefLabel "Tasmanian Museum and Art Gallery"@en ;
@@ -583,7 +619,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     a
         skos:Concept ,
         schema:Organization ;
-    skos:definition "University of Adelaide"@en ;
+    skos:definition "The University of Adelaide is a public research university based in Adelaide, South Australia. Established in 1874, it is the third-oldest university in Australia."@en ;
     skos:inScheme cs: ;
     skos:notation "61 249 878 937"^^<http://id.loc.gov/vocabulary/identifiers/ausbn> ;
     skos:prefLabel "University of Adelaide"@en ;
@@ -596,7 +632,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     a
         skos:Concept ,
         schema:Organization ;
-    skos:definition "Umwelt Australia Pty Ltd"@en ;
+    skos:definition "An employee-owned environmental and social professional services consultancy"@en ;
     skos:inScheme cs: ;
     skos:notation "18 059 519 041"^^<http://id.loc.gov/vocabulary/identifiers/ausbn> ;
     skos:prefLabel "Umwelt Australia Pty Ltd"@en ;
@@ -609,7 +645,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     a
         skos:Concept ,
         schema:Organization ;
-    skos:definition "University of New England"@en ;
+    skos:definition "The University of New England (UNE) is a public university in the New England region of the state of New South Wales, Australia. Founded in 1938, it was the first Australian university to be established outside of a state capital."@en ;
     skos:inScheme cs: ;
     skos:notation "75 792 454 315"^^<http://id.loc.gov/vocabulary/identifiers/ausbn> ;
     skos:prefLabel "University of New England"@en ;
@@ -622,7 +658,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     a
         skos:Concept ,
         schema:Organization ;
-    skos:definition "The University of NSW"@en ;
+    skos:definition "The University of New South Wales (UNSW) is a public research university based in Sydney, New South Wales, Australia. It is one of the founding members of Group of Eight, a coalition of Australian research-intensive universities."@en ;
     skos:inScheme cs: ;
     skos:notation "57 195 873 179"^^<http://id.loc.gov/vocabulary/identifiers/ausbn> ;
     skos:prefLabel "The University of NSW"@en ;
@@ -635,7 +671,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     a
         skos:Concept ,
         schema:Organization ;
-    skos:definition "The University of Melbourne"@en ;
+    skos:definition "The University of Melbourne is a public research university located in Melbourne, Australia. Founded in 1853, it is Australia's second oldest university and the oldest in Victoria. Its main campus is located in Parkville, an inner suburb north of Melbourne's central business district, with several other campuses located across Victoria."@en ;
     skos:inScheme cs: ;
     skos:prefLabel "The University of Melbourne"@en ;
     skos:topConceptOf cs: ;
@@ -647,7 +683,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     a
         skos:Concept ,
         schema:Organization ;
-    skos:definition "Vic Department of Energy, Environment and Climate Action"@en ;
+    skos:definition "DEECA brings together Victoria’s energy, environment, water, agriculture, forestry, resources, climate action, and emergency management functions into a single department to maximise connections between the environment, community, industry and economy."@en ;
     skos:inScheme cs: ;
     skos:prefLabel "Vic Department of Energy, Environment and Climate Action"@en ;
     skos:topConceptOf cs: ;
@@ -659,7 +695,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     a
         skos:Concept ,
         schema:Organization ;
-    skos:definition "WA Biodiversity Information Office"@en ;
+    skos:definition "The Biodiversity Information Office (BIO) is responsible for making Western Australian biodiversity data more discoverable, accessible, and useable.  To deliver this change, BIO has developed the Dandjoo biodiversity data platform to mobilise data from all environment-related sectors, including government, industry, research, and the community.  BIO’s day-to-day work also includes a program of data-sharing and outreach work, identifying and sourcing priority datasets for release."@en ;
     skos:inScheme cs: ;
     skos:prefLabel "WA Biodiversity Information Office"@en ;
     skos:topConceptOf cs: ;
@@ -671,7 +707,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     a
         skos:Concept ,
         schema:Organization ;
-    skos:definition "WA Department of Biodiversity, Conservation and Attractions"@en ;
+    skos:definition "The Department of Biodiversity, Conservation and Attractions (DBCA) is the Western Australian government department responsible for managing lands and waters described in the Conservation and Land Management Act 1984, the Rottnest Island Authority Act 1987, the Swan and Canning Rivers Management Act 2006, the Botanic Gardens and Parks Authority Act 1998, and the Zoological Parks Authority Act 2001, and implementing the state's conservation and environment legislation and regulations. The Department reports to the Minister for Environment and the Minister for Tourism. "@en ;
     skos:inScheme cs: ;
     skos:notation "38 052 249 024"^^<http://id.loc.gov/vocabulary/identifiers/ausbn> ;
     skos:prefLabel "WA Department of Biodiversity, Conservation and Attractions"@en ;
@@ -684,7 +720,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     a
         skos:Concept ,
         schema:Organization ;
-    skos:definition "WA Herbarium"@en ;
+    skos:definition "The Western Australian Herbarium is responsible for the description and documentation of Western Australia's exceptional botanical species diversity."@en ;
     skos:inScheme cs: ;
     skos:prefLabel "WA Herbarium"@en ;
     skos:topConceptOf cs: ;
@@ -696,7 +732,11 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     a
         skos:Concept ,
         schema:Organization ;
-    skos:definition "Western Australian Biodiversity Science Institute"@en ;
+    skos:definition """A joint venture partnership with leading Western Australian science research organisations, with multi-disciplinary research expertise.
+
+An independent, collaboration mechanism to facilitate end user driven, relevant biodiversity science research.
+
+Funded by the Western Australian Government’s Department of Jobs, Tourism, Science and Innovation."""@en ;
     skos:inScheme cs: ;
     skos:prefLabel "Western Australian Biodiversity Science Institute"@en ;
     skos:topConceptOf cs: ;
@@ -708,7 +748,11 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     a
         skos:Concept ,
         schema:Organization ;
-    skos:definition "Western Australian Museum"@en ;
+    skos:definition """The Western Australian Museum is the State's premier cultural organisation, housing WA's scientific and cultural collection.
+
+For over 120 years the Museum has been making the State's natural and social heritage accessible and engaging through research, exhibition and public programs.
+
+Today, the Museum has seven public locations across the state - and a Collection and Research Centre that houses more than eight million objects."""@en ;
     skos:inScheme cs: ;
     skos:notation "95 249 517 733"^^<http://id.loc.gov/vocabulary/identifiers/ausbn> ;
     skos:prefLabel "Western Australian Museum"@en ;
@@ -721,7 +765,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     a
         skos:Concept ,
         schema:Organization ;
-    skos:definition "Western Shield"@en ;
+    skos:definition "WA’s largest conservation program, Western Shield, works to manage introduced predators for native species conservation. Learn what animals are protected, where DBCA’s fauna recovery sites are located, and what management tools are used. "@en ;
     skos:inScheme cs: ;
     skos:prefLabel "Western Shield"@en ;
     skos:topConceptOf cs: ;
@@ -791,8 +835,7 @@ cs:
         <https://linked.data.gov.au/org/wabsi> ,
         <https://linked.data.gov.au/org/wam> ,
         <https://linked.data.gov.au/org/western-shield> ;
-    skos:historyNote
-        """2025-08: Added from data supplied to the BDR from jurisdictions via https://submit.bdr.gov.au in mid-2025" ,
+    skos:historyNote """2025-08: Added from data supplied to the BDR from jurisdictions via https://submit.bdr.gov.au in mid-2025" ,
 
 This vocabulary was initially developed for the Biodiversity Data Repository and is live in that it grows with new data submissions from new organisations""" ;
     skos:prefLabel "BDR Organisations"@en ;
