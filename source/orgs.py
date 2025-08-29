@@ -60,7 +60,7 @@ metadata = \
 
 hn = Literal("Added from data supplied to tne BDR from jurisdictions via https://submit.bdr.gov.au in mid-2025")
 
-with open("orgs.csv") as f:
+with open("orgs_2025_08_new.csv") as f:
     for line in sorted(csv.reader(f, delimiter=",", quotechar='"'), key=lambda x: x[3]):
         if line[0] == "Original":
             continue
@@ -69,14 +69,15 @@ with open("orgs.csv") as f:
             abn = Literal(line[2], datatype=ausbn)
         name = Literal(line[3])
         name_lang = Literal(line[3], lang="en")
-        url = Literal(line[4], datatype=XSD.anyURI)
+        desc = Literal(line[4], lang="en")
+        url = Literal(line[5], datatype=XSD.anyURI)
 
         print(name)
 
         g.add((iri, RDF.type, SKOS.Concept))
         g.add((iri, RDF.type, SDO.Organization))
         g.add((iri, SKOS.prefLabel, name_lang))
-        g.add((iri, SKOS.definition, name_lang))
+        g.add((iri, SKOS.definition, desc))
         g.add((iri, SDO.name, name))
         if len(line[2]) > 1:
             g.add((iri, SKOS.notation, abn))
@@ -88,4 +89,6 @@ with open("orgs.csv") as f:
 
         g.parse(data=metadata, format="turtle")
 
-g.serialize(destination="orgs.ttl", format="longturtle")
+        g.parse("orgs_old.ttl", format="turtle")
+
+g.serialize(destination="../vocabs/orgs.ttl", format="longturtle")
