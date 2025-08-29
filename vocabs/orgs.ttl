@@ -637,6 +637,18 @@ As a diverse organisation, the department brings together key areas of work to a
     schema:url "https://www.detsi.qld.gov.au"^^xsd:anyURI ;
 .
 
+<https://linked.data.gov.au/org/qld-dres>
+    a
+        skos:Concept ,
+        schema:Organization ;
+    skos:definition "The Department of Resources was renamed the Department of Natural Resources and Mines, Manufacturing and Regional and Rural Development in 2025"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Qld Department of Resources"@en ;
+    skos:topConceptOf cs: ;
+    schema:name "Qld Department of Resources" ;
+    schema:url "https://www.resources.qld.gov.au"^^xsd:anyURI ;
+.
+
 <https://linked.data.gov.au/org/qld-tmr>
     a
         skos:Concept ,
@@ -1182,6 +1194,7 @@ cs:
         <https://linked.data.gov.au/org/qld-daff> ,
         <https://linked.data.gov.au/org/qld-derm> ,
         <https://linked.data.gov.au/org/qld-detsi> ,
+        <https://linked.data.gov.au/org/qld-dres> ,
         <https://linked.data.gov.au/org/qld-tmr> ,
         <https://linked.data.gov.au/org/qld-tsgehp> ,
         <https://linked.data.gov.au/org/qld-wildNet> ,
