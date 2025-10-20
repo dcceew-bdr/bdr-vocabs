@@ -109,7 +109,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 
 cs:
     a skos:ConceptScheme ;
-    skos:definition """Statistical Properties - These are observable properties that are the BDR Datasets."""@en ;
+    skos:definition """Statistical Properties - These are observable properties that describe statistics of BDR Datasets."""@en ;
     skos:hasTopConcept :DataStatistic ;
     skos:historyNote "This vocabulary was developed for the Biodiversity Data Repository as a catch-all vocab/register of observable properties which are not characterised elsewhere" ;
     skos:prefLabel "BDR Observable Properties"@en ;
