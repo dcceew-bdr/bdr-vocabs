@@ -6,14 +6,14 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     a schema:DataCatalog ;
     schema:hasPart
         <https://linked.data.gov.au/dataset/bdr/datatypes> ,
-        <https://linked.data.gov.au/dataset/bdr/op> ,
+        <https://linked.data.gov.au/dataset/bdr/statsprops> ,
         <https://linked.data.gov.au/dataset/bdr/orgs> ,
         <https://linked.data.gov.au/dataset/bdr/smrr> ,
         <https://linked.data.gov.au/dataset/bdr/sma> ;
     schema:codeRepository "https://github.com/dcceew-bdr/bdr-vocabs/" ;
     schema:creator <https://linked.data.gov.au/org/dcceew> ;
     schema:dateCreated "2023"^^xsd:gYear ;
-    schema:dateModified "2025-03-18"^^xsd:date ;
+    schema:dateModified "2025-10-20"^^xsd:date ;
     schema:description "Vocabularies and Registers created for use specifically with the Biodiversity Data Repository systems and data" ;
     schema:name "BDR Vocabularies and Registers" ;
     schema:publisher <https://linked.data.gov.au/org/dcceew> ;
