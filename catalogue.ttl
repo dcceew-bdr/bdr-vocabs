@@ -9,7 +9,8 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
         <https://linked.data.gov.au/dataset/bdr/statsprops> ,
         <https://linked.data.gov.au/dataset/bdr/orgs> ,
         <https://linked.data.gov.au/dataset/bdr/smrr> ,
-        <https://linked.data.gov.au/dataset/bdr/sma> ;
+        <https://linked.data.gov.au/dataset/bdr/sma> ,
+        <https://def.isotc211.org/common/RoleCode> ;
     schema:codeRepository "https://github.com/dcceew-bdr/bdr-vocabs/" ;
     schema:creator <https://linked.data.gov.au/org/dcceew> ;
     schema:dateCreated "2023"^^xsd:gYear ;
