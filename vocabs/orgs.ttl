@@ -675,7 +675,7 @@ We plan, manage and deliver Queensland's integrated transport environment to ach
     schema:url "https://www.detsi.qld.gov.au"^^xsd:anyURI ;
 .
 
-<https://linked.data.gov.au/org/qld-wildNet>
+<https://linked.data.gov.au/org/qld-wildnet>
     a
         skos:Concept ,
         schema:Organization ;
@@ -1197,7 +1197,7 @@ cs:
         <https://linked.data.gov.au/org/qld-dres> ,
         <https://linked.data.gov.au/org/qld-tmr> ,
         <https://linked.data.gov.au/org/qld-tsgehp> ,
-        <https://linked.data.gov.au/org/qld-wildNet> ,
+        <https://linked.data.gov.au/org/qld-wildnet> ,
         <https://linked.data.gov.au/org/qm> ,
         <https://linked.data.gov.au/org/qnc> ,
         <https://linked.data.gov.au/org/qpws> ,
