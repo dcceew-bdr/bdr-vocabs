@@ -904,6 +904,33 @@ Membership is open to all, with the only requirements being that they are intere
     schema:url "https://www.sunwater.com.au"^^xsd:anyURI ;
 .
 
+<https://linked.data.gov.au/org/tas-nre>
+    a
+        skos:Concept ,
+        schema:Organization ;
+    skos:definition """The Department of Natural Resources and Environment Tasmania (NRE Tas) is responsible for delivering a sustainable Tasmania. 
+We deliver a sustainable Tasmania by protecting and enhancing Tasmania's cultural and natural values; facilitating productive and sustainable industries; and by promoting the sustainable use, presentation, and enjoyment of our cultural and natural values."""@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Department of Natural Resources and Environment Tasmania"@en ;
+    skos:altLabel "NRE Tas" ;
+    skos:topConceptOf cs: ;
+    schema:name "Department of Natural Resources and Environment Tasmania" ;
+    schema:url "https://www.nre.tas.gov.au"^^xsd:anyURI ;
+.
+
+<https://linked.data.gov.au/org/tas-nva>
+    a
+        skos:Concept ,
+        schema:Organization ;
+    skos:definition "The Natural Values Atlas provides authoritative and comprehensive information on Tasmania's natural values."@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Tasmanian Natural Values Atlas"@en ;
+    skos:altLabel "NVA" ;
+    skos:topConceptOf cs: ;
+    schema:name "Tasmanian Natural Values Atlas" ;
+    schema:url "https://www.naturalvaluesatlas.tas.gov.au"^^xsd:anyURI ;
+.
+
 <https://linked.data.gov.au/org/te-papa>
     a
         skos:Concept ,
