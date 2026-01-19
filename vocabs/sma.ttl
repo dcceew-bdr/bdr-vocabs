@@ -55,6 +55,26 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:topConceptOf cs: ;
 .
 
+:Annotate
+    a skos:Concept ;
+    skos:definition "Add annotations or comments existing entities."@en ;
+    skos:historyNote "Defined by the BDR Team for use in the BDR" ;
+    skos:scopeNote "This will check that each entity already exists in the BDR before comments are added." ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Annotate"@en ;
+    skos:topConceptOf cs: ;
+.
+
+:Attach
+    a skos:Concept ;
+    skos:definition "Add additional Supplementary files to an existing submission within an existing dataset."@en ;
+    skos:historyNote "Defined by the BDR Team for use in the BDR" ;
+    skos:scopeNote "This action will upload supplementary files to the BDR archive. It will ensure the relevant Submission and Dataset already exist in the BDR." ;
+    skos:inScheme cs: ;
+    skos:prefLabel "Attach"@en ;
+    skos:topConceptOf cs: ;
+.
+
 cs:
     a skos:ConceptScheme ;
     skos:definition "Collection of actions for a Submission Manifest that provide hints for how to process a BDR Submissions"@en ;
@@ -63,7 +83,7 @@ cs:
     skos:scopeNote "See the ABIS Specification, <https://linked.data.gov.au/def/abis> - BDR Profile Section, for the definition of BDR Submission Manifest Actions"@en ;
     schema:creator <https://linked.data.gov.au/org/dcceew> ;
     schema:dateCreated "2025-03-18"^^xsd:date ;
-    schema:dateModified "2025-03-18"^^xsd:date ;
+    schema:dateModified "2026-01-19"^^xsd:date ;
     schema:license <http://purl.org/NET/rdflicense/cc-by4.0> ;
     schema:publisher <https://linked.data.gov.au/org/dcceew> ;
     skos:hasTopConcept 
@@ -71,5 +91,7 @@ cs:
         :Update ,
         :Remove ,
         :Replace ,
-        :Check ;
+        :Check ,
+        :Annotate ,
+        :Attach ;
 .
