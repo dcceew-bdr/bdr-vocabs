@@ -204,6 +204,33 @@ Since its founding in 1869, the Museum has advanced its global mission to discov
         schema:Organization ;
     skos:definition "Australia's national science research agency."@en ;
     skos:inScheme cs: ;
+    skos:narrower <https://linked.data.gov.au/org/csiro-environment> ;
+    skos:notation "41 687 119 230"^^<http://id.loc.gov/vocabulary/identifiers/ausbn> ;
+    skos:prefLabel "CSIRO"@en ;
+    skos:topConceptOf cs: ;
+    schema:name "CSIRO" ;
+    schema:url "https://www.csiro.au"^^xsd:anyURI ;
+.
+
+<https://linked.data.gov.au/org/csiro-environment>
+    a
+        skos:Concept ,
+        schema:Organization ;
+    skos:definition "Australia's national science research agency. Environment Research Unit."@en ;
+    skos:inScheme cs: ;
+    skos:notation "41 687 119 230"^^<http://id.loc.gov/vocabulary/identifiers/ausbn> ;
+    skos:prefLabel "Environment - CSIRO"@en ;
+    soks:broader <https://linked.data.gov.au/org/csiro> ;
+    schema:name "Environment Research Unit CSIRO" ;
+    schema:url "https://www.csiro.au/en/"^^xsd:anyURI ;
+.
+
+<https://linked.data.gov.au/org/csiro>
+    a
+        skos:Concept ,
+        schema:Organization ;
+    skos:definition "Australia's national science research agency."@en ;
+    skos:inScheme cs: ;
     skos:notation "41 687 119 230"^^<http://id.loc.gov/vocabulary/identifiers/ausbn> ;
     skos:prefLabel "CSIRO"@en ;
     skos:topConceptOf cs: ;
