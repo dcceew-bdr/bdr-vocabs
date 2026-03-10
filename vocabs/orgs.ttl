@@ -220,7 +220,7 @@ Since its founding in 1869, the Museum has advanced its global mission to discov
     skos:inScheme cs: ;
     skos:notation "41 687 119 230"^^<http://id.loc.gov/vocabulary/identifiers/ausbn> ;
     skos:prefLabel "Environment - CSIRO"@en ;
-    soks:broader <https://linked.data.gov.au/org/csiro> ;
+    skos:broader <https://linked.data.gov.au/org/csiro> ;
     schema:name "Environment Research Unit CSIRO" ;
     schema:url "https://www.csiro.au/en/"^^xsd:anyURI ;
 .
