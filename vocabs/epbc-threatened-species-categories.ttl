@@ -1,0 +1,81 @@
+PREFIX : <https://linked.data.gov.au/def/epbc-threatened-species-categories/>
+PREFIX cs: <https://linked.data.gov.au/def/epbc-threatened-species-categories>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX schema: <https://schema.org/>
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+PREFIX status: <https://def.isotc211.org/RE/ItemStatus/>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+
+:conservation-dependent
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:definition "A native species is eligible to be included in the conservation dependent category at a particular time if, at that time, the species is the focus of a specific conservation program, the cessation of which would result in the species becoming vulnerable, endangered or critically endangered within a period of 5 years."@en ;
+    skos:prefLabel "conservation dependent"@en ;
+    skos:topConceptOf cs: ;
+.
+
+:critically-endangered
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:definition "A native species is eligible to be included in the critically endangered category at a particular time if, at that time, it is facing an extremely high risk of extinction in the wild in the immediate future, as determined in accordance with the prescribed criteria."@en ;
+    skos:prefLabel "critically endangered"@en ;
+    skos:topConceptOf cs: ;
+.
+
+:endangered
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:definition """A native species is eligible to be included in the endangered category at a particular time if, at that time:
+
+ (a) it is not critically endangered; and
+
+ (b) it is facing a very high risk of extinction in the wild in the near future, as determined in accordance with the prescribed criteria."""@en ;
+    skos:prefLabel "endangered"@en ;
+    skos:topConceptOf cs: ;
+.
+
+:extinct
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:definition "A native species is eligible to be included in the extinct category at a particular time if, at that time, there is no reasonable doubt that the last member of the species has died."@en ;
+    skos:prefLabel "extinct"@en ;
+    skos:topConceptOf cs: ;
+.
+
+:extinct-in-the-wild
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:definition """A native species is eligible to be included in the extinct in the wild category at a particular time if, at that time:
+
+ (a) it is known only to survive in cultivation, in captivity or as a naturalised population well outside its past range; or
+
+ (b) it has not been recorded in its known and/or expected habitat, at appropriate seasons, anywhere in its past range, despite exhaustive surveys over a time frame appropriate to its life cycle and form."""@en ;
+    skos:prefLabel "extinct in the wild"@en ;
+    skos:topConceptOf cs: ;
+.
+
+:vulnerable
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:definition """A native species is eligible to be included in the vulnerable category at a particular time if, at that time:
+
+ (a) it is not critically endangered or endangered; and
+
+ (b) it is facing a high risk of extinction in the wild in the medium‑term future, as determined in accordance with the prescribed criteria."""@en ;
+    skos:prefLabel "vulnerable"@en ;
+    skos:topConceptOf cs: ;
+.
+
+cs:
+    a skos:ConceptScheme ;
+    skos:definition "function performed by the responsible party"@en ;
+    skos:prefLabel "EPBC Threatened Species Categories"@en ;
+    schema:citation "Chapter 5 Part 13 Division 1 Subdivision A  Clause 178 - Categories of threatened species, of the Environment Protection and Biodiversity Conservation Act 1999" ;
+    schema:creator <https://linked.data.gov.au/org/dcceew> ;
+    schema:dateCreated "2026-04-04"^^xsd:date ;
+    schema:dateModified "2026-04-04"^^xsd:date ;
+    schema:license <http://purl.org/NET/rdflicense/cc-by4.0> ;
+    schema:publisher <https://linked.data.gov.au/org/dcceew> ;
+    schema:status status:stable ;
+    schema:version "2026-04-04" ;
+.
