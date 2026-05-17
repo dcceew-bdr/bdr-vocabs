@@ -79,6 +79,8 @@ schema:url "http://dcceew.gov.au"^^xsd:anyURI
 cs:
     a skos:ConceptScheme ;
     skos:definition "The EPBC Threatened Species Categories contains the species categories listed in the Environment Protection and Biodiversity Conservation Act 1999"@en ;
+    skos:scopeNote "This vocabulary is based on the threatened species categories defined in the EPBC Act 1999 and broadly aligns with the IUCN Red List Categories and Criteria."@en ;
+    rdfs:seeAlso <https://www.iucnredlist.org/resources/categories-and-criteria> ;
     skos:prefLabel "EPBC Threatened Species Categories"@en ;
     schema:citation "Chapter 5 Part 13 Division 1 Subdivision A  Clause 178 - Categories of threatened species, of the Environment Protection and Biodiversity Conservation Act 1999" ;
     schema:creator <https://linked.data.gov.au/org/dcceew> ;
