@@ -51,6 +51,11 @@ d:
     schema:status status:stable ;
 .
 
+<https://test-id.biodiversity.org.au/name/apni/60722>
+    schema:name "Salvinia molesta" ;
+    schema:alternateName "Salvinia × molesta D.S.Mitch." ;
+.
+
 <https://test-id.biodiversity.org.au/name/apni/100521>
     schema:name "Cytisus scoparius" ;
 .
