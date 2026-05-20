@@ -8,6 +8,47 @@ import urllib.request
 BASE = "https://test.biodiversity.org.au"
 
 
+def fetch_html(url: str) -> str:
+    with urllib.request.urlopen(url) as response:
+        return response.read().decode("utf-8", errors="replace")
+
+
+def extract_afd_taxon_iri(html: str):
+    matches = re.findall(
+        r'http://biodiversity\.org\.au/afd\.taxon/[a-f0-9-]+',
+        html
+    )
+    return sorted(set(matches))
+
+
+def resolve_taxon_page(page_url: str):
+    html = fetch_html(page_url)
+    iris = extract_afd_taxon_iri(html)
+
+    if iris:
+        return iris[0]
+
+    return page_url
+
+
+def normalise_name(name: str) -> str:
+    # Remove trailing parenthetical qualifiers.
+    search_name = re.sub(
+        r"\s*\([^)]*\)\s*$",
+        "",
+        name
+    ).strip()
+
+    parts = search_name.split()
+
+    # Keep trinomial names where the third word looks like a subspecies.
+    if len(parts) >= 3 and parts[2].islower():
+        return " ".join(parts[:3])
+
+    # Otherwise reduce to binomial.
+    return " ".join(parts[:2])
+
+
 def search_afd(name: str):
     encoded = urllib.parse.quote_plus(name)
 
@@ -16,8 +57,7 @@ def search_afd(name: str):
         f"?search=true&keyword={encoded}"
     )
 
-    with urllib.request.urlopen(url) as response:
-        html = response.read().decode("utf-8", errors="replace")
+    html = fetch_html(url)
 
     concept_uris = sorted(
         set(
@@ -48,10 +88,13 @@ def search_afd(name: str):
         if m.startswith(genus + "_")
     ]
 
-    return [
-        f"{BASE}/afd/taxa/{m}"
-        for m in taxon_links
-    ]
+    resolved_uris = []
+
+    for m in taxon_links:
+        page_url = f"{BASE}/afd/taxa/{m}"
+        resolved_uris.append(resolve_taxon_page(page_url))
+
+    return resolved_uris
 
 
 def main():
@@ -73,28 +116,8 @@ def main():
             if not name:
                 continue
 
-            search_name = re.sub(
-    r"\s*\([^)]*\)\s*$",
-    "",
-    name
-).strip()
+            search_name = normalise_name(name)
 
-# Remove trailing population qualifiers after a binomial or trinomial.
-            search_name = re.sub(
-                r"\s*\([^)]*\)\s*$",
-                "",
-                name
-            ).strip()
-
-            parts = search_name.split()
-
-            if len(parts) >= 3 and parts[2].islower():
-                search_name = " ".join(parts[:3])
-            else:
-                search_name = " ".join(parts[:2])
-                
-            # Remove trailing population qualifiers after
-            # a binomial or trinomial.
             uris = search_afd(search_name)
 
             if uris:
