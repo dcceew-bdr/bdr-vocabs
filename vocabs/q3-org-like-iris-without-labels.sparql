@@ -1,0 +1,27 @@
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+PREFIX schema: <https://schema.org/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+
+SELECT DISTINCT ?org
+WHERE {
+  {
+    ?s ?p ?org .
+    FILTER(isIRI(?org))
+  }
+  UNION
+  {
+    ?org ?p ?o .
+    FILTER(isIRI(?org))
+  }
+
+  FILTER(
+    CONTAINS(STR(?org), "/org/") ||
+    CONTAINS(STR(?org), "/organisation/") ||
+    CONTAINS(STR(?org), "/organization/")
+  )
+
+  FILTER NOT EXISTS { ?org skos:prefLabel ?label }
+  FILTER NOT EXISTS { ?org rdfs:label ?label }
+  FILTER NOT EXISTS { ?org schema:name ?label }
+}
+ORDER BY STR(?org)

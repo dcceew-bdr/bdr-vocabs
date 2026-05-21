@@ -1,4 +1,8 @@
 PREFIX cs: <https://linked.data.gov.au/dataset/bdr/orgs>
+PREFIX dcterms: <http://purl.org/dc/terms/>
+PREFIX id: <http://id.loc.gov/vocabulary/identifiers/>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX ror: <https://ror.org/>
 PREFIX schema: <https://schema.org/>
 PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
 PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
@@ -218,11 +222,11 @@ Since its founding in 1869, the Museum has advanced its global mission to discov
         schema:Organization ;
     skos:definition "Australia's national science research agency. Environment Research Unit."@en ;
     skos:inScheme cs: ;
-    skos:notation "41 687 119 230"^^<http://id.loc.gov/vocabulary/identifiers/ausbn> ;
-    skos:prefLabel "Environment - CSIRO"@en ;
+    skos:identifier "https://ror.org/05bgxxb69"^^id:ror ;
+    skos:prefLabel "Environment Research Unit"@en ;
     skos:broader <https://linked.data.gov.au/org/csiro> ;
     schema:name "Environment Research Unit CSIRO" ;
-    schema:url "https://www.csiro.au/en/"^^xsd:anyURI ;
+    schema:url "https://www.csiro.au/en/about/people/research-units/environment"^^xsd:anyURI ;
 .
 
 <https://linked.data.gov.au/org/dafwa>
@@ -965,10 +969,12 @@ We deliver a sustainable Tasmania by protecting and enhancing Tasmania's cultura
     skos:historyNote "From AGLDWG Orgs Catalogue https://catalogue.linked.data.gov.au/index.php/org/tern" ;
     skos:inScheme cs: ;
     skos:prefLabel "Terrestrial Ecosystems Research Network"@en ;
-    skos:topConceptOf cs: ;
+    skos:broader <https://linked.data.gov.au/org/dcceew> ;
+    schema:isPartOf <https://linked.data.gov.au/org/dcceew> ;
     schema:description "Australia’s land ecosystem observatory." ;
     schema:name "Terrestrial Ecosystems Research Network" ;
     schema:url "https://tern.org.au"^^xsd:anyURI ;
+    skos:exactMatch <https://w3id.org/tern/resources/a083902d-d821-41be-b663-1d7cb33eea66>
 .
 
 <https://linked.data.gov.au/org/tmag>
@@ -1183,6 +1189,152 @@ Today, the Museum has seven public locations across the state - and a Collection
     schema:url "https://wwf.org.au"^^xsd:anyURI ;
 .
 
+# added after missing orgs audit 21 May 2026:
+
+<http://www.publish.csiro.au/>
+   a
+        skos:Concept ,
+        schema:Organization ;
+    skos:definition "CSIRO Publishing is an Australian science publisher of books, peer-reviewed journals, and news."@en ;
+    schema:identifier "https://ror.org/051hpv692"^^id:loc ;
+    skos:broader <https://linked.data.gov.au/org/csiro> ;
+    skos:exactMatch <https://linked.data.gov.au/org/csiro-publishing> ;
+    skos:inScheme cs: ;
+    schema:name "CSIRO Publishing" ;
+    schema:url "https://www.publish.csiro.au/"^^xsd:anyURI ;
+.
+
+<https://kurrawong.ai>
+        a skos:Concept , 
+        schema:Organization ;
+    skos:inScheme cs: ;
+    skos:topConceptOf cs: ;
+    schema:name "KurrawongAI" ;
+    skos:prefLabel "KurrawongAI" ;
+    schema:url "https://kurrawong.ai"^^xsd:anyURI ;
+.
+
+<https://linked.data.gov.au/org/bdr-team> 
+        a skos:Concept ,
+        schema:Organization ;
+    schema:name "BDR Team" ;
+    skos:definition "Biodiversity Data Repository team"@en ;
+    schema:url "https://bdr.gov.au/" .
+
+
+<https://linked.data.gov.au/def/abares>
+        a skos:Concept , 
+        schema:Organization ;
+    schema:name "Australian Bureau of Agricultural and Resource Economics and Sciences." ;
+    schema:alternateName "ABARES" ;
+    schema:identifier "https://ror.org/00rev1511"^^id:ror ;
+    skos:broader <https://linked.data.gov.au/org/daff> ;
+    schema:isPartOf <https://linked.data.gov.au/org/daff> ;
+    schema:url "https://www.agriculture.gov.au/abares"^^xsd:anyURI ;
+.
+
+<https://linked.data.gov.au/org/daff>
+    a
+        skos:Concept ,
+        schema:Organization ;
+    skos:inScheme cs: ;
+    skos:topConceptOf cs: ;
+    schema:description """DAFF works to enhance Australia's agricultural, fisheries and forestry industries. DAFF creates new and maintains existing agricultural export opportunities, to provide gains for Australian agriculture. DAFF manages biosecurity risks to Australia to protect Australia's multi-billion dollar agricultural industries and our way of life.
+
+This is one of the successor Departments to the Department of Agriculture, Water and the Environment.""" ;
+    schema:name "Department of Agriculture, Fisheries and Forestry" ;
+    skos:definition """DAFF works to enhance Australia's agricultural, fisheries and forestry industries. DAFF creates new and maintains existing agricultural export opportunities, to provide gains for Australian agriculture. DAFF manages biosecurity risks to Australia to protect Australia's multi-billion dollar agricultural industries and our way of life.
+
+This is one of the successor Departments to the Department of Agriculture, Water and the Environment.""" ;
+    skos:prefLabel "Department of Agriculture, Fisheries and Forestry" ;
+    schema:url "https://www.agriculture.gov.au"^^xsd:anyURI ;
+.
+
+
+<https://linked.data.gov.au/org/agldwg>
+    a
+        skos:Concept ,
+        schema:Organization ;
+    skos:inScheme cs: ;
+    skos:topConceptOf cs: ;
+    schema:description "The informal Australian government Working Group charged with assisting any government with matters relating to Linked Data." ;
+    schema:name "Australian Government Linked Data Working Group" ;
+    skos:definition "The informal Australian government Working Group charged with assisting any government with matters relating to Linked Data." ;
+    skos:prefLabel "Australian Government Linked Data Working Group" ;
+    schema:url "http://www.linked.data.gov.au"^^xsd:anyURI ;
+.
+
+<https://linked.data.gov.au/org/ausbigg>
+    a
+        skos:Concept ,
+        schema:Organization ;
+    skos:inScheme cs: ;
+    skos:topConceptOf cs: ;
+    schema:description """The Australian Biodiversity Information Governance Group (AusBIGG) comprises Australian Commonwealth, State &amp; Territory and environmental research organisations involved in the collection and management of biodiversity information.
+
+AusBIGG was established in 2021 and its main role, as of 2023, is the governance of the Australian Biodiversity Information Standard.""" ;
+    schema:name "Australian Biodiversity Information Governance Group" ;
+    skos:definition """The Australian Biodiversity Information Governance Group (AusBIGG) comprises Australian Commonwealth, State &amp; Territory and environmental research organisations involved in the collection and management of biodiversity information.
+
+AusBIGG was established in 2021 and its main role, as of 2023, is the governance of the Australian Biodiversity Information Standard.""" ;
+    skos:prefLabel "Australian Biodiversity Information Governance Group" ;
+    schema:url "https://github.com/AusBIGG/"^^xsd:anyURI ;
+.
+
+
+<https://linked.data.gov.au/org/dcceew>
+    a
+        skos:Concept ,
+        schema:Organization ;
+    skos:inScheme cs: ;
+    skos:topConceptOf cs: ;
+    schema:identifier "https://ror.org/01db6n192"^^id:ror ;
+    schema:description "The Federal Government department that leads Australia’s response to climate change and sustainable energy use, and protects our environment, heritage and water." ;
+    schema:name "Department of Climate Change, Energy, the Environment and Water" ;
+    skos:definition "The Federal Government department that leads Australia’s response to climate change and sustainable energy use, and protects our environment, heritage and water." ;
+    skos:prefLabel "Department of Climate Change, Energy, the Environment and Water" ;
+    schema:url "https://www.dcceew.gov.au"^^xsd:anyURI ;
+.
+
+<https://linked.data.gov.au/org/idn>
+    a
+        skos:Concept ,
+        schema:Organization ;
+    skos:inScheme cs: ;
+    skos:topConceptOf cs: ;
+    schema:description "The Indigenous Data Network of Australia." ;
+    schema:name "Indigenous Data Network" ;
+    skos:definition "The Indigenous Data Network of Australia." ;
+    skos:prefLabel "Indigenous Data Network" ;
+    schema:url "https://www.idnau.org"^^xsd:anyURI ;
+.
+
+<https://w3id.org/tern/resources/a083902d-d821-41be-b663-1d7cb33eea66>
+   a
+        skos:Concept ,
+        schema:Organization ;
+    skos:inScheme cs: ;
+    skos:broader <https://linked.data.gov.au/org/dcceew> ;
+    schema:isPartOf <https://linked.data.gov.au/org/dcceew> ;
+    schema:identifier "https://ror.org/03wxseg04"^^id:ror ;
+    schema:description "TERN is Australia’s land ecosystem observatory." ;
+    schema:name "Terrestrial Ecosystem Research Network" ;
+    skos:definition "TERN is Australia’s land ecosystem observatory." ;
+    skos:prefLabel "Terrestrial Ecosystem Research Network" ;
+    schema:url "https://www.tern.org.au"^^xsd:anyURI ;
+    skos:exactMatch <https://linked.data.gov.au/org/tern>
+. 
+
+<http://linkeddata.tern.org.au/def/agent/a083902d-d821-41be-b663-1d7cb33eea66>
+owl:deprecated "true"^^xsd:boolean ;
+dcterms:isReplacedBy <https://linked.data.gov.au/org/tern> 
+.
+
+<https://ror.org/030c92375>
+owl:deprecated "true"^^xsd:boolean ;
+dcterms:isReplacedBy <https://linked.data.gov.au/org/dcceew> 
+.
+
 cs:
     a skos:ConceptScheme ;
     skos:definition "Organisations known to own & submit data to the Biodiversity Date Repository"@en ;
@@ -1256,7 +1408,6 @@ cs:
         <https://linked.data.gov.au/org/sfsgi> ,
         <https://linked.data.gov.au/org/sunwater> ,
         <https://linked.data.gov.au/org/te-papa> ,
-        <https://linked.data.gov.au/org/tern> ,
         <https://linked.data.gov.au/org/tmag> ,
         <https://linked.data.gov.au/org/uadelaide> ,
         <https://linked.data.gov.au/org/umweltaust> ,
@@ -1272,9 +1423,17 @@ cs:
         <https://linked.data.gov.au/org/wam> ,
         <https://linked.data.gov.au/org/western-shield> ,
         <https://linked.data.gov.au/org/wmbaustralia> ,
-        <https://linked.data.gov.au/org/wwf-australia> ;
+        <https://linked.data.gov.au/org/wwf-australia> ,
+        <http://www.publish.csiro.au/> ,
+        <https://kurrawong.ai> ,
+        <https://linked.data.gov.au/org/agldwg> ,
+        <https://linked.data.gov.au/org/ausbigg> ,
+        <https://linked.data.gov.au/org/dcceew> ,
+        <https://linked.data.gov.au/org/idn> ,
+        <https://linked.data.gov.au/org/daff> ;
     skos:historyNote
-        """2025-08: Added from data supplied to the BDR from jurisdictions via https://submit.bdr.gov.au in mid-2025" ,
+        """2026-05: Updated following BDR reference data audit ,
+        2025-08: Added from data supplied to the BDR from jurisdictions via https://submit.bdr.gov.au in mid-2025" ,
 
 This vocabulary was initially developed for the Biodiversity Data Repository and is live in that it grows with new data submissions from new organisations""" ,
         "Added from data supplied to tne BDR from jurisdictions via https://submit.bdr.gov.au in mid-2025" ,
@@ -1282,7 +1441,7 @@ This vocabulary was initially developed for the Biodiversity Data Repository and
     skos:prefLabel "BDR Organisations"@en ;
     schema:creator <https://linked.data.gov.au/org/dcceew> ;
     schema:dateCreated "2024-07-09"^^xsd:date ;
-    schema:dateModified "2026-03-11"^^xsd:date ;
+    schema:dateModified "2026-05-21"^^xsd:date ;
     schema:license <http://purl.org/NET/rdflicense/cc-by4.0> ;
     schema:publisher <https://linked.data.gov.au/org/dcceew> ;
 .
