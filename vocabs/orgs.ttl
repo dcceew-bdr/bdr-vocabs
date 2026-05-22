@@ -1226,6 +1226,9 @@ Today, the Museum has seven public locations across the state - and a Collection
         a skos:Concept , 
         schema:Organization ;
     schema:name "Australian Bureau of Agricultural and Resource Economics and Sciences." ;
+    skos:prefLabel "Australian Bureau of Agricultural and Resource Economics and Sciences." ;
+    schema:description "The Australian Bureau of Agricultural and Resource Economics and Sciences is the research arm of the Australian Government Department of Agriculture, Fisheries and Forestry."@en ;
+    skos:definition "The Australian Bureau of Agricultural and Resource Economics and Sciences is the research arm of the Australian Government Department of Agriculture, Fisheries and Forestry."@en ;
     schema:alternateName "ABARES" ;
     schema:identifier "https://ror.org/00rev1511"^^id:ror ;
     skos:broader <https://linked.data.gov.au/org/daff> ;
