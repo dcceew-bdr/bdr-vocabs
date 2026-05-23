@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+import csv
 import re
 import sys
 import urllib.parse
@@ -26,13 +27,12 @@ def resolve_taxon_page(page_url: str):
     iris = extract_afd_taxon_iri(html)
 
     if iris:
-        return iris[0]
+        return iris[0], page_url
 
-    return page_url
+    return page_url, page_url
 
 
 def normalise_name(name: str) -> str:
-    # Remove trailing parenthetical qualifiers.
     search_name = re.sub(
         r"\s*\([^)]*\)\s*$",
         "",
@@ -41,11 +41,9 @@ def normalise_name(name: str) -> str:
 
     parts = search_name.split()
 
-    # Keep trinomial names where the third word looks like a subspecies.
     if len(parts) >= 3 and parts[2].islower():
         return " ".join(parts[:3])
 
-    # Otherwise reduce to binomial.
     return " ".join(parts[:2])
 
 
@@ -70,7 +68,7 @@ def search_afd(name: str):
     )
 
     if concept_uris:
-        return concept_uris
+        return [(uri, "") for uri in concept_uris]
 
     genus = name.split()[0]
 
@@ -88,13 +86,13 @@ def search_afd(name: str):
         if m.startswith(genus + "_")
     ]
 
-    resolved_uris = []
+    resolved = []
 
     for m in taxon_links:
         page_url = f"{BASE}/afd/taxa/{m}"
-        resolved_uris.append(resolve_taxon_page(page_url))
+        resolved.append(resolve_taxon_page(page_url))
 
-    return resolved_uris
+    return resolved
 
 
 def main():
@@ -107,9 +105,16 @@ def main():
 
     infile = sys.argv[1]
 
-    with open(infile, encoding="utf-8-sig") as f:
-        print("input_name,search_name,matched_uri,match_count")
+    writer = csv.writer(sys.stdout)
+    writer.writerow([
+        "input_name",
+        "search_name",
+        "matched_uri",
+        "taxon_page_url",
+        "match_count",
+    ])
 
+    with open(infile, encoding="utf-8-sig") as f:
         for line in f:
             name = line.strip()
 
@@ -117,14 +122,25 @@ def main():
                 continue
 
             search_name = normalise_name(name)
+            matches = search_afd(search_name)
 
-            uris = search_afd(search_name)
-
-            if uris:
-                for uri in uris:
-                    print(f'"{name}","{search_name}","{uri}",{len(uris)}')
+            if matches:
+                for matched_uri, taxon_page_url in matches:
+                    writer.writerow([
+                        name,
+                        search_name,
+                        matched_uri,
+                        taxon_page_url,
+                        len(matches),
+                    ])
             else:
-                print(f'"{name}","{search_name}","",0')
+                writer.writerow([
+                    name,
+                    search_name,
+                    "",
+                    "",
+                    0,
+                ])
 
 
 if __name__ == "__main__":

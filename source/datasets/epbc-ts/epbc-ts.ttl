@@ -9641,16 +9641,19 @@ d:
 
 <http://biodiversity.org.au/afd.taxon/83063bdc-cc9b-4028-b664-35c7c0bc65d9>
     schema:name "Acanthiza iredalei rosinae" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Acanthiza_%28Geobasileus%29_iredalei_rosinae"^^xsd:anyURI ;
     schema:status epbc:vulnerable ;
 .
 
 <http://biodiversity.org.au/afd.taxon/fe7de157-e9c1-4672-be08-71b411847570>
     schema:name "Acanthiza pusilla magnirostris" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Acanthiza_%28Acanthiza%29_pusilla_magnirostris"^^xsd:anyURI ;
     schema:status epbc:endangered ;
 .
 
 <http://biodiversity.org.au/afd.taxon/5cfb45ca-ee57-483e-a417-08114e87217c>
     schema:name "Acanthophis hawkei" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Acanthophis_hawkei"^^xsd:anyURI ;
     schema:status epbc:vulnerable ;
 .
 
@@ -9661,6 +9664,7 @@ d:
 
 <http://biodiversity.org.au/afd.taxon/38494a6c-300d-4321-9d38-cae93b68803e>
     schema:name "Accipiter hiogaster natalis" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Accipiter_%28Leucospiza%29_hiogaster_natalis"^^xsd:anyURI ;
     schema:status epbc:endangered ;
 .
 
@@ -9691,11 +9695,13 @@ d:
 
 <http://biodiversity.org.au/afd.taxon/fdc417b8-2252-42f3-bd44-116e7154beae>
     schema:name "Aipysurus fuscus" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Aipysurus_fuscus"^^xsd:anyURI ;
     schema:status epbc:endangered ;
 .
 
 <http://biodiversity.org.au/afd.taxon/c4481033-9756-4634-ab30-7d5f42b4546b>
     schema:name "Ammoniropa vigens" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Ammoniropa_vigens"^^xsd:anyURI ;
     schema:status epbc:critically-endangered ;
 .
 
@@ -9706,41 +9712,49 @@ d:
 
 <http://biodiversity.org.au/afd.taxon/4ff2ca2f-f776-4d3a-bad3-6db61de6afbb>
     schema:name "Amytornis barbatus barbatus" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Amytornis_%28Maluropsis%29_barbatus_barbatus"^^xsd:anyURI ;
     schema:status epbc:endangered ;
 .
 
 <http://biodiversity.org.au/afd.taxon/c9c4c977-38ec-4261-9282-24524f9778ac>
     schema:name "Amytornis dorotheae" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Amytornis_%28Magnamytis%29_dorotheae"^^xsd:anyURI ;
     schema:status epbc:endangered ;
 .
 
 <http://biodiversity.org.au/afd.taxon/d630e99a-5b97-44cc-a353-46facfee8364>
     schema:name "Amytornis merrotsyi merrotsyi" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Amytornis_%28Cryptamytis%29_merrotsyi_merrotsyi"^^xsd:anyURI ;
     schema:status epbc:vulnerable ;
 .
 
 <http://biodiversity.org.au/afd.taxon/43e4150d-240b-49df-a875-165b9d8b9865>
     schema:name "Amytornis merrotsyi pedleri" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Amytornis_%28Cryptamytis%29_merrotsyi_pedleri"^^xsd:anyURI ;
     schema:status epbc:endangered ;
 .
 
 <http://biodiversity.org.au/afd.taxon/050e7124-9060-46e5-859f-519e4d47730e>
     schema:name "Amytornis modestus obscurior" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Amytornis_%28Amytornis%29_modestus_obscurior"^^xsd:anyURI ;
     schema:status epbc:critically-endangered ;
 .
 
 <http://biodiversity.org.au/afd.taxon/5346cce2-f174-4a8e-b4ca-b4be088ac7e0>
     schema:name "Amytornis striatus howei" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Amytornis_%28Magnamytis%29_striatus_howei"^^xsd:anyURI ;
     schema:status epbc:endangered ;
 .
 
 <http://biodiversity.org.au/afd.taxon/3d6cb061-86d7-4d30-a5cf-69584279dd08>
     schema:name "Amytornis textilis myall" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Amytornis_%28Amytornis%29_textilis_myall"^^xsd:anyURI ;
     schema:status epbc:vulnerable ;
 .
 
 <http://biodiversity.org.au/afd.taxon/44b923c7-16f2-42ab-8b6c-67ee6e4da28f>
     schema:name "Amytornis woodwardi" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Amytornis_%28Magnamytis%29_woodwardi"^^xsd:anyURI ;
     schema:status epbc:vulnerable ;
 .
 
@@ -9751,6 +9765,7 @@ d:
 
 <http://biodiversity.org.au/afd.taxon/4719ff01-9ce1-46b7-9d07-6fb76bc33663>
     schema:name "Anomalopus mackayi" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Anomalopus_mackayi"^^xsd:anyURI ;
     schema:status epbc:vulnerable ;
 .
 
@@ -9771,6 +9786,7 @@ d:
 
 <http://biodiversity.org.au/afd.taxon/0f438409-f71b-40f5-954a-6c9e49629473>
     schema:name "Antechinus bellus" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Antechinus_bellus"^^xsd:anyURI ;
     schema:status epbc:vulnerable ;
 .
 
@@ -9781,11 +9797,13 @@ d:
 
 <http://biodiversity.org.au/afd.taxon/3fbe55ce-7637-4abd-a61e-7100f6267f4e>
     schema:name "Anthochaera chrysoptera halmaturina" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Anthochaera_%28Anellobia%29_chrysoptera_halmaturina"^^xsd:anyURI ;
     schema:status epbc:vulnerable ;
 .
 
 <http://biodiversity.org.au/afd.taxon/31869a0e-2ce5-40be-b6f6-c0231a48b414>
     schema:name "Anthochaera phrygia" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Anthochaera_%28Xanthomyza%29_phrygia"^^xsd:anyURI ;
     schema:status epbc:critically-endangered ;
 .
 
@@ -9801,6 +9819,7 @@ d:
 
 <http://biodiversity.org.au/afd.taxon/0d73960c-5255-4146-93bd-b71d84d1867b>
     schema:name "Aplonis fusca" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Aplonis_%28Aplonis%29_fusca_fusca"^^xsd:anyURI ;
     schema:status epbc:extinct ;
 .
 
@@ -9821,11 +9840,13 @@ d:
 
 <http://biodiversity.org.au/afd.taxon/ac93f7f0-0686-4589-801a-5832378cb7c1>
     schema:name "Aquila audax fleayi" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Aquila_%28Uroaetus%29_audax_fleayi"^^xsd:anyURI ;
     schema:status epbc:endangered ;
 .
 
 <http://biodiversity.org.au/afd.taxon/cc917a18-4833-4983-af35-84e65228487e>
     schema:name "Arctocephalus tropicalis" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Arctocephalus_tropicalis"^^xsd:anyURI ;
     schema:status epbc:endangered ;
 .
 
@@ -9841,11 +9862,13 @@ d:
 
 <http://biodiversity.org.au/afd.taxon/85a604f5-2c9c-42e4-9aad-2b8405b9a172>
     schema:name "Argynnis hyperbius inconstans" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Argynnis_hyperbius_inconstans"^^xsd:anyURI ;
     schema:status epbc:critically-endangered ;
 .
 
 <http://biodiversity.org.au/afd.taxon/c0ecc524-4722-457a-bf1f-f67abd660cf8>
     schema:name "Assa darlingtoni" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Assa_darlingtoni"^^xsd:anyURI ;
     schema:status epbc:vulnerable ;
 .
 
@@ -9861,11 +9884,13 @@ d:
 
 <http://biodiversity.org.au/afd.taxon/2c8750a3-60ab-4cbf-ac00-c5c5bb7b28a8>
     schema:name "Atrichornis clamosus" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Atrichornis_%28Rahcinta%29_clamosus"^^xsd:anyURI ;
     schema:status epbc:endangered ;
 .
 
 <http://biodiversity.org.au/afd.taxon/9e7a332b-a69c-415a-b48d-26cd16fa716d>
     schema:name "Austroablepharus barrylyoni" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Austroablepharus_barrylyoni"^^xsd:anyURI ;
     schema:status epbc:critically-endangered ;
 .
 
@@ -9881,16 +9906,19 @@ d:
 
 <http://biodiversity.org.au/afd.taxon/a2a8fc54-88b7-4b1c-8f1b-ad15998322cd>
     schema:name "Balaenoptera musculus" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Balaenoptera_musculus"^^xsd:anyURI ;
     schema:status epbc:endangered ;
 .
 
 <http://biodiversity.org.au/afd.taxon/4de14593-cecd-4216-af1b-6f9f3909dd25>
     schema:name "Balaenoptera physalus" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Balaenoptera_physalus"^^xsd:anyURI ;
     schema:status epbc:vulnerable ;
 .
 
 <http://biodiversity.org.au/afd.taxon/a7d6f4db-19a4-4cec-82b5-3fdfd2eaf31b>
     schema:name "Bellatorias obiri" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Bellatorias_obiri"^^xsd:anyURI ;
     schema:status epbc:endangered ;
 .
 
@@ -9901,6 +9929,7 @@ d:
 
 <http://biodiversity.org.au/afd.taxon/c529485a-d037-4677-b94b-6a3d2a579dfd>
     schema:name "Bertmainius tingle" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Bertmainius_tingle"^^xsd:anyURI ;
     schema:status epbc:endangered ;
 .
 
@@ -9916,6 +9945,7 @@ d:
 
 <http://biodiversity.org.au/afd.taxon/8e706a39-e1cc-445d-be5a-71500dba29e4>
     schema:name "Bettongia lesueur Barrow and Boodie Islands subsp." ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Bettongia_lesueur"^^xsd:anyURI ;
     schema:status epbc:vulnerable ;
 .
 
@@ -9936,6 +9966,7 @@ d:
 
 <http://biodiversity.org.au/afd.taxon/fc90eb47-4201-487d-9882-7bdffe1e25f6>
     schema:name "Bettongia penicillata penicillate" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Bettongia_penicillata_penicillata"^^xsd:anyURI ;
     schema:status epbc:extinct ;
 .
 
@@ -9951,6 +9982,7 @@ d:
 
 <http://biodiversity.org.au/afd.taxon/0d382040-d26d-4009-921a-abf76013df3a>
     schema:name "Bidyanus bidyanus" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Bidyanus_bidyanus"^^xsd:anyURI ;
     schema:status epbc:endangered ;
 .
 
@@ -9971,16 +10003,19 @@ d:
 
 <http://biodiversity.org.au/afd.taxon/f452242f-5a35-4d5d-a141-7e2dfb9f176b>
     schema:name "Calidris acuminata" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Calidris_%28Erolia%29_acuminata"^^xsd:anyURI ;
     schema:status epbc:vulnerable ;
 .
 
 <http://biodiversity.org.au/afd.taxon/e6ea1087-ce34-4cf8-be85-546a9d732965>
     schema:name "Calidris ferruginea" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Calidris_%28Erolia%29_ferruginea"^^xsd:anyURI ;
     schema:status epbc:critically-endangered ;
 .
 
 <http://biodiversity.org.au/afd.taxon/3e9c17c9-270f-4a74-9ed8-7ccabd575be9>
     schema:name "Calidris tenuirostris" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Calidris_%28Calidris%29_tenuirostris"^^xsd:anyURI ;
     schema:status epbc:vulnerable ;
 .
 
@@ -9991,66 +10026,79 @@ d:
 
 <http://biodiversity.org.au/afd.taxon/9ad4a41c-3731-42d6-92b8-995e2630e436>
     schema:name "Caloprymnus campestris" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Caloprymnus_campestris"^^xsd:anyURI ;
     schema:status epbc:extinct ;
 .
 
 <http://biodiversity.org.au/afd.taxon/6765ea54-8c5c-474c-b670-ac58c32f5d62>
     schema:name "Calyptorhynchus banksii graptogyne" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Calyptorhynchus_%28Calyptorhynchus%29_banksii_graptogyne"^^xsd:anyURI ;
     schema:status epbc:endangered ;
 .
 
 <http://biodiversity.org.au/afd.taxon/ebb36e48-4e64-42c5-a74c-309cc1e12961>
     schema:name "Calyptorhynchus banksii naso" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Calyptorhynchus_%28Calyptorhynchus%29_banksii_naso"^^xsd:anyURI ;
     schema:status epbc:vulnerable ;
 .
 
 <http://biodiversity.org.au/afd.taxon/3ea16688-8600-4d08-a362-1d5bd33af2aa>
     schema:name "Calyptorhynchus lathami halmaturinus" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Calyptorhynchus_%28Calyptorhynchus%29_lathami_halmaturinus"^^xsd:anyURI ;
     schema:status epbc:endangered ;
 .
 
 <http://biodiversity.org.au/afd.taxon/a7578d10-e7ae-48c2-9deb-bab619125a6c>
     schema:name "Calyptorhynchus lathami lathami" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Calyptorhynchus_%28Calyptorhynchus%29_lathami_lathami"^^xsd:anyURI ;
     schema:status epbc:vulnerable ;
 .
 
 <http://biodiversity.org.au/afd.taxon/0552a891-e2c8-4b8b-8fa2-37825fb24f88>
     schema:name "Carcharodon carcharias" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Carcharodon_carcharias"^^xsd:anyURI ;
     schema:status epbc:vulnerable ;
 .
 
 <http://biodiversity.org.au/afd.taxon/910b27e8-19c3-4194-b55a-fd95a80ccdf9>
     schema:name "Caretta caretta" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Caretta_caretta"^^xsd:anyURI ;
     schema:status epbc:endangered ;
 .
 
 <http://biodiversity.org.au/afd.taxon/c8ddc708-d14a-4e6b-84b0-c3a5d837dda8>
     schema:name "Carettochelys insculpta" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Carettochelys_insculpta"^^xsd:anyURI ;
     schema:status epbc:vulnerable ;
 .
 
 <http://biodiversity.org.au/afd.taxon/bcc0b936-ca0f-4d3f-a6bb-cbeda0e4ae1b>
     schema:name "Carinascincus greenei" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Carinascincus_greeni"^^xsd:anyURI ;
     schema:status epbc:endangered ;
 .
 
 <http://biodiversity.org.au/afd.taxon/3a012b1b-272d-460d-85d0-568a90fc4d78>
     schema:name "Carinascincus microlepidotus" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Carinascincus_microlepidotus"^^xsd:anyURI ;
     schema:status epbc:endangered ;
 .
 
 <http://biodiversity.org.au/afd.taxon/abdeb0f6-25da-4ac6-a9cb-3db939a77785>
     schema:name "Carinascincus orocryptus" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Carinascincus_orocryptus"^^xsd:anyURI ;
     schema:status epbc:endangered ;
 .
 
 <http://biodiversity.org.au/afd.taxon/38185d5b-f373-49a2-9e6f-e48481a128e8>
     schema:name "Carinascincus palfreymani" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Carinascincus_palfreymani"^^xsd:anyURI ;
     schema:status epbc:critically-endangered ;
 .
 
 <http://biodiversity.org.au/afd.taxon/15f8fca2-0bbd-4d4c-939f-3ca8f0cfaaa7>
     schema:name "Centrophorus uyato" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Centrophorus_uyato;Centrophorus"^^xsd:anyURI ;
     schema:status epbc:conservation-dependent ;
 .
 
@@ -10061,6 +10109,7 @@ d:
 
 <http://biodiversity.org.au/afd.taxon/7490e212-c6cf-4603-bb11-4010f8703696>
     schema:name "Cereopsis novaehollandiae grisea" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Cereopsis_novaehollandiae_grisea"^^xsd:anyURI ;
     schema:status epbc:vulnerable ;
 .
 
@@ -10081,16 +10130,19 @@ d:
 
 <http://biodiversity.org.au/afd.taxon/dced77e3-0137-4bb4-a4d3-bc95ac71e81b>
     schema:name "Charadrius leschenaultii" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Charadrius_%28Charadrius%29_leschenaultii_leschenaultii"^^xsd:anyURI ;
     schema:status epbc:vulnerable ;
 .
 
 <http://biodiversity.org.au/afd.taxon/bc2f1f65-2844-4e3c-a07e-b60717967b78>
     schema:name "Charadrius mongolus" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Charadrius_%28Charadrius%29_mongolus_mongolus"^^xsd:anyURI ;
     schema:status epbc:endangered ;
 .
 
 <http://biodiversity.org.au/afd.taxon/2d605472-979b-49b4-aed3-03a384e9f706>
     schema:name "Chelonia mydas" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Chelonia_mydas"^^xsd:anyURI ;
     schema:status epbc:vulnerable ;
 .
 
@@ -10121,31 +10173,37 @@ d:
 
 <http://biodiversity.org.au/afd.taxon/034518df-90f9-47fc-961b-cc3c9ca067b0>
     schema:name "Christinus guentheri" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Christinus_guentheri"^^xsd:anyURI ;
     schema:status epbc:vulnerable ;
 .
 
 <http://biodiversity.org.au/afd.taxon/1bacffb1-9a12-41e5-800b-5701f8d80910>
     schema:name "Cinclosoma punctatum anachoreta" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Cinclosoma_%28Cinclosoma%29_punctatum_anachoreta"^^xsd:anyURI ;
     schema:status epbc:critically-endangered ;
 .
 
 <http://biodiversity.org.au/afd.taxon/fe69a214-d43c-468f-bb83-06402ac95e35>
     schema:name "Climacteris picumnus victoriae" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Climacteris_%28Climacteris%29_picumnus_victoriae"^^xsd:anyURI ;
     schema:status epbc:vulnerable ;
 .
 
 <http://biodiversity.org.au/afd.taxon/8eaed094-2c20-4a5b-815f-ffdd0dcb9647>
     schema:name "Coeranoscincus reticulatus" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Coeranoscincus_reticulatus"^^xsd:anyURI ;
     schema:status epbc:vulnerable ;
 .
 
 <http://biodiversity.org.au/afd.taxon/efb64723-3d45-42f1-bcc3-7bd38f18fc90>
     schema:name "Columba vitiensis godmanae" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Columba_%28Janthoenas%29_vitiensis_godmanae"^^xsd:anyURI ;
     schema:status epbc:extinct ;
 .
 
 <http://biodiversity.org.au/afd.taxon/26661cf7-c6ef-428a-8663-37ea8b94eec7>
     schema:name "Conilurus albipes" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Conilurus_albipes"^^xsd:anyURI ;
     schema:status epbc:extinct ;
 .
 
@@ -10156,6 +10214,7 @@ d:
 
 <http://biodiversity.org.au/afd.taxon/9bb1445f-39e4-417e-b384-60a277447a4a>
     schema:name "Conilurus penicillatus" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Conilurus_penicillatus"^^xsd:anyURI ;
     schema:status epbc:vulnerable ;
 .
 
@@ -10206,21 +10265,25 @@ d:
 
 <http://biodiversity.org.au/afd.taxon/62435ea0-629e-428d-af1f-bb8aa0fb4129>
     schema:name "Crocidura trichura" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Crocidura_trichura"^^xsd:anyURI ;
     schema:status epbc:critically-endangered ;
 .
 
 <http://biodiversity.org.au/afd.taxon/bd937fe6-430f-4d26-ab8e-3e4e34224896>
     schema:name "Cryptoblepharus egeriae" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Cryptoblepharus_egeriae"^^xsd:anyURI ;
     schema:status epbc:critically-endangered ;
 .
 
 <http://biodiversity.org.au/afd.taxon/dc18af1d-f153-42fd-939a-6de0ee3bc6d1>
     schema:name "Cryptoblepharus gurrmul" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Cryptoblepharus_gurrmul"^^xsd:anyURI ;
     schema:status epbc:endangered ;
 .
 
 <http://biodiversity.org.au/afd.taxon/a5d53376-7cf7-4893-8a5a-3ecc11eb846c>
     schema:name "Ctenophorus yinnietharra" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Ctenophorus_yinnietharra"^^xsd:anyURI ;
     schema:status epbc:vulnerable ;
 .
 
@@ -10231,11 +10294,13 @@ d:
 
 <http://biodiversity.org.au/afd.taxon/cbb95cf2-6b35-4ca0-9b99-ae47abf6c23f>
     schema:name "Ctenotus serotinus" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Ctenotus_serotinus"^^xsd:anyURI ;
     schema:status epbc:critically-endangered ;
 .
 
 <http://biodiversity.org.au/afd.taxon/d37e21f5-0afb-4d0e-8563-dc0f60cc4256>
     schema:name "Ctenotus zastictus" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Ctenotus_zastictus"^^xsd:anyURI ;
     schema:status epbc:vulnerable ;
 .
 
@@ -10256,6 +10321,7 @@ d:
 
 <http://biodiversity.org.au/afd.taxon/883ab7bf-0ef9-42f6-8444-dc798a46effa>
     schema:name "Cyclodomorphus praealtus" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Cyclodomorphus_praealtus"^^xsd:anyURI ;
     schema:status epbc:endangered ;
 .
 
@@ -10271,11 +10337,13 @@ d:
 
 <http://biodiversity.org.au/afd.taxon/c3ee1656-d557-40d4-8251-817fbdaab7ba>
     schema:name "Dasyornis broadbenti litoralis" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Dasyornis_%28Maccoyornis%29_broadbenti_litoralis"^^xsd:anyURI ;
     schema:status epbc:extinct ;
 .
 
 <http://biodiversity.org.au/afd.taxon/bdd6e28f-8085-409f-8e63-2afbf0d06d26>
     schema:name "Dasyornis longirostris" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Dasyornis_%28Dasyornis%29_longirostris"^^xsd:anyURI ;
     schema:status epbc:endangered ;
 .
 
@@ -10286,6 +10354,7 @@ d:
 
 <http://biodiversity.org.au/afd.taxon/745e9d92-2a2f-4ac7-963a-7a7787050aff>
     schema:name "Dasyurus hallucatus" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Dasyurus_hallucatus"^^xsd:anyURI ;
     schema:status epbc:endangered ;
 .
 
@@ -10306,11 +10375,13 @@ d:
 
 <http://biodiversity.org.au/afd.taxon/1e9f1b49-78b5-409d-91f2-21615ce88e9d>
     schema:name "Dasyurus viverrinus" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Dasyurus_viverrinus"^^xsd:anyURI ;
     schema:status epbc:endangered ;
 .
 
 <http://biodiversity.org.au/afd.taxon/c7327642-e36d-41d5-b884-59a0180780d2>
     schema:name "Delma impar" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Delma_impar"^^xsd:anyURI ;
     schema:status epbc:vulnerable ;
 .
 
@@ -10336,11 +10407,13 @@ d:
 
 <http://biodiversity.org.au/afd.taxon/8167ccd6-00df-48d2-814f-06d68e522ac2>
     schema:name "Denisonia maculata" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Denisonia_maculata"^^xsd:anyURI ;
     schema:status epbc:vulnerable ;
 .
 
 <http://biodiversity.org.au/afd.taxon/9b31383c-4745-4b8f-a3bd-8b9e91619e47>
     schema:name "Dermochelys coriacea" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Dermochelys_coriacea"^^xsd:anyURI ;
     schema:status epbc:endangered ;
 .
 
@@ -10381,6 +10454,7 @@ d:
 
 <http://biodiversity.org.au/afd.taxon/dadd0369-f5fe-4de0-8d37-6334f51e47f5>
     schema:name "Dromaius ater" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Dromaius_minor"^^xsd:anyURI ;
     schema:status epbc:extinct ;
 .
 
@@ -10396,31 +10470,37 @@ d:
 
 <http://biodiversity.org.au/afd.taxon/00c729f6-36a4-440d-85e9-5e9ad83a5ca0>
     schema:name "Egernia roomi" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Egernia_roomi"^^xsd:anyURI ;
     schema:status epbc:critically-endangered ;
 .
 
 <http://biodiversity.org.au/afd.taxon/ad029e80-76fe-4266-9972-9d3b87ae9c21>
     schema:name "Egernia rugosa" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Egernia_rugosa"^^xsd:anyURI ;
     schema:status epbc:vulnerable ;
 .
 
 <http://biodiversity.org.au/afd.taxon/d760f75c-5c47-47e8-8a07-11906e966c37>
     schema:name "Egernia stokesii badia" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Egernia_stokesii_badia"^^xsd:anyURI ;
     schema:status epbc:endangered ;
 .
 
 <http://biodiversity.org.au/afd.taxon/045c0c03-1711-477e-8ee5-33c81eb42099>
     schema:name "Elseya albagula" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Elseya_%28Pelocomastes%29_albagula"^^xsd:anyURI ;
     schema:status epbc:critically-endangered ;
 .
 
 <http://biodiversity.org.au/afd.taxon/00a639e3-ddd3-4273-b8a2-d966e52a33aa>
     schema:name "Elseya irwini" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Elseya_%28Pelocomastes%29_irwini"^^xsd:anyURI ;
     schema:status epbc:vulnerable ;
 .
 
 <http://biodiversity.org.au/afd.taxon/1ee2d2e0-082a-4ac2-957f-50d46b1ab6ac>
     schema:name "Elseya lavarackorum" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Elseya_%28Pelocomastes%29_lavarackorum"^^xsd:anyURI ;
     schema:status epbc:endangered ;
 .
 
@@ -10431,11 +10511,13 @@ d:
 
 <http://biodiversity.org.au/afd.taxon/286824cf-fce6-4101-9c37-6dac6fcd9593>
     schema:name "Emoia nativitatis" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Emoia_nativitatis"^^xsd:anyURI ;
     schema:status epbc:extinct ;
 .
 
 <http://biodiversity.org.au/afd.taxon/c73bee3e-40b5-4a4c-9049-2900805aeb61>
     schema:name "Emydura subglobosa subglobosa" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Emydura_subglobosa_subglobosa"^^xsd:anyURI ;
     schema:status epbc:critically-endangered ;
 .
 
@@ -10481,21 +10563,25 @@ d:
 
 <http://biodiversity.org.au/afd.taxon/b7b336b9-8628-4fcd-8c3b-0ef3384126e7>
     schema:name "Epinephelus daemelii" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Epinephelus_daemelii"^^xsd:anyURI ;
     schema:status epbc:vulnerable ;
 .
 
 <http://biodiversity.org.au/afd.taxon/3b102dda-5119-4719-88f9-278dc9e661ea>
     schema:name "Epthianura crocea macgregori" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Epthianura_%28Aurepthianura%29_crocea_macgregori"^^xsd:anyURI ;
     schema:status epbc:critically-endangered ;
 .
 
 <http://biodiversity.org.au/afd.taxon/ddbd8b01-aeed-404b-a198-fa2a9b25ae3e>
     schema:name "Epthianura crocea tunneyi" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Epthianura_%28Aurepthianura%29_crocea_tunneyi"^^xsd:anyURI ;
     schema:status epbc:endangered ;
 .
 
 <http://biodiversity.org.au/afd.taxon/96133221-771a-40d0-8368-ad428a55aaaa>
     schema:name "Eretmochelys imbricata" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Eretmochelys_imbricata"^^xsd:anyURI ;
     schema:status epbc:vulnerable ;
 .
 
@@ -10676,26 +10762,31 @@ d:
 
 <http://biodiversity.org.au/afd.taxon/0c5bfca8-f73a-4c8e-be98-fa8c8556d06d>
     schema:name "Eubalaena australis" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Eubalaena_australis"^^xsd:anyURI ;
     schema:status epbc:endangered ;
 .
 
 <http://biodiversity.org.au/afd.taxon/7c5a8f30-a2e9-4e77-bfab-b9b58d5a3cac>
     schema:name "Eulamprus kosciuskoi" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Eulamprus_kosciuskoi"^^xsd:anyURI ;
     schema:status epbc:vulnerable ;
 .
 
 <http://biodiversity.org.au/afd.taxon/b7786ebe-4ec4-49a0-87c5-d2388818391b>
     schema:name "Eulamprus leuraensis" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Eulamprus_leuraensis"^^xsd:anyURI ;
     schema:status epbc:endangered ;
 .
 
 <http://biodiversity.org.au/afd.taxon/0d0dafa8-5aa2-4b42-8bce-7452db362ca5>
     schema:name "Eulamprus tympanum marnieae" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Eulamprus_tympanum_marnieae"^^xsd:anyURI ;
     schema:status epbc:endangered ;
 .
 
 <http://biodiversity.org.au/afd.taxon/4c73a934-63ae-417d-af40-56a82ae68371>
     schema:name "Falco hypoleucos" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Falco_%28Hierofalco%29_hypoleucos"^^xsd:anyURI ;
     schema:status epbc:vulnerable ;
 .
 
@@ -10816,36 +10907,43 @@ d:
 
 <http://biodiversity.org.au/afd.taxon/0337967c-90b3-4106-b211-b29f5ca7a9b7>
     schema:name "Galaxiella nigrostriata" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Galaxiella_nigrostriata"^^xsd:anyURI ;
     schema:status epbc:endangered ;
 .
 
 <http://biodiversity.org.au/afd.taxon/142a28c4-46f2-48c3-9f3f-de6f29193196>
     schema:name "Galaxiella pusilla" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Galaxiella_pusilla"^^xsd:anyURI ;
     schema:status epbc:endangered ;
 .
 
 <http://biodiversity.org.au/afd.taxon/55518eda-6aff-4057-b99b-f8642daffeef>
     schema:name "Galeorhinus galeus" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Galeorhinus_galeus"^^xsd:anyURI ;
     schema:status epbc:conservation-dependent ;
 .
 
 <http://biodiversity.org.au/afd.taxon/5c1957dc-0780-47cb-9c89-0498340c1e62>
     schema:name "Gallinago hardwickii" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Gallinago_%28Gallinago%29_hardwickii"^^xsd:anyURI ;
     schema:status epbc:vulnerable ;
 .
 
 <http://biodiversity.org.au/afd.taxon/082bed5b-72fa-440f-8b16-9c8f3cd8875d>
     schema:name "Geophaps scripta scripta" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Geophaps_%28Geophaps%29_scripta_scripta"^^xsd:anyURI ;
     schema:status epbc:vulnerable ;
 .
 
 <http://biodiversity.org.au/afd.taxon/9018dd38-7b7e-4405-8e71-a12d29026274>
     schema:name "Geophaps smithii blaauwi" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Geophaps_%28Geophaps%29_smithii_blaauwi"^^xsd:anyURI ;
     schema:status epbc:vulnerable ;
 .
 
 <http://biodiversity.org.au/afd.taxon/71feaa45-8cd2-4d09-968a-94baf51cdad6>
     schema:name "Geophaps smithii smithii" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Geophaps_%28Geophaps%29_smithii_smithii"^^xsd:anyURI ;
     schema:status epbc:vulnerable ;
 .
 
@@ -10861,6 +10959,7 @@ d:
 
 <http://biodiversity.org.au/afd.taxon/2a971680-b934-4709-86e7-80c5f3b9cf1b>
     schema:name "Glyphis glyphis" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Glyphis_glyphis"^^xsd:anyURI ;
     schema:status epbc:critically-endangered ;
 .
 
@@ -10891,6 +10990,7 @@ d:
 
 <http://biodiversity.org.au/afd.taxon/47b845bd-eb8e-4912-9785-4247a8219839>
     schema:name "Harrisoniascincus zia" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Harrisoniascincus_zia"^^xsd:anyURI ;
     schema:status epbc:vulnerable ;
 .
 
@@ -10901,16 +11001,19 @@ d:
 
 <http://biodiversity.org.au/afd.taxon/a6a0b147-0b68-4042-b59d-252a051f95c9>
     schema:name "Heleioporus australiacus flavopunctatus" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Heleioporus_australiacus_flavopunctatus"^^xsd:anyURI ;
     schema:status epbc:endangered ;
 .
 
 <http://biodiversity.org.au/afd.taxon/38b3394e-7f8c-46f4-a5b0-773aee68c0be>
     schema:name "Hemiaspis damelii" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Hemiaspis_damelii"^^xsd:anyURI ;
     schema:status epbc:endangered ;
 .
 
 <http://biodiversity.org.au/afd.taxon/16ed6367-90fb-4c22-9953-f92c27d22e9f>
     schema:name "Hemibelideus lemuroides" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Hemibelideus_lemuroides"^^xsd:anyURI ;
     schema:status epbc:endangered ;
 .
 
@@ -10941,6 +11044,7 @@ d:
 
 <http://biodiversity.org.au/afd.taxon/942015d2-8e50-4f83-a42c-94a418044f3a>
     schema:name "Hoplocephalus bungaroides" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Hoplocephalus_bungaroides"^^xsd:anyURI ;
     schema:status epbc:endangered ;
 .
 
@@ -10976,21 +11080,25 @@ d:
 
 <http://biodiversity.org.au/afd.taxon/ddf63393-c25c-456b-a83e-a3ec3416d493>
     schema:name "Hypolimnus pedderensis" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Hypolimnus_pedderensis"^^xsd:anyURI ;
     schema:status epbc:extinct ;
 .
 
 <http://biodiversity.org.au/afd.taxon/a7ee0bea-3061-4277-975f-a6b512078689>
     schema:name "Hypotaenidia philippensis andrewsi" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Hypotaenidia_philippensis_andrewsi"^^xsd:anyURI ;
     schema:status epbc:endangered ;
 .
 
 <http://biodiversity.org.au/afd.taxon/73c685d6-9a53-4d72-a918-4dd2807df6c7>
     schema:name "Hypotaenidia philippensis macquariensis" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Hypotaenidia_philippensis_macquariensis"^^xsd:anyURI ;
     schema:status epbc:extinct ;
 .
 
 <http://biodiversity.org.au/afd.taxon/955b13a7-5761-4a45-8939-8a634547e9eb>
     schema:name "Hypotaenidia sylvestris" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Hypotaenidia_sylvestris"^^xsd:anyURI ;
     schema:status epbc:endangered ;
 .
 
@@ -11001,6 +11109,7 @@ d:
 
 <http://biodiversity.org.au/afd.taxon/1e88bfbe-b8b8-403f-8cd3-c5f5b006e4ef>
     schema:name "Hyridella glenelgensis" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Hyridella_%28Protohyridella%29_glenelgensis"^^xsd:anyURI ;
     schema:status epbc:critically-endangered ;
 .
 
@@ -11051,6 +11160,7 @@ d:
 
 <http://biodiversity.org.au/afd.taxon/0b112a11-cfec-4599-8c5a-056e19631bf7>
     schema:name "Lagorchestes hirsutus bernieri" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Lagorchestes_hirsutus_bernieri"^^xsd:anyURI ;
     schema:status epbc:vulnerable ;
 .
 
@@ -11066,6 +11176,7 @@ d:
 
 <http://biodiversity.org.au/afd.taxon/1a8be414-b418-4d65-b0b1-70fe24e092ec>
     schema:name "Lagorchestes leporides" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Lagorchestes_leporides"^^xsd:anyURI ;
     schema:status epbc:extinct ;
 .
 
@@ -11076,11 +11187,13 @@ d:
 
 <http://biodiversity.org.au/afd.taxon/438b3ad9-61f6-4a9f-84ea-395f1d13be74>
     schema:name "Lalage leucopyga leucopyga" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Lalage_%28Diaphoropterus%29_leucopyga_leucopyga"^^xsd:anyURI ;
     schema:status epbc:extinct ;
 .
 
 <http://biodiversity.org.au/afd.taxon/d4125414-0a5c-4e7c-9eea-d8582d85c83d>
     schema:name "Lampropholis elongata" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Lampropholis_elongata"^^xsd:anyURI ;
     schema:status epbc:critically-endangered ;
 .
 
@@ -11091,6 +11204,7 @@ d:
 
 <http://biodiversity.org.au/afd.taxon/7d417612-72f5-43a0-98fe-0082168585c9>
     schema:name "Leioproctus douglasiellus" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Leioproctus_%28Andrenopsis%29_douglasiellus"^^xsd:anyURI ;
     schema:status epbc:critically-endangered ;
 .
 
@@ -11101,36 +11215,43 @@ d:
 
 <http://biodiversity.org.au/afd.taxon/9a977391-19d1-407a-b979-5d0fa4c49f32>
     schema:name "Lepidochelys olivacea" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Lepidochelys_olivacea"^^xsd:anyURI ;
     schema:status epbc:endangered ;
 .
 
 <http://biodiversity.org.au/afd.taxon/c6c14e66-6e81-4bca-9314-2f192742468a>
     schema:name "Lepidodactylus listeri" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Lepidodactylus_listeri"^^xsd:anyURI ;
     schema:status epbc:critically-endangered ;
 .
 
 <http://biodiversity.org.au/afd.taxon/9daf14f2-931d-44a6-8537-5127c56ab950>
     schema:name "Leporillus apicalis" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Leporillus_apicalis"^^xsd:anyURI ;
     schema:status epbc:extinct ;
 .
 
 <http://biodiversity.org.au/afd.taxon/cce5d053-414a-40e0-87bd-ab8012287068>
     schema:name "Leporillus conditor" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Leporillus_conditor"^^xsd:anyURI ;
     schema:status epbc:vulnerable ;
 .
 
 <http://biodiversity.org.au/afd.taxon/30fdf6d4-ede8-41fc-a4fb-ee5b8c4387f6>
     schema:name "Lerista allanae" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Lerista_allanae"^^xsd:anyURI ;
     schema:status epbc:endangered ;
 .
 
 <http://biodiversity.org.au/afd.taxon/0f679c09-69ba-4eb8-8dd3-e127fe085134>
     schema:name "Lerista colliveri" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Lerista_colliveri"^^xsd:anyURI ;
     schema:status epbc:endangered ;
 .
 
 <http://biodiversity.org.au/afd.taxon/83bc222c-16be-4eba-8859-7528837f47f9>
     schema:name "Lerista nevinae" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Lerista_nevinae"^^xsd:anyURI ;
     schema:status epbc:endangered ;
 .
 
@@ -11141,6 +11262,7 @@ d:
 
 <http://biodiversity.org.au/afd.taxon/9a4b76d9-d6b1-44dd-8923-09285a11d72a>
     schema:name "Lerista vittata" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Lerista_vittata"^^xsd:anyURI ;
     schema:status epbc:vulnerable ;
 .
 
@@ -11156,6 +11278,7 @@ d:
 
 <http://biodiversity.org.au/afd.taxon/4f718b07-6711-4026-8063-df878b23de0a>
     schema:name "Leucopatus anophthalmus" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Leucopatus_anophthalmus"^^xsd:anyURI ;
     schema:status epbc:endangered ;
 .
 
@@ -11196,26 +11319,31 @@ d:
 
 <http://biodiversity.org.au/afd.taxon/090674f8-fbc6-4044-997e-2479823bfde8>
     schema:name "Liopholis guthega" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Liopholis_guthega"^^xsd:anyURI ;
     schema:status epbc:endangered ;
 .
 
 <http://biodiversity.org.au/afd.taxon/8bb546b4-3092-4c57-8234-763bee7872d3>
     schema:name "Liopholis kintorei" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Liopholis_kintorei"^^xsd:anyURI ;
     schema:status epbc:vulnerable ;
 .
 
 <http://biodiversity.org.au/afd.taxon/e8c7dd46-d1c4-4156-b19f-a4697a8ca72a>
     schema:name "Liopholis montana" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Liopholis_montana"^^xsd:anyURI ;
     schema:status epbc:endangered ;
 .
 
 <http://biodiversity.org.au/afd.taxon/8ee2b3e0-1be9-45f7-a4b0-1f6e8d5a97a9>
     schema:name "Liopholis pulchra longicauda" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Liopholis_pulchra_longicauda"^^xsd:anyURI ;
     schema:status epbc:vulnerable ;
 .
 
 <http://biodiversity.org.au/afd.taxon/6f5059d5-4afb-4b6e-abe1-2c719d26916c>
     schema:name "Lissolepis coventryi" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Lissolepis_coventryi"^^xsd:anyURI ;
     schema:status epbc:endangered ;
 .
 
@@ -11226,16 +11354,19 @@ d:
 
 <http://biodiversity.org.au/afd.taxon/51a873f5-30e1-4e87-bf2b-455bbde028f6>
     schema:name "Litoria aurea" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Litoria_aurea"^^xsd:anyURI ;
     schema:status epbc:vulnerable ;
 .
 
 <http://biodiversity.org.au/afd.taxon/9678cb19-af06-4915-a32e-713edee5a026>
     schema:name "Litoria booroolongensis" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Litoria_booroolongensis"^^xsd:anyURI ;
     schema:status epbc:endangered ;
 .
 
 <http://biodiversity.org.au/afd.taxon/47d90301-50df-4d0f-8bc4-e369c08275d6>
     schema:name "Litoria castanea" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Litoria_castanea"^^xsd:anyURI ;
     schema:status epbc:critically-endangered ;
 .
 
@@ -11246,6 +11377,7 @@ d:
 
 <http://biodiversity.org.au/afd.taxon/6386ed15-b4da-42be-a05b-4c4e1a1510f4>
     schema:name "Litoria dayi" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Litoria_dayi"^^xsd:anyURI ;
     schema:status epbc:vulnerable ;
 .
 
@@ -11306,6 +11438,7 @@ d:
 
 <http://biodiversity.org.au/afd.taxon/194f92a8-346a-47cd-803a-17263f758b9d>
     schema:name "Lucasium occultum" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Lucasium_occultum"^^xsd:anyURI ;
     schema:status epbc:endangered ;
 .
 
@@ -11321,6 +11454,7 @@ d:
 
 <http://biodiversity.org.au/afd.taxon/3dc33778-3467-40f8-918a-3d8a2ef087a5>
     schema:name "Maccullochella peelii" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Maccullochella_peelii"^^xsd:anyURI ;
     schema:status epbc:vulnerable ;
 .
 
@@ -11331,6 +11465,7 @@ d:
 
 <http://biodiversity.org.au/afd.taxon/7993d9b8-c777-41fc-984c-a1fda2c8878f>
     schema:name "Macroderma gigas" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Macroderma_gigas"^^xsd:anyURI ;
     schema:status epbc:vulnerable ;
 .
 
@@ -11346,31 +11481,37 @@ d:
 
 <http://biodiversity.org.au/afd.taxon/d4fe643e-881f-49de-a8c9-628d5bce2e24>
     schema:name "Macrotis lagotis" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Macrotis_lagotis"^^xsd:anyURI ;
     schema:status epbc:vulnerable ;
 .
 
 <http://biodiversity.org.au/afd.taxon/3d4c3424-d202-49ab-ab52-58a0d7e5d9ed>
     schema:name "Macrotis leucura" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Macrotis_leucura"^^xsd:anyURI ;
     schema:status epbc:extinct ;
 .
 
 <http://biodiversity.org.au/afd.taxon/81857922-5356-4867-991e-978af0992154>
     schema:name "Malurus coronatus coronatus" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Malurus_%28Malurus%29_coronatus_coronatus"^^xsd:anyURI ;
     schema:status epbc:endangered ;
 .
 
 <http://biodiversity.org.au/afd.taxon/eb6c5fd9-0f34-4d3c-a7b1-1112351c3760>
     schema:name "Malurus leucopterus edouardi" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Malurus_%28Musciparus%29_leucopterus_edouardi"^^xsd:anyURI ;
     schema:status epbc:vulnerable ;
 .
 
 <http://biodiversity.org.au/afd.taxon/19c040a8-4605-44bd-ac9e-01a112dca4d4>
     schema:name "Malurus leucopterus leucopterus" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Malurus_%28Musciparus%29_leucopterus_leucopterus"^^xsd:anyURI ;
     schema:status epbc:vulnerable ;
 .
 
 <http://biodiversity.org.au/afd.taxon/ca7db878-07f9-4c93-a611-5d0aa7dcf594>
     schema:name "Manorina melanotis" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Manorina_%28Myzantha%29_melanotis"^^xsd:anyURI ;
     schema:status epbc:endangered ;
 .
 
@@ -11386,11 +11527,13 @@ d:
 
 <http://biodiversity.org.au/afd.taxon/f411b7e7-5818-45fc-b3d2-8dfa5ed45f1e>
     schema:name "Melanodryas cucullata cucullata" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Melanodryas_%28Melanodryas%29_cucullata_cucullata"^^xsd:anyURI ;
     schema:status epbc:endangered ;
 .
 
 <http://biodiversity.org.au/afd.taxon/2f2ceb96-42de-4259-8a84-a7733ffc14fb>
     schema:name "Melanodryas cucullata melvillensis" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Melanodryas_%28Melanodryas%29_cucullata_melvillensis"^^xsd:anyURI ;
     schema:status epbc:critically-endangered ;
 .
 
@@ -11401,6 +11544,7 @@ d:
 
 <http://biodiversity.org.au/afd.taxon/4674bbb7-2b1d-4223-96de-4a933c242092>
     schema:name "Melithreptus brevirostris magnirostris" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Melithreptus_%28Eidopsarus%29_brevirostris_magnirostris"^^xsd:anyURI ;
     schema:status epbc:endangered ;
 .
 
@@ -11446,16 +11590,19 @@ d:
 
 <http://biodiversity.org.au/afd.taxon/98dbf664-a454-4472-81bf-325fa41a1876>
     schema:name "Miniopterus orianae bassanii" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Miniopterus_orianae_bassanii"^^xsd:anyURI ;
     schema:status epbc:critically-endangered ;
 .
 
 <http://biodiversity.org.au/afd.taxon/9870b898-1858-464f-9a0f-39530a4a42ec>
     schema:name "Mirafra javanica melvillensis" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Mirafra_%28Mirafra%29_javanica_melvillensis"^^xsd:anyURI ;
     schema:status epbc:vulnerable ;
 .
 
 <http://biodiversity.org.au/afd.taxon/e6350847-226c-44ad-a5ca-0031443209c9>
     schema:name "Mirounga leonina" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Mirounga_leonina"^^xsd:anyURI ;
     schema:status epbc:vulnerable ;
 .
 
@@ -11471,11 +11618,13 @@ d:
 
 <http://biodiversity.org.au/afd.taxon/29ccdca6-c9e6-44da-8c88-891375f748c0>
     schema:name "Moggridgea rainbowi" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Moggridgea_rainbowi"^^xsd:anyURI ;
     schema:status epbc:endangered ;
 .
 
 <http://biodiversity.org.au/afd.taxon/dc6467fe-af4a-42c8-8e6c-cc6f63eac09a>
     schema:name "Mogurnda adspersa (Murray-Darling Basin population)" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Mogurnda_adspersa"^^xsd:anyURI ;
     schema:status epbc:endangered ;
 .
 
@@ -11496,21 +11645,25 @@ d:
 
 <http://biodiversity.org.au/afd.taxon/60c7cfbe-44a8-498b-be62-18500c31f383>
     schema:name "Mystivagor mastersi" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Mystivagor_mastersi"^^xsd:anyURI ;
     schema:status epbc:critically-endangered ;
 .
 
 <http://biodiversity.org.au/afd.taxon/cd651aef-f210-45b1-8652-3a33581d1beb>
     schema:name "Myuchelys belli" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Myuchelys_bellii"^^xsd:anyURI ;
     schema:status epbc:endangered ;
 .
 
 <http://biodiversity.org.au/afd.taxon/b0d2c067-3834-4a40-b8a1-a3bab445f409>
     schema:name "Myuchelys purvisi" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Myuchelys_purvisi"^^xsd:anyURI ;
     schema:status epbc:endangered ;
 .
 
 <http://biodiversity.org.au/afd.taxon/f08089ba-e70e-4c94-8118-d627c65ca1ac>
     schema:name "Nangura spinosa" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Nangura_spinosa"^^xsd:anyURI ;
     schema:status epbc:critically-endangered ;
 .
 
@@ -11526,6 +11679,7 @@ d:
 
 <http://biodiversity.org.au/afd.taxon/abf97dfa-7a70-4ba6-8df8-670fd7e0db34>
     schema:name "Nannoperca obscura" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Nannoperca_obscura"^^xsd:anyURI ;
     schema:status epbc:endangered ;
 .
 
@@ -11551,11 +11705,13 @@ d:
 
 <http://biodiversity.org.au/afd.taxon/38a5a409-3f58-4522-acec-61444d999bd2>
     schema:name "Neoceratodus forsteri" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Neoceratodus_forsteri"^^xsd:anyURI ;
     schema:status epbc:vulnerable ;
 .
 
 <http://biodiversity.org.au/afd.taxon/7815aeb7-c36e-400e-b7ae-36109cd26d0d>
     schema:name "Neochmia ruficauda ruficauda" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Neochmia_%28Neochmia%29_ruficauda_ruficauda"^^xsd:anyURI ;
     schema:status epbc:endangered ;
 .
 
@@ -11566,16 +11722,19 @@ d:
 
 <http://biodiversity.org.au/afd.taxon/88653999-1e2f-47d1-87fa-1f6d3e47ffb8>
     schema:name "Neophema chrysogaster" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Neophema_%28Neonanodes%29_chrysogaster"^^xsd:anyURI ;
     schema:status epbc:critically-endangered ;
 .
 
 <http://biodiversity.org.au/afd.taxon/34832b73-b9cb-4e1b-97b3-a6b00ed8c9d8>
     schema:name "Neophema chrysostoma" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Neophema_%28Neonanodes%29_chrysostoma"^^xsd:anyURI ;
     schema:status epbc:vulnerable ;
 .
 
 <http://biodiversity.org.au/afd.taxon/68942162-d312-4934-b633-aee95c166e00>
     schema:name "Neophoca cinerea" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Neophoca_cinerea"^^xsd:anyURI ;
     schema:status epbc:endangered ;
 .
 
@@ -11586,6 +11745,7 @@ d:
 
 <http://biodiversity.org.au/afd.taxon/94937c1c-9b1a-4b64-ab31-0b3a29b60154>
     schema:name "Nesoptilotis leucotis thomasi" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Nesoptilotis_leucotis_thomasi"^^xsd:anyURI ;
     schema:status epbc:endangered ;
 .
 
@@ -11596,31 +11756,37 @@ d:
 
 <http://biodiversity.org.au/afd.taxon/d74f38f8-8b2c-41f9-aada-698fb7cc7d44>
     schema:name "Ninox natalis" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Ninox_%28Ninox%29_natalis"^^xsd:anyURI ;
     schema:status epbc:vulnerable ;
 .
 
 <http://biodiversity.org.au/afd.taxon/530e0ecb-3344-459e-937e-00989c6e7320>
     schema:name "Ninox novaeseelandiae albaria" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Ninox_%28Ninox%29_novaeseelandiae_albaria"^^xsd:anyURI ;
     schema:status epbc:extinct ;
 .
 
 <http://biodiversity.org.au/afd.taxon/bf8cbb68-a1ef-44c8-b086-274619303470>
     schema:name "Ninox novaeseelandiae undulata" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Ninox_%28Ninox%29_novaeseelandiae_undulata"^^xsd:anyURI ;
     schema:status epbc:endangered ;
 .
 
 <http://biodiversity.org.au/afd.taxon/34bb3b12-72af-4d3e-b7ab-fa4b0a071934>
     schema:name "Notamacropus greyi" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Notamacropus_greyi"^^xsd:anyURI ;
     schema:status epbc:extinct ;
 .
 
 <http://biodiversity.org.au/afd.taxon/93d8dfb7-fc66-4d39-b46a-1b4a531ab6cb>
     schema:name "Notamacropus parma" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Notamacropus_parma"^^xsd:anyURI ;
     schema:status epbc:vulnerable ;
 .
 
 <http://biodiversity.org.au/afd.taxon/dfa94b2f-95cc-40dd-9313-85da77aefc0b>
     schema:name "Notechis scutatus ater" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Notechis_scutatus"^^xsd:anyURI ;
     schema:status epbc:vulnerable ;
 .
 
@@ -11636,11 +11802,13 @@ d:
 
 <http://biodiversity.org.au/afd.taxon/c0e8f4ca-3c7e-4b71-9d8f-992e3e3b07b9>
     schema:name "Notomys fuscus" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Notomys_fuscus"^^xsd:anyURI ;
     schema:status epbc:vulnerable ;
 .
 
 <http://biodiversity.org.au/afd.taxon/66b0dc84-12dd-4aca-a7b8-82d1ae89bc18>
     schema:name "Notomys longicaudatus" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Notomys_longicaudatus"^^xsd:anyURI ;
     schema:status epbc:extinct ;
 .
 
@@ -11661,11 +11829,13 @@ d:
 
 <http://biodiversity.org.au/afd.taxon/5ff29bca-f02f-468f-9f96-9ae956015e01>
     schema:name "Numenius madagascariensis" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Numenius_%28Numenius%29_madagascariensis"^^xsd:anyURI ;
     schema:status epbc:critically-endangered ;
 .
 
 <http://biodiversity.org.au/afd.taxon/6a432022-bee9-4759-8b2f-82202ad99e11>
     schema:name "Nyctophilopython oenpelliensis" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Nyctophilopython_oenpelliensis"^^xsd:anyURI ;
     schema:status epbc:vulnerable ;
 .
 
@@ -11686,6 +11856,7 @@ d:
 
 <http://biodiversity.org.au/afd.taxon/61d239cd-2b92-496e-8b95-049f56d93fc7>
     schema:name "Ogyris subterrestris petrina" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Ogyris_petrina"^^xsd:anyURI ;
     schema:status epbc:critically-endangered ;
 .
 
@@ -11696,11 +11867,13 @@ d:
 
 <http://biodiversity.org.au/afd.taxon/112ea671-d2d9-40d9-a507-dc1614e048c2>
     schema:name "Onychogalea fraenata" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Onychogalea_fraenata"^^xsd:anyURI ;
     schema:status epbc:endangered ;
 .
 
 <http://biodiversity.org.au/afd.taxon/747f32f1-637d-439d-8586-ef0bb6fbb73b>
     schema:name "Onychogalea lunata" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Onychogalea_lunata"^^xsd:anyURI ;
     schema:status epbc:extinct ;
 .
 
@@ -11731,21 +11904,25 @@ d:
 
 <http://biodiversity.org.au/afd.taxon/98d5f4a9-4cfc-424e-a34d-0204457fb418>
     schema:name "Orraya occultus" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Orraya_occultus"^^xsd:anyURI ;
     schema:status epbc:critically-endangered ;
 .
 
 <http://biodiversity.org.au/afd.taxon/5fe128a9-8133-484f-bbd4-e4578bde913b>
     schema:name "Osphranter robustus isabellinus" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Osphranter_robustus_isabellinus"^^xsd:anyURI ;
     schema:status epbc:vulnerable ;
 .
 
 <http://biodiversity.org.au/afd.taxon/a9be89de-3bea-47fe-9357-89ad32e46898>
     schema:name "Pachycephala pectoralis xanthoprocta" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Pachycephala_%28Pachycephala%29_pectoralis_xanthoprocta"^^xsd:anyURI ;
     schema:status epbc:vulnerable ;
 .
 
 <http://biodiversity.org.au/afd.taxon/bc33a603-3b2b-44d3-a5d7-12485e4533c7>
     schema:name "Pachycephala rufogularis" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Pachycephala_%28Timixos%29_rufogularis"^^xsd:anyURI ;
     schema:status epbc:vulnerable ;
 .
 
@@ -11761,6 +11938,7 @@ d:
 
 <http://biodiversity.org.au/afd.taxon/39d7a0d1-5bbf-458d-b7a9-88167ed3aec1>
     schema:name "Paragalaxias dissimilis" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Paragalaxias_dissimilis"^^xsd:anyURI ;
     schema:status epbc:vulnerable ;
 .
 
@@ -11786,16 +11964,19 @@ d:
 
 <http://biodiversity.org.au/afd.taxon/13ffb93f-1fa9-4fe5-8e60-3e88e079471a>
     schema:name "Parantechinus apicalis" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Parantechinus_apicalis"^^xsd:anyURI ;
     schema:status epbc:endangered ;
 .
 
 <http://biodiversity.org.au/afd.taxon/021abcd8-5f6c-4149-9759-182a96065bc8>
     schema:name "Pardalotus quadragintus" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Pardalotus_%28Pardalotus%29_quadragintus"^^xsd:anyURI ;
     schema:status epbc:endangered ;
 .
 
 <http://biodiversity.org.au/afd.taxon/0778c950-bab7-4e06-b45d-47990d1485f6>
     schema:name "Parvulastra vivipara" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Parvulastra_vivipara"^^xsd:anyURI ;
     schema:status epbc:vulnerable ;
 .
 
@@ -11806,11 +11987,13 @@ d:
 
 <http://biodiversity.org.au/afd.taxon/3a17e840-4a49-4354-b972-d04baffef264>
     schema:name "Perameles bougainville" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Perameles_bougainville"^^xsd:anyURI ;
     schema:status epbc:endangered ;
 .
 
 <http://biodiversity.org.au/afd.taxon/2312bcff-fa26-4a88-a63e-bbad04c1a478>
     schema:name "Perameles bougainville fasciata" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Perameles_fasciata"^^xsd:anyURI ;
     schema:status epbc:extinct ;
 .
 
@@ -11856,6 +12039,7 @@ d:
 
 <http://biodiversity.org.au/afd.taxon/7ea6b547-e9fb-4e69-8827-323f40a9175e>
     schema:name "Petaurus gracilis" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Petaurus_gracilis"^^xsd:anyURI ;
     schema:status epbc:endangered ;
 .
 
@@ -11881,6 +12065,7 @@ d:
 
 <http://biodiversity.org.au/afd.taxon/907bd7e6-8c6b-4827-a113-541414d441fd>
     schema:name "Petrogale lateralis centralis" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Petrogale_lateralis_centralis"^^xsd:anyURI ;
     schema:status epbc:vulnerable ;
 .
 
@@ -11891,6 +12076,7 @@ d:
 
 <http://biodiversity.org.au/afd.taxon/815cda4d-1cc9-48c0-9bb3-7f45113cf69f>
     schema:name "Petrogale lateralis kimberleyensis" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Petrogale_lateralis_kimberleyensis"^^xsd:anyURI ;
     schema:status epbc:endangered ;
 .
 
@@ -11901,6 +12087,7 @@ d:
 
 <http://biodiversity.org.au/afd.taxon/9605957e-396d-43b5-9025-997e1fee039a>
     schema:name "Petrogale penicillata" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Petrogale_penicillata"^^xsd:anyURI ;
     schema:status epbc:vulnerable ;
 .
 
@@ -11971,6 +12158,7 @@ d:
 
 <http://biodiversity.org.au/afd.taxon/3d517625-8e5e-4e37-97d5-71c4d2c2052b>
     schema:name "Philoria kundagungan" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Philoria_kundagungan"^^xsd:anyURI ;
     schema:status epbc:endangered ;
 .
 
@@ -11986,6 +12174,7 @@ d:
 
 <http://biodiversity.org.au/afd.taxon/5a3de787-3376-4218-9fc4-9711cff0b53d>
     schema:name "Philoria sphagnicola" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Philoria_sphagnicolus"^^xsd:anyURI ;
     schema:status epbc:vulnerable ;
 .
 
@@ -12026,11 +12215,13 @@ d:
 
 <http://biodiversity.org.au/afd.taxon/343baa6c-e0f2-46c7-80d9-85e843499472>
     schema:name "Platycercus caledonicus brownii" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Platycercus_%28Platycercus%29_caledonicus_brownii"^^xsd:anyURI ;
     schema:status epbc:vulnerable ;
 .
 
 <http://biodiversity.org.au/afd.taxon/7471a6a4-bdc4-4926-bcda-b9214faff8a0>
     schema:name "Platycercus elegans melanopterus" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Platycercus_%28Platycercus%29_elegans_melanopterus"^^xsd:anyURI ;
     schema:status epbc:vulnerable ;
 .
 
@@ -12041,6 +12232,7 @@ d:
 
 <http://biodiversity.org.au/afd.taxon/9fe878db-cb42-4934-b27d-d345a09d68df>
     schema:name "Poephila cincta cincta" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Poephila_%28Poephila%29_cincta_cincta"^^xsd:anyURI ;
     schema:status epbc:endangered ;
 .
 
@@ -12061,16 +12253,19 @@ d:
 
 <http://biodiversity.org.au/afd.taxon/b8d24240-2a8b-4d25-84b7-4c529dd038d9>
     schema:name "Pommerhelix duralensi" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Pommerhelix_duralensis"^^xsd:anyURI ;
     schema:status epbc:endangered ;
 .
 
 <http://biodiversity.org.au/afd.taxon/215be62a-f17a-4aaa-afb7-4227dba97af1>
     schema:name "Porphyrio albus" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Porphyrio_%28Notornis%29_albus"^^xsd:anyURI ;
     schema:status epbc:extinct ;
 .
 
 <http://biodiversity.org.au/afd.taxon/d8dc2794-e9fd-4386-b374-59224074525f>
     schema:name "Potorous gilbertii" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Potorous_gilbertii"^^xsd:anyURI ;
     schema:status epbc:critically-endangered ;
 .
 
@@ -12081,6 +12276,7 @@ d:
 
 <http://biodiversity.org.au/afd.taxon/ea32c940-3b20-4d5a-8f0e-45b15080ce50>
     schema:name "Potorous platyops" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Potorous_platyops"^^xsd:anyURI ;
     schema:status epbc:extinct ;
 .
 
@@ -12101,6 +12297,7 @@ d:
 
 <http://biodiversity.org.au/afd.taxon/7c138bfe-7dc0-42ca-8969-eeebf78fa806>
     schema:name "Pristis pristis" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Pristis_pristis"^^xsd:anyURI ;
     schema:status epbc:endangered ;
 .
 
@@ -12126,11 +12323,13 @@ d:
 
 <http://biodiversity.org.au/afd.taxon/63ebb9d8-ec8f-4ae4-93c6-6bf553c2d2c9>
     schema:name "Pseudemoia cryodrom" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Pseudemoia_cryodroma"^^xsd:anyURI ;
     schema:status epbc:endangered ;
 .
 
 <http://biodiversity.org.au/afd.taxon/4a3105b5-ef0a-4e05-aeed-73683ad12b03>
     schema:name "Pseudemoia rawlinsoni" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Pseudemoia_rawlinsoni"^^xsd:anyURI ;
     schema:status epbc:vulnerable ;
 .
 
@@ -12141,16 +12340,19 @@ d:
 
 <http://biodiversity.org.au/afd.taxon/d9a226fd-069a-4fb5-88f4-d1939b47909d>
     schema:name "Pseudocharopa ledgbirdi" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Pseudocharopa_ledgbirdi"^^xsd:anyURI ;
     schema:status epbc:critically-endangered ;
 .
 
 <http://biodiversity.org.au/afd.taxon/2b8a85d4-ff15-47fe-b420-45cbf4126ddf>
     schema:name "Pseudocharopa whiteleggei" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Pseudocharopa_whiteleggei"^^xsd:anyURI ;
     schema:status epbc:critically-endangered ;
 .
 
 <http://biodiversity.org.au/afd.taxon/df5c846f-14a9-4f0a-93f4-92710cdb4cd7>
     schema:name "Pseudocheirus occidentalis" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Pseudocheirus_occidentalis"^^xsd:anyURI ;
     schema:status epbc:critically-endangered ;
 .
 
@@ -12166,16 +12368,19 @@ d:
 
 <http://biodiversity.org.au/afd.taxon/f3f1ad24-212e-4c66-b118-a59c0a0e69b7>
     schema:name "Pseudomys auritus" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Pseudomys_auritus"^^xsd:anyURI ;
     schema:status epbc:extinct ;
 .
 
 <http://biodiversity.org.au/afd.taxon/e985914e-3435-4f6b-9978-2cbb19d29fee>
     schema:name "Pseudomys australis" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Pseudomys_australis"^^xsd:anyURI ;
     schema:status epbc:vulnerable ;
 .
 
 <http://biodiversity.org.au/afd.taxon/b9b253e9-a56c-4a72-8ce3-15de06ef8417>
     schema:name "Pseudomys fieldi" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Pseudomys_gouldii"^^xsd:anyURI ;
     schema:status epbc:vulnerable ;
 .
 
@@ -12186,6 +12391,7 @@ d:
 
 <http://biodiversity.org.au/afd.taxon/06df1905-d2a1-464b-a25b-12623cfab707>
     schema:name "Pseudomys glaucus" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Pseudomys_glaucus"^^xsd:anyURI ;
     schema:status epbc:extinct ;
 .
 
@@ -12196,6 +12402,7 @@ d:
 
 <http://biodiversity.org.au/afd.taxon/0058f9b2-a9c1-49a2-811b-9b2efcc8e279>
     schema:name "Pseudomys novaehollandiae" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Pseudomys_novaehollandiae"^^xsd:anyURI ;
     schema:status epbc:vulnerable ;
 .
 
@@ -12206,11 +12413,13 @@ d:
 
 <http://biodiversity.org.au/afd.taxon/b6045bad-6c5e-46ba-8644-15c0bd6320bb>
     schema:name "Pseudomys pilligaensis" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Pseudomys_delicatulus"^^xsd:anyURI ;
     schema:status epbc:vulnerable ;
 .
 
 <http://biodiversity.org.au/afd.taxon/bd9486ed-bdba-45b4-ab1c-73cc2c7a6edf>
     schema:name "Pseudomys shortridgei" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Pseudomys_shortridgei"^^xsd:anyURI ;
     schema:status epbc:endangered ;
 .
 
@@ -12231,21 +12440,25 @@ d:
 
 <http://biodiversity.org.au/afd.taxon/7a4e8688-c4bd-4837-ab1c-528ba8b1cc93>
     schema:name "Psophodes leucogaster leucogaster" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Psophodes_%28Phodopses%29_leucogaster_leucogaster"^^xsd:anyURI ;
     schema:status epbc:endangered ;
 .
 
 <http://biodiversity.org.au/afd.taxon/55e18d27-0d27-4dde-91e2-95c4f5ff4e28>
     schema:name "Psophodes nigrogularis lashmari" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Psophodes_%28Phodopses%29_leucogaster_lashmari"^^xsd:anyURI ;
     schema:status epbc:endangered ;
 .
 
 <http://biodiversity.org.au/afd.taxon/408f674e-5ac8-48dd-b365-a87363c486cc>
     schema:name "Psophodes nigrogularis nigrogularis" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Psophodes_%28Phodopses%29_nigrogularis_nigrogularis"^^xsd:anyURI ;
     schema:status epbc:endangered ;
 .
 
 <http://biodiversity.org.au/afd.taxon/6bdb6f06-0385-498c-bc01-ada1a5d02dd1>
     schema:name "Pterodroma heraldica" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Pterodroma_%28Hallstroma%29_heraldica"^^xsd:anyURI ;
     schema:status epbc:critically-endangered ;
 .
 
@@ -12256,6 +12469,7 @@ d:
 
 <http://biodiversity.org.au/afd.taxon/2b23deb2-74be-4deb-ab3e-867d7d3414d2>
     schema:name "Pterodroma neglecta neglecta" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Pterodroma_%28Hallstroma%29_neglecta_neglecta"^^xsd:anyURI ;
     schema:status epbc:vulnerable ;
 .
 
@@ -12276,21 +12490,25 @@ d:
 
 <http://biodiversity.org.au/afd.taxon/60cee5f9-e925-417a-911c-2f634482fc5f>
     schema:name "Ramphotyphlops exocoeti" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Ramphotyphlops_exocoeti"^^xsd:anyURI ;
     schema:status epbc:vulnerable ;
 .
 
 <http://biodiversity.org.au/afd.taxon/69f112e8-3fb0-4ef4-a776-8b228b807d8d>
     schema:name "Rattus macleari" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Rattus_macleari"^^xsd:anyURI ;
     schema:status epbc:extinct ;
 .
 
 <http://biodiversity.org.au/afd.taxon/2baeb4b1-98ca-497f-a3e8-0c215a4b69f7>
     schema:name "Rattus nativitatis" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Rattus_nativitatis"^^xsd:anyURI ;
     schema:status epbc:extinct ;
 .
 
 <http://biodiversity.org.au/afd.taxon/75d130e6-c6bf-4d94-9f64-7552ce04b783>
     schema:name "Rexea solandri (eastern Australian population)" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Rexea_solandri"^^xsd:anyURI ;
     schema:status epbc:conservation-dependent ;
 .
 
@@ -12321,11 +12539,13 @@ d:
 
 <http://biodiversity.org.au/afd.taxon/119fa8ed-0b11-49ac-bf42-bde5a7a144e8>
     schema:name "Rhinonicteris aurantia (Pilbara form)" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Rhinonicteris_aurantia"^^xsd:anyURI ;
     schema:status epbc:vulnerable ;
 .
 
 <http://biodiversity.org.au/afd.taxon/3f762b77-7558-46c9-8b92-8901a1385b3d>
     schema:name "Rhipidura fuliginosa cervina" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Rhipidura_%28Rhipidura%29_fuliginosa_cervina"^^xsd:anyURI ;
     schema:status epbc:extinct ;
 .
 
@@ -12366,6 +12586,7 @@ d:
 
 <http://biodiversity.org.au/afd.taxon/c6b5ff5a-a991-4972-b5b0-4214141d5bd6>
     schema:name "Sarcophilus harrisii" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Sarcophilus_harrisii"^^xsd:anyURI ;
     schema:status epbc:endangered ;
 .
 
@@ -12376,11 +12597,13 @@ d:
 
 <http://biodiversity.org.au/afd.taxon/88398d84-527f-4095-bf73-138fed671907>
     schema:name "Seriolella brama" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Seriolella_brama"^^xsd:anyURI ;
     schema:status epbc:conservation-dependent ;
 .
 
 <http://biodiversity.org.au/afd.taxon/a2074cb8-e146-452c-b326-e2b583f51cc6>
     schema:name "Setonix brachyurus" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Setonix_brachyurus"^^xsd:anyURI ;
     schema:status epbc:vulnerable ;
 .
 
@@ -12401,6 +12624,7 @@ d:
 
 <http://biodiversity.org.au/afd.taxon/10fe0c0c-8472-47f9-bc57-fe66017f573a>
     schema:name "Sminthopsis fuliginosa aitkeni" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Sminthopsis_fuliginosus_aitkeni"^^xsd:anyURI ;
     schema:status epbc:endangered ;
 .
 
@@ -12416,6 +12640,7 @@ d:
 
 <http://biodiversity.org.au/afd.taxon/3deb7140-b57f-4c54-a55a-4c2e5770dea4>
     schema:name "Sphyrna lewini" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Sphyrna_lewini"^^xsd:anyURI ;
     schema:status epbc:conservation-dependent ;
 .
 
@@ -12426,26 +12651,31 @@ d:
 
 <http://biodiversity.org.au/afd.taxon/b3e86e3c-548e-4196-bcca-72964656261a>
     schema:name "Stagonopleura bella samueli" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Stagonopleura_%28Zonaeginthus%29_bella_samueli"^^xsd:anyURI ;
     schema:status epbc:endangered ;
 .
 
 <http://biodiversity.org.au/afd.taxon/6e872b58-55d1-443c-a30e-0d90a57e3240>
     schema:name "Stagonopleura guttata" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Stagonopleura_%28Stagonopleura%29_guttata"^^xsd:anyURI ;
     schema:status epbc:vulnerable ;
 .
 
 <http://biodiversity.org.au/afd.taxon/91271b6f-e398-49f9-a742-c4f568981d6e>
     schema:name "Sterna vittata bethunei" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Sterna_%28Sterna%29_vittata_bethunei"^^xsd:anyURI ;
     schema:status epbc:endangered ;
 .
 
 <http://biodiversity.org.au/afd.taxon/54f47b9a-6e0c-46af-9d19-31ee9166b50d>
     schema:name "Sterna vittata vittata" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Sterna_%28Sterna%29_vittata_vittata"^^xsd:anyURI ;
     schema:status epbc:vulnerable ;
 .
 
 <http://biodiversity.org.au/afd.taxon/35359d1d-71ec-4f5c-a11e-50dbe43d9a52>
     schema:name "Sternula albifrons" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Sternula_albifrons"^^xsd:anyURI ;
     schema:status epbc:vulnerable ;
 .
 
@@ -12481,11 +12711,13 @@ d:
 
 <http://biodiversity.org.au/afd.taxon/84ea0e40-1fd9-48a6-8f41-e0d5a0dbee14>
     schema:name "Strepera fuliginosa colei" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Strepera_%28Strepera%29_fuliginosa_colei"^^xsd:anyURI ;
     schema:status epbc:vulnerable ;
 .
 
 <http://biodiversity.org.au/afd.taxon/b9c53be6-af57-4ee8-86f7-7078daac16d1>
     schema:name "Strepera graculina crissalis" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Strepera_%28Strepera%29_graculina_crissalis"^^xsd:anyURI ;
     schema:status epbc:vulnerable ;
 .
 
@@ -12506,6 +12738,7 @@ d:
 
 <http://biodiversity.org.au/afd.taxon/01c82abd-dd9c-43e4-a4db-f5c0c6e5ff46>
     schema:name "Taudactylus acutirostris" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Taudactylus_acutirostris"^^xsd:anyURI ;
     schema:status epbc:extinct ;
 .
 
@@ -12531,11 +12764,13 @@ d:
 
 <http://biodiversity.org.au/afd.taxon/c6d51093-2855-44d1-a72b-b612305c7bd3>
     schema:name "Thalassarche bulleri platei" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Thalassarche_bulleri_platei"^^xsd:anyURI ;
     schema:status epbc:vulnerable ;
 .
 
 <http://biodiversity.org.au/afd.taxon/3191705d-10db-47a8-bbbf-1e232203bd22>
     schema:name "Thalassarche carteri" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Thalassarche_carteri"^^xsd:anyURI ;
     schema:status epbc:vulnerable ;
 .
 
@@ -12551,6 +12786,7 @@ d:
 
 <http://biodiversity.org.au/afd.taxon/bd20a15e-c723-49b5-9186-11ec37fb18e3>
     schema:name "Thalassarche impavida" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Thalassarche_impavida"^^xsd:anyURI ;
     schema:status epbc:vulnerable ;
 .
 
@@ -12576,31 +12812,37 @@ d:
 
 <http://biodiversity.org.au/afd.taxon/9256a004-d30f-45e6-b71d-15ddd204df6a>
     schema:name "Thersites mitchellae" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Thersites_mitchellae"^^xsd:anyURI ;
     schema:status epbc:critically-endangered ;
 .
 
 <http://biodiversity.org.au/afd.taxon/a1591e76-2f0e-4107-a24d-9263f58b03eb>
     schema:name "Thinornis cucullatus cucullatus" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Thinornis_cucullatus_cucullatus"^^xsd:anyURI ;
     schema:status epbc:vulnerable ;
 .
 
 <http://biodiversity.org.au/afd.taxon/bc150e0a-660a-48bc-be74-bca735d54179>
     schema:name "Thylacinus cynocephalus" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Thylacinus_cynocephalus"^^xsd:anyURI ;
     schema:status epbc:extinct ;
 .
 
 <http://biodiversity.org.au/afd.taxon/14e659fa-e5c0-446c-aa07-c748889c8495>
     schema:name "Thymichthys politus" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Thymichthys_politus"^^xsd:anyURI ;
     schema:status epbc:critically-endangered ;
 .
 
 <http://biodiversity.org.au/afd.taxon/de470429-7c6f-4559-bf1e-caf047684f7c>
     schema:name "Tiliqua adelaidensis" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Tiliqua_adelaidensis"^^xsd:anyURI ;
     schema:status epbc:endangered ;
 .
 
 <http://biodiversity.org.au/afd.taxon/0d32676a-b908-42b4-b629-98b96b96343a>
     schema:name "Tiliqua scincoides intermedia" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Tiliqua_scincoides_intermedia"^^xsd:anyURI ;
     schema:status epbc:critically-endangered ;
 .
 
@@ -12611,6 +12853,7 @@ d:
 
 <http://biodiversity.org.au/afd.taxon/d792ddc0-bdc2-4764-ab9c-ea9e43cd586e>
     schema:name "Tringa nebularia" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Tringa_%28Glottis%29_nebularia"^^xsd:anyURI ;
     schema:status epbc:endangered ;
 .
 
@@ -12621,6 +12864,7 @@ d:
 
 <http://biodiversity.org.au/afd.taxon/adb0490f-59d9-4207-ac01-b1134b16beb6>
     schema:name "Trisyntopa scatophaga" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Trisyntopa_scatophaga"^^xsd:anyURI ;
     schema:status epbc:endangered ;
 .
 
@@ -12641,16 +12885,19 @@ d:
 
 <http://biodiversity.org.au/afd.taxon/e728bc3c-6c80-42ac-b2d8-9ee66e82fe85>
     schema:name "Turnix melanogaster" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Turnix_%28Austroturnix%29_melanogaster"^^xsd:anyURI ;
     schema:status epbc:vulnerable ;
 .
 
 <http://biodiversity.org.au/afd.taxon/e26aef43-95fe-434b-8984-8866d6671d95>
     schema:name "Turnix olivii" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Turnix_%28Austroturnix%29_olivii"^^xsd:anyURI ;
     schema:status epbc:critically-endangered ;
 .
 
 <http://biodiversity.org.au/afd.taxon/a5f510c9-b2ef-4670-a863-c58fa6273cd4>
     schema:name "Turnix varius scintillans" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Turnix_%28Austroturnix%29_varius_scintillans"^^xsd:anyURI ;
     schema:status epbc:endangered ;
 .
 
@@ -12666,16 +12913,19 @@ d:
 
 <http://biodiversity.org.au/afd.taxon/2c30d58b-572b-4dab-8644-b222c28eb0ec>
     schema:name "Tyto novaehollandiae castanops (Tasmanian population)" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Tyto_novaehollandiae_castanops"^^xsd:anyURI ;
     schema:status epbc:vulnerable ;
 .
 
 <http://biodiversity.org.au/afd.taxon/d1a27333-c288-46d5-a034-f42920ddb1b8>
     schema:name "Tyto novaehollandiae kimberli" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Tyto_novaehollandiae_kimberli"^^xsd:anyURI ;
     schema:status epbc:vulnerable ;
 .
 
 <http://biodiversity.org.au/afd.taxon/b656fdb9-e0bc-4acb-ad99-5c6a57ae76a9>
     schema:name "Tyto novaehollandiae melvillensis" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Tyto_novaehollandiae_melvillensis"^^xsd:anyURI ;
     schema:status epbc:endangered ;
 .
 
@@ -12696,6 +12946,7 @@ d:
 
 <http://biodiversity.org.au/afd.taxon/8d138008-fe4e-45a0-934d-1858edcefb85>
     schema:name "Uvidicolus sphyrurus" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Uvidicolus_sphyrurus"^^xsd:anyURI ;
     schema:status epbc:vulnerable ;
 .
 
@@ -12736,6 +12987,7 @@ d:
 
 <http://biodiversity.org.au/afd.taxon/de1e2dfa-1ebd-4810-9186-0b5fe2947e7d>
     schema:name "Zoothera lunulata halmaturina" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Zoothera_%28Zoothera%29_lunulata_halmaturina"^^xsd:anyURI ;
     schema:status epbc:endangered ;
 .
 
@@ -12761,6 +13013,7 @@ d:
 
 <http://biodiversity.org.au/afd.taxon/90c13414-5069-4125-8b56-0b5c59a752e3>
     schema:name "Zyzomys pedunculatus" ;
+    schema:citation "https://biodiversity.org.au/afd/taxa/Zyzomys_pedunculatus"^^xsd:anyURI ;
     schema:status epbc:critically-endangered ;
 .
 
