@@ -6,6 +6,22 @@ PREFIX schema: <https://schema.org/>
 PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
 PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 
+<http://rs.tdwg.org/dwc/terms/>
+    rdfs:label "Core terms defined by Darwin Core" ;
+    schema:description "This term list includes all currently valid terms that have been defined in the core Darwin Core namespace dwc:.  To comment on this schema, please create a new issue in https://github.com/tdwg/dwc/issues"
+.
+
+<http://rs.tdwg.org/dwc/terms/Occurrence>
+    rdfs:label "Occurrence" ;
+    schema:description "An existence of a dwc:Organism at a particular place at a particular time."
+.
+
+<http://rs.tdwg.org/dwc/terms/Identification>
+    rdfs:label "Identification" ;
+    schema:description "A taxonomic determination (e.g., the assignment to a dwc:Taxon)."
+.
+
+
 <http://purl.org/NET/rdflicense/cc-by4.0>
     schema:name "Creative Commons - Attribution 4.0 International - CC BY 4.0"@en ;
     schema:url "http://creativecommons.org/licenses/by/4.0/"^^xsd:anyURI ;
