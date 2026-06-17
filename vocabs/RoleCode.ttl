@@ -1,5 +1,5 @@
-PREFIX : <https://def.isotc211.org/common/RoleCode/>
-PREFIX cs: <https://def.isotc211.org/common/RoleCode>
+PREFIX : <https://def.isotc211.org/codeset/RoleCode/>
+PREFIX cs: <https://def.isotc211.org/codeset/RoleCode>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX schema: <https://schema.org/>
 PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
@@ -228,7 +228,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 
 cs:
     a skos:ConceptScheme ;
-    rdfs:isDefinedBy <https://def.isotc211.org/common/standard/iso-awi-19115-1> ;
+    rdfs:isDefinedBy <https://def.isotc211.org/codeset/standard/iso-awi-19115-1> ;
     skos:definition "function performed by the responsible party"@en ;
     skos:hasTopConcept
         :author ,
@@ -257,7 +257,7 @@ cs:
     schema:dateCreated "2025-11-19"^^xsd:date ;
     schema:dateIssued "2025-11-19"^^xsd:date ;
     schema:dateModified "2025-11-19"^^xsd:date ;
-    schema:isPartOf <https://def.isotc211.org/common> ;
+    schema:isPartOf <https://def.isotc211.org/codesets> ;
     schema:publisher <https://def.isotc211.org/org/tc211> ;
     schema:status status:experimental ;
 .

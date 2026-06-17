@@ -10,7 +10,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
         <https://linked.data.gov.au/dataset/bdr/orgs> ,
         <https://linked.data.gov.au/dataset/bdr/smrr> ,
         <https://linked.data.gov.au/dataset/bdr/sma> ,
-        <https://def.isotc211.org/common/RoleCode> ,
+        <https://def.isotc211.org/codeset/RoleCode> ,
         <https://linked.data.gov.au/def/epbc-ts-cats> ;
     schema:codeRepository "https://github.com/dcceew-bdr/bdr-vocabs/" ;
     schema:creator <https://linked.data.gov.au/org/dcceew> ;
