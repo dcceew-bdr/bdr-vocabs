@@ -1,4 +1,6 @@
+PREFIX apni: <https://id.biodiversity.org.au/name/apni/>
 PREFIX d: <https://linked.data.gov.au/dataset/wons>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX schema: <https://schema.org/>
 PREFIX status: <https://def.isotc211.org/RE/ItemStatus/>
 PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
@@ -9,190 +11,45 @@ d:
     schema:dateCreated "2026-05-15"^^xsd:date ;
     schema:dateModified "2026-05-15"^^xsd:date ;
     schema:description "Weeds of National Significance" ;
-    schema:hasPart
-        <https://test-id.biodiversity.org.au/name/apni/100521> ,
-        <https://test-id.biodiversity.org.au/name/apni/101259> ,
-        <https://test-id.biodiversity.org.au/name/apni/108846> ,
-        <https://test-id.biodiversity.org.au/name/apni/115330> ,
-        <https://test-id.biodiversity.org.au/name/apni/116244> ,
-        <https://test-id.biodiversity.org.au/name/apni/116436> ,
-        <https://test-id.biodiversity.org.au/name/apni/116682> ,
-        <https://test-id.biodiversity.org.au/name/apni/119305> ,
-        <https://test-id.biodiversity.org.au/name/apni/134846> ,
-        <https://test-id.biodiversity.org.au/name/apni/164929> ,
-        <https://test-id.biodiversity.org.au/name/apni/171296> ,
-        <https://test-id.biodiversity.org.au/name/apni/173623> ,
-        <https://test-id.biodiversity.org.au/name/apni/194694> ,
-        <https://test-id.biodiversity.org.au/name/apni/214158> ,
-        <https://test-id.biodiversity.org.au/name/apni/238650> ,
-        <https://test-id.biodiversity.org.au/name/apni/54839> ,
-        <https://test-id.biodiversity.org.au/name/apni/55057> ,
-        <https://test-id.biodiversity.org.au/name/apni/55079> ,
-        <https://test-id.biodiversity.org.au/name/apni/59669> ,
-        <https://test-id.biodiversity.org.au/name/apni/60722> ,
-        <https://test-id.biodiversity.org.au/name/apni/62625> ,
-        <https://test-id.biodiversity.org.au/name/apni/63783> ,
-        <https://test-id.biodiversity.org.au/name/apni/65315> ,
-        <https://test-id.biodiversity.org.au/name/apni/66041> ,
-        <https://test-id.biodiversity.org.au/name/apni/66092> ,
-        <https://test-id.biodiversity.org.au/name/apni/67853> ,
-        <https://test-id.biodiversity.org.au/name/apni/67864> ,
-        <https://test-id.biodiversity.org.au/name/apni/79993> ,
-        <https://test-id.biodiversity.org.au/name/apni/80023> ,
-        <https://test-id.biodiversity.org.au/name/apni/84286> ,
-        <https://test-id.biodiversity.org.au/name/apni/85694> ,
-        <https://test-id.biodiversity.org.au/name/apni/86777> ,
-        <https://test-id.biodiversity.org.au/name/apni/88828> ,
-        <https://test-id.biodiversity.org.au/name/apni/89390> ,
-        <https://test-id.biodiversity.org.au/name/apni/94061> ,
-        <https://test-id.biodiversity.org.au/name/apni/98714> ;
+    rdfs:member
+        apni:100521 ,
+        apni:101259 ,
+        apni:108846 ,
+        apni:115330 ,
+        apni:116244 ,
+        apni:116436 ,
+        apni:116682 ,
+        apni:119305 ,
+        apni:134846 ,
+        apni:164929 ,
+        apni:171296 ,
+        apni:173623 ,
+        apni:194694 ,
+        apni:214158 ,
+        apni:238650 ,
+        apni:54839 ,
+        apni:55057 ,
+        apni:55079 ,
+        apni:59669 ,
+        apni:60722 ,
+        apni:62625 ,
+        apni:63783 ,
+        apni:65315 ,
+        apni:66041 ,
+        apni:66092 ,
+        apni:67853 ,
+        apni:67864 ,
+        apni:79993 ,
+        apni:80023 ,
+        apni:84286 ,
+        apni:85694 ,
+        apni:86777 ,
+        apni:88828 ,
+        apni:89390 ,
+        apni:94061 ,
+        apni:98714 ;
     schema:license <http://purl.org/NET/rdflicense/cc-by4.0> ;
     schema:name "Weeds of National Significance" ;
     schema:publisher <https://linked.data.gov.au/org/dcceew> ;
     schema:status status:stable ;
-.
-
-<https://test-id.biodiversity.org.au/name/apni/60722>
-    schema:name "Salvinia molesta" ;
-    schema:alternateName "Salvinia × molesta D.S.Mitch." ;
-.
-
-<https://test-id.biodiversity.org.au/name/apni/100521>
-    schema:name "Cytisus scoparius" ;
-.
-
-<https://test-id.biodiversity.org.au/name/apni/101259>
-    schema:name "Solanum elaeagnifolium" ;
-.
-
-<https://test-id.biodiversity.org.au/name/apni/108846>
-    schema:name "Prosopis" ;
-.
-
-<https://test-id.biodiversity.org.au/name/apni/115330>
-    schema:name "Parkinsonia aculeata" ;
-.
-
-<https://test-id.biodiversity.org.au/name/apni/116244>
-    schema:name "Senecio madagascariensis" ;
-.
-
-<https://test-id.biodiversity.org.au/name/apni/116436>
-    schema:name "Annona glabra" ;
-.
-
-<https://test-id.biodiversity.org.au/name/apni/116682>
-    schema:name "Mimosa pigra" ;
-.
-
-<https://test-id.biodiversity.org.au/name/apni/119305>
-    schema:name "Asparagus aethiopicus" ;
-.
-
-<https://test-id.biodiversity.org.au/name/apni/134846>
-    schema:name "Nassella neesiana" ;
-.
-
-<https://test-id.biodiversity.org.au/name/apni/164929>
-    schema:name "Asparagus declinatus" ;
-.
-
-<https://test-id.biodiversity.org.au/name/apni/171296>
-    schema:name "Andropogon gayanus" ;
-.
-
-<https://test-id.biodiversity.org.au/name/apni/173623>
-    schema:name "Sagittaria platyphylla" ;
-.
-
-<https://test-id.biodiversity.org.au/name/apni/194694>
-    schema:name "Asparagus asparagoides" ;
-.
-
-<https://test-id.biodiversity.org.au/name/apni/214158>
-    schema:name "Vachellia nilotica" ;
-.
-
-<https://test-id.biodiversity.org.au/name/apni/238650>
-    schema:name "Dolichandra unguis-cati" ;
-.
-
-<https://test-id.biodiversity.org.au/name/apni/54839>
-    schema:name "Parthenium hysterophorus" ;
-.
-
-<https://test-id.biodiversity.org.au/name/apni/55057>
-    schema:name "Opuntia" ;
-.
-
-<https://test-id.biodiversity.org.au/name/apni/55079>
-    schema:name "Lantana camara" ;
-.
-
-<https://test-id.biodiversity.org.au/name/apni/59669>
-    schema:name "Salix" ;
-.
-
-<https://test-id.biodiversity.org.au/name/apni/62625>
-    schema:name "Jatropha gossypifolia" ;
-.
-
-<https://test-id.biodiversity.org.au/name/apni/63783>
-    schema:name "Nassella trichotoma" ;
-.
-
-<https://test-id.biodiversity.org.au/name/apni/65315>
-    schema:name "Hymenachne amplexicaulis" ;
-.
-
-<https://test-id.biodiversity.org.au/name/apni/66041>
-    schema:name "Genista linifolia" ;
-.
-
-<https://test-id.biodiversity.org.au/name/apni/66092>
-    schema:name "Genista monspessulana" ;
-.
-
-<https://test-id.biodiversity.org.au/name/apni/67853>
-    schema:name "Chrysanthemoides monilifera subsp. monilifera" ;
-.
-
-<https://test-id.biodiversity.org.au/name/apni/67864>
-    schema:name "Chrysanthemoides monilifera subsp. rotundata" ;
-.
-
-<https://test-id.biodiversity.org.au/name/apni/79993>
-    schema:name "Lycium ferocissimum" ;
-.
-
-<https://test-id.biodiversity.org.au/name/apni/80023>
-    schema:name "Tamarix aphylla" ;
-.
-
-<https://test-id.biodiversity.org.au/name/apni/84286>
-    schema:name "Alternanthera philoxeroides" ;
-.
-
-<https://test-id.biodiversity.org.au/name/apni/85694>
-    schema:name "Rubus fruticosus" ;
-.
-
-<https://test-id.biodiversity.org.au/name/apni/86777>
-    schema:name "Ulex europaeus" ;
-.
-
-<https://test-id.biodiversity.org.au/name/apni/88828>
-    schema:name "Cryptostegia grandiflora" ;
-.
-
-<https://test-id.biodiversity.org.au/name/apni/89390>
-    schema:name "Cabomba caroliniana" ;
-.
-
-<https://test-id.biodiversity.org.au/name/apni/94061>
-    schema:name "Anredera cordifolia" ;
-.
-
-<https://test-id.biodiversity.org.au/name/apni/98714>
-    schema:name "Pontederia crassipes" ;
 .
