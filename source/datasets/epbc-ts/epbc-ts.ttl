@@ -1,5 +1,6 @@
 PREFIX afd: <http://biodiversity.org.au/afd.taxon/>
 PREFIX apni: <https://id.biodiversity.org.au/name/apni/>
+PREFIX bdr-cat: <https://linked.data.gov.au/dataset/bdr/catalogues/>
 PREFIX cats: <https://linked.data.gov.au/def/epbc-ts-cats/>
 PREFIX d: <https://linked.data.gov.au/dataset/epbc-ts>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
@@ -26,6 +27,7 @@ Plant names are identified using APNI name IRIs where available. Animal taxa are
         cats:extinct ,
         cats:extinct-in-the-wild ,
         cats:vulnerable ;
+    schema:isPartOf bdr-cat:ref-datasets ;
     schema:license <http://purl.org/NET/rdflicense/cc-by4.0> ;
     schema:name "EPBC Threatened Species" ;
     schema:publisher <https://linked.data.gov.au/org/dcceew> ;
