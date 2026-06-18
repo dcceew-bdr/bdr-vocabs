@@ -2,6 +2,7 @@ PREFIX : <https://linked.data.gov.au/def/nsl/tn-types/>
 PREFIX cs: <https://linked.data.gov.au/def/nsl/tn-types>
 PREFIX schema: <https://schema.org/>
 PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+PREFIX status: <https://def.isotc211.org/codeset/ItemStatus/>
 PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 
 :scientific
@@ -186,4 +187,5 @@ cs:
         :informal ,
         :hybrid-formula-unknown-2nd-parent ,
         :graft-chimera ;
+    schema:status status:stable ;
 .

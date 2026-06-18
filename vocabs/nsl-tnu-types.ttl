@@ -2,6 +2,7 @@ PREFIX : <https://linked.data.gov.au/def/nsl/tnu-types/>
 PREFIX cs: <https://linked.data.gov.au/def/nsl/tnu-types>
 PREFIX schema: <https://schema.org/>
 PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+PREFIX status: <https://def.isotc211.org/codeset/ItemStatus/>
 PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 
 :valid-name
@@ -293,4 +294,5 @@ cs:
         :primary-reference ,
         :nom-nov ,
         :stat-nov ;
+    schema:status status:stable ;
 .

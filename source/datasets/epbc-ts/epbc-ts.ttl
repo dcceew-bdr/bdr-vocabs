@@ -5,7 +5,7 @@ PREFIX cats: <https://linked.data.gov.au/def/epbc-ts-cats/>
 PREFIX d: <https://linked.data.gov.au/dataset/epbc-ts>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX schema: <https://schema.org/>
-PREFIX status: <https://def.isotc211.org/RE/ItemStatus/>
+PREFIX status: <https://def.isotc211.org/codeset/ItemStatus/>
 PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 
 d:

@@ -5,6 +5,7 @@ PREFIX owl: <http://www.w3.org/2002/07/owl#>
 PREFIX ror: <https://ror.org/>
 PREFIX schema: <https://schema.org/>
 PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+PREFIX status: <https://def.isotc211.org/codeset/ItemStatus/>
 PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 
 <https://linked.data.gov.au/org/act>
@@ -1447,4 +1448,5 @@ This vocabulary was initially developed for the Biodiversity Data Repository and
     schema:dateModified "2026-05-21"^^xsd:date ;
     schema:license <http://purl.org/NET/rdflicense/cc-by4.0> ;
     schema:publisher <https://linked.data.gov.au/org/dcceew> ;
+    schema:status status:experimental ;
 .

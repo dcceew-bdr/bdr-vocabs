@@ -2,6 +2,7 @@ PREFIX : <https://linked.data.gov.au/dataset/bdr/sma/>
 PREFIX cs: <https://linked.data.gov.au/dataset/bdr/sma>
 PREFIX schema: <https://schema.org/>
 PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+PREFIX status: <https://def.isotc211.org/codeset/ItemStatus/>
 PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 
 
@@ -94,4 +95,5 @@ cs:
         :Check ,
         :Annotate ,
         :Attach ;
+    schema:status status:stable ;
 .
