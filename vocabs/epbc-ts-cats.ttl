@@ -86,9 +86,10 @@ cs:
     schema:creator <https://linked.data.gov.au/org/dcceew> ;
     dcterms:source "https://www.legislation.gov.au/C2004A00485"^^xsd:anyURI ;
     schema:dateCreated "2026-05-15"^^xsd:date ;
-    schema:dateModified "2026-05-18"^^xsd:date ;
+    schema:dateModified "2026-07-09"^^xsd:date ;
     schema:license <http://purl.org/NET/rdflicense/cc-by4.0> ;
     schema:publisher <https://linked.data.gov.au/org/dcceew> ;
     schema:status status:stable ;
     schema:codeRepository "https://github.com/dcceew-bdr/bdr-vocabs/"^^xsd:anyURI ;
+    schema:version "1" ;
 .
