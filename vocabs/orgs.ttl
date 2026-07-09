@@ -975,7 +975,7 @@ We deliver a sustainable Tasmania by protecting and enhancing Tasmania's cultura
     schema:description "Australia’s land ecosystem observatory." ;
     schema:name "Terrestrial Ecosystems Research Network" ;
     schema:url "https://tern.org.au"^^xsd:anyURI ;
-    skos:exactMatch <https://w3id.org/tern/resources/a083902d-d821-41be-b663-1d7cb33eea66>
+    dcterms:replaces <https://w3id.org/tern/resources/a083902d-d821-41be-b663-1d7cb33eea66>
 .
 
 <https://linked.data.gov.au/org/tmag>

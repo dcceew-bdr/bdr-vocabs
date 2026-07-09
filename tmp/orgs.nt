@@ -1,0 +1,964 @@
+<https://linked.data.gov.au/org/act> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://linked.data.gov.au/org/act> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<https://linked.data.gov.au/org/act> <http://www.w3.org/2004/02/skos/core#definition> "The government of the Australian Capital Territory."@en .
+<https://linked.data.gov.au/org/act> <http://www.w3.org/2004/02/skos/core#inScheme> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/act> <http://www.w3.org/2004/02/skos/core#prefLabel> "ACT Government"@en .
+<https://linked.data.gov.au/org/act> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/act> <https://schema.org/name> "ACT Government" .
+<https://linked.data.gov.au/org/act> <https://schema.org/url> "https://www.act.gov.au"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<https://linked.data.gov.au/org/act-atlas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://linked.data.gov.au/org/act-atlas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<https://linked.data.gov.au/org/act-atlas> <http://www.w3.org/2004/02/skos/core#definition> "This spatial dataset maps the location of wildlife records held within the ACT Wildlife Atlas up until December 2014. Records include mammals, fish, amphibians, invertebrates, reptiles and birds."@en .
+<https://linked.data.gov.au/org/act-atlas> <http://www.w3.org/2004/02/skos/core#inScheme> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/act-atlas> <http://www.w3.org/2004/02/skos/core#prefLabel> "ACT Wildlife Atlas"@en .
+<https://linked.data.gov.au/org/act-atlas> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/act-atlas> <https://schema.org/name> "ACT Wildlife Atlas" .
+<https://linked.data.gov.au/org/act-atlas> <https://schema.org/url> "https://researchdata.edu.au/act-wildlife-atlas/3543262"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<https://linked.data.gov.au/org/am> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://linked.data.gov.au/org/am> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<https://linked.data.gov.au/org/am> <http://www.w3.org/2004/02/skos/core#definition> "The Australian Museum is an NSW Government organisation operating under the Department of Creative Industries"@en .
+<https://linked.data.gov.au/org/am> <http://www.w3.org/2004/02/skos/core#inScheme> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/am> <http://www.w3.org/2004/02/skos/core#notation> "85 407 224 698"^^<http://id.loc.gov/vocabulary/identifiers/ausbn> .
+<https://linked.data.gov.au/org/am> <http://www.w3.org/2004/02/skos/core#prefLabel> "Australian Museum"@en .
+<https://linked.data.gov.au/org/am> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/am> <https://schema.org/name> "Australian Museum" .
+<https://linked.data.gov.au/org/am> <https://schema.org/url> "https://australian.museum"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<https://linked.data.gov.au/org/ambseh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://linked.data.gov.au/org/ambseh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<https://linked.data.gov.au/org/ambseh> <http://www.w3.org/2004/02/skos/core#definition> "AMBS Ecology & Heritage is a specialist consultancy providing expert advice and services in Aboriginal and historic heritage and archaeology"@en .
+<https://linked.data.gov.au/org/ambseh> <http://www.w3.org/2004/02/skos/core#inScheme> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/ambseh> <http://www.w3.org/2004/02/skos/core#notation> "96 609 155 464"^^<http://id.loc.gov/vocabulary/identifiers/ausbn> .
+<https://linked.data.gov.au/org/ambseh> <http://www.w3.org/2004/02/skos/core#prefLabel> "AMBS Ecology & Heritage"@en .
+<https://linked.data.gov.au/org/ambseh> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/ambseh> <https://schema.org/name> "AMBS Ecology & Heritage" .
+<https://linked.data.gov.au/org/ambseh> <https://schema.org/url> "https://www.ambs.consulting"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<https://linked.data.gov.au/org/amnh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://linked.data.gov.au/org/amnh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<https://linked.data.gov.au/org/amnh> <http://www.w3.org/2004/02/skos/core#definition> "The American Museum of Natural History is one of the world’s preeminent scientific and cultural institutions.\n\nSince its founding in 1869, the Museum has advanced its global mission to discover, interpret, and disseminate information about human cultures, the natural world, and the universe through a wide-ranging program of scientific research, education, and exhibition."@en .
+<https://linked.data.gov.au/org/amnh> <http://www.w3.org/2004/02/skos/core#inScheme> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/amnh> <http://www.w3.org/2004/02/skos/core#prefLabel> "American Museum of Natural History"@en .
+<https://linked.data.gov.au/org/amnh> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/amnh> <https://schema.org/name> "American Museum of Natural History" .
+<https://linked.data.gov.au/org/amnh> <https://schema.org/url> "https://www.amnh.org"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<https://linked.data.gov.au/org/ath> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://linked.data.gov.au/org/ath> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<https://linked.data.gov.au/org/ath> <http://www.w3.org/2004/02/skos/core#definition> "As Australia’s only university established to focus on the issues of Northern Australia and the Tropics worldwide"@en .
+<https://linked.data.gov.au/org/ath> <http://www.w3.org/2004/02/skos/core#inScheme> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/ath> <http://www.w3.org/2004/02/skos/core#prefLabel> "Australian Tropical Herbarium"@en .
+<https://linked.data.gov.au/org/ath> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/ath> <https://schema.org/name> "Australian Tropical Herbarium" .
+<https://linked.data.gov.au/org/ath> <https://schema.org/url> "https://www.ath.org.au"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<https://linked.data.gov.au/org/awc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://linked.data.gov.au/org/awc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<https://linked.data.gov.au/org/awc> <http://www.w3.org/2004/02/skos/core#definition> "Australian Wildlife Conservancy (AWC) protects Australia's unique wildlife through science"@en .
+<https://linked.data.gov.au/org/awc> <http://www.w3.org/2004/02/skos/core#inScheme> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/awc> <http://www.w3.org/2004/02/skos/core#notation> "36 068 572 556"^^<http://id.loc.gov/vocabulary/identifiers/ausbn> .
+<https://linked.data.gov.au/org/awc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Australian Wildlife Conservancy"@en .
+<https://linked.data.gov.au/org/awc> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/awc> <https://schema.org/name> "Australian Wildlife Conservancy" .
+<https://linked.data.gov.au/org/awc> <https://schema.org/url> "https://www.australianwildlife.org"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<https://linked.data.gov.au/org/awmm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://linked.data.gov.au/org/awmm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<https://linked.data.gov.au/org/awmm> <http://www.w3.org/2004/02/skos/core#definition> "The Museum is a war memorial for the province of Auckland and holds one of New Zealand's top three heritage libraries. It has pre-eminent Māori and Pacific collections"@en .
+<https://linked.data.gov.au/org/awmm> <http://www.w3.org/2004/02/skos/core#inScheme> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/awmm> <http://www.w3.org/2004/02/skos/core#prefLabel> "Auckland War Memorial Museum"@en .
+<https://linked.data.gov.au/org/awmm> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/awmm> <https://schema.org/name> "Auckland War Memorial Museum" .
+<https://linked.data.gov.au/org/awmm> <https://schema.org/url> "https://www.aucklandmuseum.com"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<https://linked.data.gov.au/org/baam> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://linked.data.gov.au/org/baam> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<https://linked.data.gov.au/org/baam> <http://www.w3.org/2004/02/skos/core#definition> "BAAM was established in Brisbane in 2001 to provide terrestrial fauna ecology consulting services. Since that time the company has grown to include botanical expertise, ecological restoration and fauna spotting services. For projects requiring specific expertise we source contribution from within our significant network of ecological specialists to ensure the rigour of our work."@en .
+<https://linked.data.gov.au/org/baam> <http://www.w3.org/2004/02/skos/core#inScheme> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/baam> <http://www.w3.org/2004/02/skos/core#notation> "59 097 464 992"^^<http://id.loc.gov/vocabulary/identifiers/ausbn> .
+<https://linked.data.gov.au/org/baam> <http://www.w3.org/2004/02/skos/core#prefLabel> "Biodiversity Assessment and Management (BAAM)"@en .
+<https://linked.data.gov.au/org/baam> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/baam> <https://schema.org/name> "Biodiversity Assessment and Management (BAAM)" .
+<https://linked.data.gov.au/org/baam> <https://schema.org/url> "https://baamecology.com"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<https://linked.data.gov.au/org/bdbsa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://linked.data.gov.au/org/bdbsa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<https://linked.data.gov.au/org/bdbsa> <http://www.w3.org/2004/02/skos/core#definition> "The Biological Databases of South Australia (BDBSA) is South Australia's flora and fauna database that stores and manages specimen and observation records"@en .
+<https://linked.data.gov.au/org/bdbsa> <http://www.w3.org/2004/02/skos/core#inScheme> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/bdbsa> <http://www.w3.org/2004/02/skos/core#prefLabel> "Biological Databases of South Australia"@en .
+<https://linked.data.gov.au/org/bdbsa> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/bdbsa> <https://schema.org/name> "Biological Databases of South Australia" .
+<https://linked.data.gov.au/org/bdbsa> <https://schema.org/url> "https://www.environment.sa.gov.au/topics/science/information-and-data/biological-databases-of-south-australia"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<https://linked.data.gov.au/org/bhp> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://linked.data.gov.au/org/bhp> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<https://linked.data.gov.au/org/bhp> <http://www.w3.org/2004/02/skos/core#definition> "BHP is a large mining company whose 'purpose is to bring people and resources together to build a better world. We do this through our strategy to deliver long-term value and returns through the cycle.'"@en .
+<https://linked.data.gov.au/org/bhp> <http://www.w3.org/2004/02/skos/core#inScheme> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/bhp> <http://www.w3.org/2004/02/skos/core#notation> "57 071 987 669"^^<http://id.loc.gov/vocabulary/identifiers/ausbn> .
+<https://linked.data.gov.au/org/bhp> <http://www.w3.org/2004/02/skos/core#prefLabel> "BHP"@en .
+<https://linked.data.gov.au/org/bhp> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/bhp> <https://schema.org/name> "BHP" .
+<https://linked.data.gov.au/org/bhp> <https://schema.org/url> "https://www.bhp.com"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<https://linked.data.gov.au/org/biepa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://linked.data.gov.au/org/biepa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<https://linked.data.gov.au/org/biepa> <http://www.w3.org/2004/02/skos/core#definition> "BIEPA's mission is to help life to flourish on our island sanctuary by:\n* protecting, maintaining, and restoring the native flora and fauna on and around the island;\n* monitoring and improving the natural environment, including the surrounding waters;\n* influencing urban development and promoting sustainable ecotourism; and\n* proactively engaging with the local community to grow our membership and raise funds and awareness."@en .
+<https://linked.data.gov.au/org/biepa> <http://www.w3.org/2004/02/skos/core#inScheme> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/biepa> <http://www.w3.org/2004/02/skos/core#notation> "18 064 697 900"^^<http://id.loc.gov/vocabulary/identifiers/ausbn> .
+<https://linked.data.gov.au/org/biepa> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bribie Island Environmental Protection Association Inc"@en .
+<https://linked.data.gov.au/org/biepa> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/biepa> <https://schema.org/name> "Bribie Island Environmental Protection Association Inc" .
+<https://linked.data.gov.au/org/biepa> <https://schema.org/url> "https://www.biepa.online"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<https://linked.data.gov.au/org/birdlife> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://linked.data.gov.au/org/birdlife> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<https://linked.data.gov.au/org/birdlife> <http://www.w3.org/2004/02/skos/core#definition> "Australian Bird science and conservation organisation."@en .
+<https://linked.data.gov.au/org/birdlife> <http://www.w3.org/2004/02/skos/core#historyNote> "Added by BDR Admin for the use in the BDR, from AGLDWG Orgs Catalogue https://catalogue.linked.data.gov.au/index.php/org/birdlife" .
+<https://linked.data.gov.au/org/birdlife> <http://www.w3.org/2004/02/skos/core#inScheme> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/birdlife> <http://www.w3.org/2004/02/skos/core#notation> "75 149 124 774"^^<http://id.loc.gov/vocabulary/identifiers/ausbn> .
+<https://linked.data.gov.au/org/birdlife> <http://www.w3.org/2004/02/skos/core#prefLabel> "BirdLife Australia"@en .
+<https://linked.data.gov.au/org/birdlife> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/birdlife> <https://schema.org/name> "BirdLife Australia" .
+<https://linked.data.gov.au/org/birdlife> <https://schema.org/url> "https://birdlife.org.au"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<https://linked.data.gov.au/org/canbr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://linked.data.gov.au/org/canbr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<https://linked.data.gov.au/org/canbr> <http://www.w3.org/2004/02/skos/core#definition> "The Centre for Australian National Biodiversity Research (CANBR) includes the Australian National Herbarium. These are jointly managed by CSIRO and the Director of National Parks with strong links to the Australian National Botanic Gardens. The Herbarium"@en .
+<https://linked.data.gov.au/org/canbr> <http://www.w3.org/2004/02/skos/core#inScheme> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/canbr> <http://www.w3.org/2004/02/skos/core#prefLabel> "Centre for Australian National Biodiversity Research"@en .
+<https://linked.data.gov.au/org/canbr> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/canbr> <https://schema.org/name> "Centre for Australian National Biodiversity Research" .
+<https://linked.data.gov.au/org/canbr> <https://schema.org/url> "https://www.anbg.gov.au/cpbr"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<https://linked.data.gov.au/org/cooloolacc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://linked.data.gov.au/org/cooloolacc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<https://linked.data.gov.au/org/cooloolacc> <http://www.w3.org/2004/02/skos/core#definition> "Cooloola Coastcare Association is the Cooloola Coast's award winning Natural Resource Management group, registered with Queensland Water and Land Carers (QWALC) and supported by Gympie Regional Council through ratepayer's Environment Levy."@en .
+<https://linked.data.gov.au/org/cooloolacc> <http://www.w3.org/2004/02/skos/core#inScheme> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/cooloolacc> <http://www.w3.org/2004/02/skos/core#notation> "41 112 645 288"^^<http://id.loc.gov/vocabulary/identifiers/ausbn> .
+<https://linked.data.gov.au/org/cooloolacc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cooloola Coastcare"@en .
+<https://linked.data.gov.au/org/cooloolacc> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/cooloolacc> <https://schema.org/name> "Cooloola Coastcare" .
+<https://linked.data.gov.au/org/cooloolacc> <https://schema.org/url> "https://www.cooloolacoastcare.org.au"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<https://linked.data.gov.au/org/csiro> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://linked.data.gov.au/org/csiro> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<https://linked.data.gov.au/org/csiro> <http://www.w3.org/2004/02/skos/core#definition> "Australia's national science research agency."@en .
+<https://linked.data.gov.au/org/csiro> <http://www.w3.org/2004/02/skos/core#inScheme> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/csiro> <http://www.w3.org/2004/02/skos/core#narrower> <https://linked.data.gov.au/org/csiro-environment> .
+<https://linked.data.gov.au/org/csiro> <http://www.w3.org/2004/02/skos/core#notation> "41 687 119 230"^^<http://id.loc.gov/vocabulary/identifiers/ausbn> .
+<https://linked.data.gov.au/org/csiro> <http://www.w3.org/2004/02/skos/core#prefLabel> "CSIRO"@en .
+<https://linked.data.gov.au/org/csiro> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/csiro> <https://schema.org/name> "CSIRO" .
+<https://linked.data.gov.au/org/csiro> <https://schema.org/url> "https://www.csiro.au"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<https://linked.data.gov.au/org/csiro-environment> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://linked.data.gov.au/org/csiro-environment> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<https://linked.data.gov.au/org/csiro-environment> <http://www.w3.org/2004/02/skos/core#definition> "Australia's national science research agency. Environment Research Unit."@en .
+<https://linked.data.gov.au/org/csiro-environment> <http://www.w3.org/2004/02/skos/core#inScheme> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/csiro-environment> <http://www.w3.org/2004/02/skos/core#identifier> "https://ror.org/05bgxxb69"^^<http://id.loc.gov/vocabulary/identifiers/ror> .
+<https://linked.data.gov.au/org/csiro-environment> <http://www.w3.org/2004/02/skos/core#prefLabel> "Environment Research Unit"@en .
+<https://linked.data.gov.au/org/csiro-environment> <http://www.w3.org/2004/02/skos/core#broader> <https://linked.data.gov.au/org/csiro> .
+<https://linked.data.gov.au/org/csiro-environment> <https://schema.org/name> "Environment Research Unit CSIRO" .
+<https://linked.data.gov.au/org/csiro-environment> <https://schema.org/url> "https://www.csiro.au/en/about/people/research-units/environment"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<https://linked.data.gov.au/org/dafwa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://linked.data.gov.au/org/dafwa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<https://linked.data.gov.au/org/dafwa> <http://www.w3.org/2004/02/skos/core#definition> "WA Department of Agriculture and Food"@en .
+<https://linked.data.gov.au/org/dafwa> <http://www.w3.org/2004/02/skos/core#inScheme> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/dafwa> <http://www.w3.org/2004/02/skos/core#prefLabel> "WA Department of Agriculture and Food"@en .
+<https://linked.data.gov.au/org/dafwa> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/dafwa> <https://schema.org/name> "WA Department of Agriculture and Food" .
+<https://linked.data.gov.au/org/dafwa> <https://schema.org/url> "https://www.dpird.wa.gov.au"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<https://linked.data.gov.au/org/des> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://linked.data.gov.au/org/des> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<https://linked.data.gov.au/org/des> <http://www.w3.org/2004/02/skos/core#definition> "This Department was renamed the Department of Environment, Tourism, Science & Innovation in early 2025."@en .
+<https://linked.data.gov.au/org/des> <http://www.w3.org/2004/02/skos/core#inScheme> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/des> <http://www.w3.org/2004/02/skos/core#prefLabel> "Qld Department of Environment and Science"@en .
+<https://linked.data.gov.au/org/des> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/des> <https://schema.org/name> "Qld Department of Environment and Science" .
+<https://linked.data.gov.au/org/des> <https://schema.org/url> "https://www.detsi.qld.gov.au"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<https://linked.data.gov.au/org/ecosmartecology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://linked.data.gov.au/org/ecosmartecology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<https://linked.data.gov.au/org/ecosmartecology> <http://www.w3.org/2004/02/skos/core#definition> "EcoSmart Ecology is an emerging industry leader in ecological research, survey and assessment with a strong client focus and the highest commitment to quality. Use our balance of knowledge, skills and experience to assist in navigating through the array of environmental issues and statutory requirements facing ecological planners and developers."@en .
+<https://linked.data.gov.au/org/ecosmartecology> <http://www.w3.org/2004/02/skos/core#inScheme> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/ecosmartecology> <http://www.w3.org/2004/02/skos/core#notation> "34 137 963 190"^^<http://id.loc.gov/vocabulary/identifiers/ausbn> .
+<https://linked.data.gov.au/org/ecosmartecology> <http://www.w3.org/2004/02/skos/core#prefLabel> "EcoSmart Ecology"@en .
+<https://linked.data.gov.au/org/ecosmartecology> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/ecosmartecology> <https://schema.org/name> "EcoSmart Ecology" .
+<https://linked.data.gov.au/org/ecosmartecology> <https://schema.org/url> "https://ecosmartecology.com.au"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<https://linked.data.gov.au/org/gaia-resources> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://linked.data.gov.au/org/gaia-resources> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<https://linked.data.gov.au/org/gaia-resources> <http://www.w3.org/2004/02/skos/core#definition> "Gaia Resources provides a range of services around technology consulting to organisations that work with the environment"@en .
+<https://linked.data.gov.au/org/gaia-resources> <http://www.w3.org/2004/02/skos/core#inScheme> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/gaia-resources> <http://www.w3.org/2004/02/skos/core#notation> "94 119 508 824"^^<http://id.loc.gov/vocabulary/identifiers/ausbn> .
+<https://linked.data.gov.au/org/gaia-resources> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gaia Resources"@en .
+<https://linked.data.gov.au/org/gaia-resources> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/gaia-resources> <https://schema.org/name> "Gaia Resources" .
+<https://linked.data.gov.au/org/gaia-resources> <https://schema.org/url> "https://www.gaiaresources.com.au"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<https://linked.data.gov.au/org/gccc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://linked.data.gov.au/org/gccc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<https://linked.data.gov.au/org/gccc> <http://www.w3.org/2004/02/skos/core#definition> "The council of the Gold Coast"@en .
+<https://linked.data.gov.au/org/gccc> <http://www.w3.org/2004/02/skos/core#inScheme> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/gccc> <http://www.w3.org/2004/02/skos/core#notation> "84 858 548 460"^^<http://id.loc.gov/vocabulary/identifiers/ausbn> .
+<https://linked.data.gov.au/org/gccc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gold Coast City Council"@en .
+<https://linked.data.gov.au/org/gccc> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/gccc> <https://schema.org/name> "Gold Coast City Council" .
+<https://linked.data.gov.au/org/gccc> <https://schema.org/url> "https://www.goldcoast.qld.gov.au"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<https://linked.data.gov.au/org/jcu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://linked.data.gov.au/org/jcu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<https://linked.data.gov.au/org/jcu> <http://www.w3.org/2004/02/skos/core#definition> "James Cook University (JCU) is a public university in North Queensland, Australia. The second oldest university in Queensland, JCU is a teaching and research institution. The university's main campuses are located in the tropical cities of Cairns and Townsville, and one in the city state of Singapore. JCU also has study centres in Mount Isa, Mackay, Thursday Island and Rockhampton."@en .
+<https://linked.data.gov.au/org/jcu> <http://www.w3.org/2004/02/skos/core#inScheme> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/jcu> <http://www.w3.org/2004/02/skos/core#notation> "46 253 211 955"^^<http://id.loc.gov/vocabulary/identifiers/ausbn> .
+<https://linked.data.gov.au/org/jcu> <http://www.w3.org/2004/02/skos/core#prefLabel> "James Cook University"@en .
+<https://linked.data.gov.au/org/jcu> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/jcu> <https://schema.org/name> "James Cook University" .
+<https://linked.data.gov.au/org/jcu> <https://schema.org/url> "https://www.jcu.edu.au"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<https://linked.data.gov.au/org/latrobe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://linked.data.gov.au/org/latrobe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<https://linked.data.gov.au/org/latrobe> <http://www.w3.org/2004/02/skos/core#definition> "La Trobe University is a public research university based in Melbourne"@en .
+<https://linked.data.gov.au/org/latrobe> <http://www.w3.org/2004/02/skos/core#inScheme> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/latrobe> <http://www.w3.org/2004/02/skos/core#notation> "64 804 735 113"^^<http://id.loc.gov/vocabulary/identifiers/ausbn> .
+<https://linked.data.gov.au/org/latrobe> <http://www.w3.org/2004/02/skos/core#prefLabel> "La Trobe University"@en .
+<https://linked.data.gov.au/org/latrobe> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/latrobe> <https://schema.org/name> "La Trobe University" .
+<https://linked.data.gov.au/org/latrobe> <https://schema.org/url> "https://www.latrobe.edu.au"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<https://linked.data.gov.au/org/lcai> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://linked.data.gov.au/org/lcai> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<https://linked.data.gov.au/org/lcai> <http://www.w3.org/2004/02/skos/core#definition> "Organisation found in ABR but not online"@en .
+<https://linked.data.gov.au/org/lcai> <http://www.w3.org/2004/02/skos/core#inScheme> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/lcai> <http://www.w3.org/2004/02/skos/core#notation> "56 756 200 363"^^<http://id.loc.gov/vocabulary/identifiers/ausbn> .
+<https://linked.data.gov.au/org/lcai> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lockyer Catchment Association Inc"@en .
+<https://linked.data.gov.au/org/lcai> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/lcai> <https://schema.org/name> "Lockyer Catchment Association Inc" .
+<https://linked.data.gov.au/org/lcai> <https://schema.org/url> "https://abr.business.gov.au/ABN/View?abn=56756200363"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<https://linked.data.gov.au/org/macleaymuseum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://linked.data.gov.au/org/macleaymuseum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<https://linked.data.gov.au/org/macleaymuseum> <http://www.w3.org/2004/02/skos/core#definition> "This museum was formerly part of the University of Sydney but it has been abolished now and its contents transfered to the chau Chack Wing museum within the university."@en .
+<https://linked.data.gov.au/org/macleaymuseum> <http://www.w3.org/2004/02/skos/core#inScheme> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/macleaymuseum> <http://www.w3.org/2004/02/skos/core#prefLabel> "Macleay Museum"@en .
+<https://linked.data.gov.au/org/macleaymuseum> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/macleaymuseum> <https://schema.org/name> "Macleay Museum" .
+<https://linked.data.gov.au/org/macleaymuseum> <https://schema.org/url> "https://en.wikipedia.org/wiki/Macleay_Museum"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<https://linked.data.gov.au/org/mboca> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://linked.data.gov.au/org/mboca> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<https://linked.data.gov.au/org/mboca> <http://www.w3.org/2004/02/skos/core#definition> "Now part of BirdLife Australia"@en .
+<https://linked.data.gov.au/org/mboca> <http://www.w3.org/2004/02/skos/core#inScheme> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/mboca> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mackay Bird Observers Club of Australia"@en .
+<https://linked.data.gov.au/org/mboca> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/mboca> <https://schema.org/name> "Mackay Bird Observers Club of Australia" .
+<https://linked.data.gov.au/org/mboca> <https://schema.org/url> "https://en.wikipedia.org/wiki/Bird_Observation_%26_Conservation_Australia"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<https://linked.data.gov.au/org/mgrt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://linked.data.gov.au/org/mgrt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<https://linked.data.gov.au/org/mgrt> <http://www.w3.org/2004/02/skos/core#definition> "The Mahogany Glider Recovery Team (MGRT) provides advice and coordinates actions identified in the Mahogany Glider Recovery Plan. The MGRT includes representatives from organisations with a direct interest in the recovery of the Mahogany Glider, including those involved in funding and those participating in actions that support the recovery of the species."@en .
+<https://linked.data.gov.au/org/mgrt> <http://www.w3.org/2004/02/skos/core#inScheme> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/mgrt> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mahogany Glider Recovery Team"@en .
+<https://linked.data.gov.au/org/mgrt> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/mgrt> <https://schema.org/name> "Mahogany Glider Recovery Team" .
+<https://linked.data.gov.au/org/mgrt> <https://schema.org/url> "https://www.wettropicsplan.org.au/contacts-plan-partners/mahogany-glider-recovery-team"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<https://linked.data.gov.au/org/mjdenv> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://linked.data.gov.au/org/mjdenv> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<https://linked.data.gov.au/org/mjdenv> <http://www.w3.org/2004/02/skos/core#definition> "MJD Environmental is an innovative Environmental Consultancy local to the Hunter and servicing the Hunter Valley and beyond in the Land Development"@en .
+<https://linked.data.gov.au/org/mjdenv> <http://www.w3.org/2004/02/skos/core#inScheme> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/mjdenv> <http://www.w3.org/2004/02/skos/core#notation> "58 609 765 693"^^<http://id.loc.gov/vocabulary/identifiers/ausbn> .
+<https://linked.data.gov.au/org/mjdenv> <http://www.w3.org/2004/02/skos/core#prefLabel> "MJD Environmental"@en .
+<https://linked.data.gov.au/org/mjdenv> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/mjdenv> <https://schema.org/name> "MJD Environmental" .
+<https://linked.data.gov.au/org/mjdenv> <https://schema.org/url> "https://www.mjdenvironmental.com"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<https://linked.data.gov.au/org/mrcca> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://linked.data.gov.au/org/mrcca> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<https://linked.data.gov.au/org/mrcca> <http://www.w3.org/2004/02/skos/core#definition> "The Mary River Catchment Coordination Association is a very active Integrated Catchment Management organisation overseen by the Mary River Catchment Coordinating Committee (MRCCC), which comprises interest sector representatives from 30 community, industry and government sectors with interests in sustainable natural resource management. Today the group reaches out to thousands of catchment residents through our stakeholder delegates and associated networks throughout the catchment."@en .
+<https://linked.data.gov.au/org/mrcca> <http://www.w3.org/2004/02/skos/core#inScheme> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/mrcca> <http://www.w3.org/2004/02/skos/core#notation> "23 009 920 786 "^^<http://id.loc.gov/vocabulary/identifiers/ausbn> .
+<https://linked.data.gov.au/org/mrcca> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mary River Catchment Coordination Association"@en .
+<https://linked.data.gov.au/org/mrcca> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/mrcca> <https://schema.org/name> "Mary River Catchment Coordination Association" .
+<https://linked.data.gov.au/org/mrcca> <https://schema.org/url> "https://mrccc.org.au"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<https://linked.data.gov.au/org/museumsvictoria> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://linked.data.gov.au/org/museumsvictoria> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<https://linked.data.gov.au/org/museumsvictoria> <http://www.w3.org/2004/02/skos/core#definition> "For more than 160 years, the people of Victoria have turned to their State museum to connect the past and the present, and to imagine the future. As Australia's largest public museum organisation, we inspire audiences to engage in life’s deep mysteries and big questions.\n\nOur museums present unique and exceptional experiences for more than 2 million visitors each year, who come from all over Australia and around the world to be inspired and to learn about themselves and the universe we inhabit.\n\nThe collection is an invaluable record of Victoria's environmental and cultural history, and our amazing wealth of over 15 million items has been creating a sense of wonder and awe in visitors for generations."@en .
+<https://linked.data.gov.au/org/museumsvictoria> <http://www.w3.org/2004/02/skos/core#inScheme> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/museumsvictoria> <http://www.w3.org/2004/02/skos/core#notation> "63 640 679 155"^^<http://id.loc.gov/vocabulary/identifiers/ausbn> .
+<https://linked.data.gov.au/org/museumsvictoria> <http://www.w3.org/2004/02/skos/core#prefLabel> "Museums Victoria"@en .
+<https://linked.data.gov.au/org/museumsvictoria> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/museumsvictoria> <https://schema.org/name> "Museums Victoria" .
+<https://linked.data.gov.au/org/museumsvictoria> <https://schema.org/url> "https://museumsvictoria.com.au"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<https://linked.data.gov.au/org/mwlr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://linked.data.gov.au/org/mwlr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<https://linked.data.gov.au/org/mwlr> <http://www.w3.org/2004/02/skos/core#definition> "Manaaki Whenua – Landcare Research is one of seven Crown Research Institutes (CRIs) formed in 1992. CRIs function as independent companies but are owned by"@en .
+<https://linked.data.gov.au/org/mwlr> <http://www.w3.org/2004/02/skos/core#inScheme> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/mwlr> <http://www.w3.org/2004/02/skos/core#prefLabel> "Manaaki Whenua – Landcare Research"@en .
+<https://linked.data.gov.au/org/mwlr> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/mwlr> <https://schema.org/name> "Manaaki Whenua – Landcare Research" .
+<https://linked.data.gov.au/org/mwlr> <https://schema.org/url> "https://www.landcareresearch.co.nz"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<https://linked.data.gov.au/org/naturemapr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://linked.data.gov.au/org/naturemapr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<https://linked.data.gov.au/org/naturemapr> <http://www.w3.org/2004/02/skos/core#definition> "NatureMapr empowers decision makers through citizen-supplied biodiversity data"@en .
+<https://linked.data.gov.au/org/naturemapr> <http://www.w3.org/2004/02/skos/core#inScheme> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/naturemapr> <http://www.w3.org/2004/02/skos/core#notation> "75 119 895 703"^^<http://id.loc.gov/vocabulary/identifiers/ausbn> .
+<https://linked.data.gov.au/org/naturemapr> <http://www.w3.org/2004/02/skos/core#prefLabel> "Canberra and National NatureMapr Network Incorporated"@en .
+<https://linked.data.gov.au/org/naturemapr> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/naturemapr> <https://schema.org/name> "Canberra and National NatureMapr Network Incorporated" .
+<https://linked.data.gov.au/org/naturemapr> <https://schema.org/url> "https://canberra.naturemapr.org"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<https://linked.data.gov.au/org/nhm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://linked.data.gov.au/org/nhm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<https://linked.data.gov.au/org/nhm> <http://www.w3.org/2004/02/skos/core#definition> "The Natural History Museum is a world-class visitor attraction and leading science research centre.\n\nWe use our unique collections and unrivalled expertise to tackle the biggest challenges facing the world today.\n\nWe care for more than 80 million objects spanning billions of years and welcome more than five million visitors annually."@en .
+<https://linked.data.gov.au/org/nhm> <http://www.w3.org/2004/02/skos/core#inScheme> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/nhm> <http://www.w3.org/2004/02/skos/core#prefLabel> "Natural History Museum"@en .
+<https://linked.data.gov.au/org/nhm> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/nhm> <https://schema.org/name> "Natural History Museum" .
+<https://linked.data.gov.au/org/nhm> <https://schema.org/url> "https://www.nhm.ac.uk"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<https://linked.data.gov.au/org/npansw> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://linked.data.gov.au/org/npansw> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<https://linked.data.gov.au/org/npansw> <http://www.w3.org/2004/02/skos/core#definition> "The National Parks Association of NSW (commonly known as NPA) is a member-based conservation organisation and registered charity. Our mission is protecting nature through community action.\n\nWe are committed to protecting, conserving and restoring the integrity and diversity of nature, its biodiversity, geodiversity, supporting ecological processes and associated cultural values. We complement our conservation work by providing rewarding and enjoyable opportunities for people to experience, appreciate, study and care for nature."@en .
+<https://linked.data.gov.au/org/npansw> <http://www.w3.org/2004/02/skos/core#inScheme> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/npansw> <http://www.w3.org/2004/02/skos/core#notation> "67 694 961 955"^^<http://id.loc.gov/vocabulary/identifiers/ausbn> .
+<https://linked.data.gov.au/org/npansw> <http://www.w3.org/2004/02/skos/core#prefLabel> "NPANSW"@en .
+<https://linked.data.gov.au/org/npansw> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/npansw> <https://schema.org/name> "NPANSW" .
+<https://linked.data.gov.au/org/npansw> <https://schema.org/url> "https://npansw.org.au"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<https://linked.data.gov.au/org/nsw-bionet> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://linked.data.gov.au/org/nsw-bionet> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<https://linked.data.gov.au/org/nsw-bionet> <http://www.w3.org/2004/02/skos/core#definition> "The gateway to NSW biodiversity information."@en .
+<https://linked.data.gov.au/org/nsw-bionet> <http://www.w3.org/2004/02/skos/core#inScheme> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/nsw-bionet> <http://www.w3.org/2004/02/skos/core#prefLabel> "NSW BioNet"@en .
+<https://linked.data.gov.au/org/nsw-bionet> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/nsw-bionet> <https://schema.org/name> "NSW BioNet" .
+<https://linked.data.gov.au/org/nsw-bionet> <https://schema.org/url> "https://www.environment.nsw.gov.au/topics/animals-and-plants/biodiversity/nsw-bionet"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<https://linked.data.gov.au/org/nsw-daff> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://linked.data.gov.au/org/nsw-daff> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<https://linked.data.gov.au/org/nsw-daff> <http://www.w3.org/2004/02/skos/core#definition> "From 1 July 2024, the NSW Department of Primary Industries Forests became part of the newly formed NSW Department of Primary Industries and Regional Development."@en .
+<https://linked.data.gov.au/org/nsw-daff> <http://www.w3.org/2004/02/skos/core#inScheme> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/nsw-daff> <http://www.w3.org/2004/02/skos/core#prefLabel> "NSW Department of Primary Industries Forests"@en .
+<https://linked.data.gov.au/org/nsw-daff> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/nsw-daff> <https://schema.org/name> "NSW Department of Primary Industries Forests" .
+<https://linked.data.gov.au/org/nsw-daff> <https://schema.org/url> "https://www.dpi.nsw.gov.au/forestry"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<https://linked.data.gov.au/org/nsw-dcceew> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://linked.data.gov.au/org/nsw-dcceew> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<https://linked.data.gov.au/org/nsw-dcceew> <http://www.w3.org/2004/02/skos/core#definition> "The NSW Department of Climate Change, Energy, the Environment and Water (DCCEEW) works to protect the state’s environment and heritage. It leads the way on climate change, driving the sustainable transition to a net zero economy, powered by affordable, reliable, and clean energy."@en .
+<https://linked.data.gov.au/org/nsw-dcceew> <http://www.w3.org/2004/02/skos/core#inScheme> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/nsw-dcceew> <http://www.w3.org/2004/02/skos/core#notation> "27 578 976 844"^^<http://id.loc.gov/vocabulary/identifiers/ausbn> .
+<https://linked.data.gov.au/org/nsw-dcceew> <http://www.w3.org/2004/02/skos/core#prefLabel> "NSW Department of Climate Change, Energy, the Environment and Water"@en .
+<https://linked.data.gov.au/org/nsw-dcceew> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/nsw-dcceew> <https://schema.org/name> "NSW Department of Climate Change, Energy, the Environment and Water" .
+<https://linked.data.gov.au/org/nsw-dcceew> <https://schema.org/url> "https://www.nsw.gov.au/departments-and-agencies/dcceew"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<https://linked.data.gov.au/org/nsw-dpe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://linked.data.gov.au/org/nsw-dpe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<https://linked.data.gov.au/org/nsw-dpe> <http://www.w3.org/2004/02/skos/core#definition> "The New South Wales Department of Planning and Environment (DPE) was a department of the New South Wales Government, responsible for effective and sustainable planning to support the growth in the state of New South Wales, Australia.\n\nThe department was renamed from the Department of Planning, Industry and Environment (DPIE) on 21 December 2021.\n\nSuperseding agencies: Department of Planning, Housing and Infrastructure & Department of Climate Change, Energy, the Environment and Water."@en .
+<https://linked.data.gov.au/org/nsw-dpe> <http://www.w3.org/2004/02/skos/core#inScheme> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/nsw-dpe> <http://www.w3.org/2004/02/skos/core#prefLabel> "NSW Dept of Planning and Environment"@en .
+<https://linked.data.gov.au/org/nsw-dpe> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/nsw-dpe> <https://schema.org/name> "NSW Dept of Planning and Environment" .
+<https://linked.data.gov.au/org/nsw-dpe> <https://schema.org/url> "https://www.dpie.nsw.gov.au"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<https://linked.data.gov.au/org/nsw-dpie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://linked.data.gov.au/org/nsw-dpie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<https://linked.data.gov.au/org/nsw-dpie> <http://www.w3.org/2004/02/skos/core#definition> "The New South Wales Department of Department of Planning, Industry and Environment (DPIE) was renamed to the Department of Planning and Environment (DPE) on 21 December 2021."@en .
+<https://linked.data.gov.au/org/nsw-dpie> <http://www.w3.org/2004/02/skos/core#inScheme> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/nsw-dpie> <http://www.w3.org/2004/02/skos/core#prefLabel> "NSW Dept of Planning Industry and Environment"@en .
+<https://linked.data.gov.au/org/nsw-dpie> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/nsw-dpie> <https://schema.org/name> "NSW Dept of Planning Industry and Environment" .
+<https://linked.data.gov.au/org/nsw-dpie> <https://schema.org/url> "https://www.dpie.nsw.gov.au"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<https://linked.data.gov.au/org/nsw-npws> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://linked.data.gov.au/org/nsw-npws> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<https://linked.data.gov.au/org/nsw-npws> <http://www.w3.org/2004/02/skos/core#definition> "NSW National Parks and Wildlife Service (NPWS) is part of Environment and Heritage in the Department of Climate Change"@en .
+<https://linked.data.gov.au/org/nsw-npws> <http://www.w3.org/2004/02/skos/core#inScheme> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/nsw-npws> <http://www.w3.org/2004/02/skos/core#notation> "27 578 976 844"^^<http://id.loc.gov/vocabulary/identifiers/ausbn> .
+<https://linked.data.gov.au/org/nsw-npws> <http://www.w3.org/2004/02/skos/core#prefLabel> "NSW National Parks and Wildlife Service"@en .
+<https://linked.data.gov.au/org/nsw-npws> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/nsw-npws> <https://schema.org/name> "NSW National Parks and Wildlife Service" .
+<https://linked.data.gov.au/org/nsw-npws> <https://schema.org/url> "https://www.nationalparks.nsw.gov.au"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<https://linked.data.gov.au/org/nt-atlas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://linked.data.gov.au/org/nt-atlas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<https://linked.data.gov.au/org/nt-atlas> <http://www.w3.org/2004/02/skos/core#definition> "This is a comprehensive database of all known vertebrate fauna records, including mammals, birds, reptiles, frogs and fish, as well threatened invertebrates, for the Northern Territory."@en .
+<https://linked.data.gov.au/org/nt-atlas> <http://www.w3.org/2004/02/skos/core#inScheme> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/nt-atlas> <http://www.w3.org/2004/02/skos/core#prefLabel> "NT Fauna Atlas"@en .
+<https://linked.data.gov.au/org/nt-atlas> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/nt-atlas> <https://schema.org/name> "NT Fauna Atlas" .
+<https://linked.data.gov.au/org/nt-atlas> <https://schema.org/url> "https://data.nt.gov.au/dataset/nt-fauna-atlas"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<https://linked.data.gov.au/org/nt-dipe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://linked.data.gov.au/org/nt-dipe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<https://linked.data.gov.au/org/nt-dipe> <http://www.w3.org/2004/02/skos/core#definition> "The Northern Territory Department of Infrastructure, Planning and Environment is now called the Department of Logistics and Infrastructure (DLI). It was previously named the Department of Infrastructure, Planning and Logistics (DIPL). The DLI was established in September 2024 by the Northern Territory Government. It focuses on infrastructure, logistics, and sustainable development across the Northern Territory."@en .
+<https://linked.data.gov.au/org/nt-dipe> <http://www.w3.org/2004/02/skos/core#inScheme> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/nt-dipe> <http://www.w3.org/2004/02/skos/core#prefLabel> "Northern Territory Department of Infrastructure, Planning and Environment"@en .
+<https://linked.data.gov.au/org/nt-dipe> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/nt-dipe> <https://schema.org/name> "Northern Territory Department of Infrastructure, Planning and Environment" .
+<https://linked.data.gov.au/org/nt-dipe> <https://schema.org/url> "https://environment.nt.gov.au"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<https://linked.data.gov.au/org/nt-dlpe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://linked.data.gov.au/org/nt-dlpe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<https://linked.data.gov.au/org/nt-dlpe> <http://www.w3.org/2004/02/skos/core#definition> "The department includes the key functions that foster and protect the environment and natural resources in the Northern Territory."@en .
+<https://linked.data.gov.au/org/nt-dlpe> <http://www.w3.org/2004/02/skos/core#inScheme> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/nt-dlpe> <http://www.w3.org/2004/02/skos/core#notation> "84 085 734 992"^^<http://id.loc.gov/vocabulary/identifiers/ausbn> .
+<https://linked.data.gov.au/org/nt-dlpe> <http://www.w3.org/2004/02/skos/core#prefLabel> "NT Department of Lands Planning and Environment"@en .
+<https://linked.data.gov.au/org/nt-dlpe> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/nt-dlpe> <https://schema.org/name> "NT Department of Lands Planning and Environment" .
+<https://linked.data.gov.au/org/nt-dlpe> <https://schema.org/url> "https://environment.nt.gov.au"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<https://linked.data.gov.au/org/nt-dlrm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://linked.data.gov.au/org/nt-dlrm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<https://linked.data.gov.au/org/nt-dlrm> <http://www.w3.org/2004/02/skos/core#definition> "The Department has been superseded by the Department of Lands"@en .
+<https://linked.data.gov.au/org/nt-dlrm> <http://www.w3.org/2004/02/skos/core#inScheme> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/nt-dlrm> <http://www.w3.org/2004/02/skos/core#prefLabel> "NT Department of Land Resource Management"@en .
+<https://linked.data.gov.au/org/nt-dlrm> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/nt-dlrm> <https://schema.org/name> "NT Department of Land Resource Management" .
+<https://linked.data.gov.au/org/nt-dlrm> <https://schema.org/url> "https://environment.nt.gov.au"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<https://linked.data.gov.au/org/nt-herbarium> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://linked.data.gov.au/org/nt-herbarium> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<https://linked.data.gov.au/org/nt-herbarium> <http://www.w3.org/2004/02/skos/core#definition> "A herbarium is a 'museum or library of plant specimens'. They are part of an international network dedicated to the study and identification of plants.\n\nThe NT Herbarium has a collection of 270,000 preserved plant specimens kept for reference and research."@en .
+<https://linked.data.gov.au/org/nt-herbarium> <http://www.w3.org/2004/02/skos/core#inScheme> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/nt-herbarium> <http://www.w3.org/2004/02/skos/core#prefLabel> "NT Herbarium"@en .
+<https://linked.data.gov.au/org/nt-herbarium> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/nt-herbarium> <https://schema.org/name> "NT Herbarium" .
+<https://linked.data.gov.au/org/nt-herbarium> <https://schema.org/url> "https://nt.gov.au/environment/native-plants/native-plants-and-nt-herbarium"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<https://linked.data.gov.au/org/qld-daff> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://linked.data.gov.au/org/qld-daff> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<https://linked.data.gov.au/org/qld-daff> <http://www.w3.org/2004/02/skos/core#definition> "The Department of Agriculture and Fisheries (DAF) was officially dissolved and replaced by the Department of Primary Industries (DPI) on 1 November 2024, due to machinery of government changes.\n\nFormerly known as the Department of Agriculture and Fisheries.\n\nWe ensure that Queensland’s primary industries—the essential backbone of our economy and communities—are productive, profitable and sustainable for future generations.\n\nWe do this by connecting industries, the community and government to grow our economy, protect our primary industries from biosecurity threats and support rural communities."@en .
+<https://linked.data.gov.au/org/qld-daff> <http://www.w3.org/2004/02/skos/core#inScheme> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/qld-daff> <http://www.w3.org/2004/02/skos/core#notation> "66 934 348 189"^^<http://id.loc.gov/vocabulary/identifiers/ausbn> .
+<https://linked.data.gov.au/org/qld-daff> <http://www.w3.org/2004/02/skos/core#prefLabel> "Qld Department of Agriculture and Fisheries"@en .
+<https://linked.data.gov.au/org/qld-daff> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/qld-daff> <https://schema.org/name> "Qld Department of Agriculture and Fisheries" .
+<https://linked.data.gov.au/org/qld-daff> <https://schema.org/url> "https://www.archivessearch.qld.gov.au/agencies/A11656"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<https://linked.data.gov.au/org/qld-derm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://linked.data.gov.au/org/qld-derm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<https://linked.data.gov.au/org/qld-derm> <http://www.w3.org/2004/02/skos/core#definition> "DERM was dissolved and transformed into the Department of Environment and Heritage Protection (EHP) in 2012"@en .
+<https://linked.data.gov.au/org/qld-derm> <http://www.w3.org/2004/02/skos/core#inScheme> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/qld-derm> <http://www.w3.org/2004/02/skos/core#prefLabel> "Qld Department of Environment and Resource Management"@en .
+<https://linked.data.gov.au/org/qld-derm> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/qld-derm> <https://schema.org/name> "Qld Department of Environment and Resource Management" .
+<https://linked.data.gov.au/org/qld-derm> <https://schema.org/url> "https://www.archivessearch.qld.gov.au/agencies/A11171"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<https://linked.data.gov.au/org/qld-detsi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://linked.data.gov.au/org/qld-detsi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<https://linked.data.gov.au/org/qld-detsi> <http://www.w3.org/2004/02/skos/core#definition> "Our department recognises the enormous value a clean environment, innovative society and visitor economy, and vibrant culture contributes to our lives.\n\nAs a diverse organisation, the department brings together key areas of work to achieve our objectives for a better Queensland."@en .
+<https://linked.data.gov.au/org/qld-detsi> <http://www.w3.org/2004/02/skos/core#inScheme> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/qld-detsi> <http://www.w3.org/2004/02/skos/core#notation> "46 640 294 485"^^<http://id.loc.gov/vocabulary/identifiers/ausbn> .
+<https://linked.data.gov.au/org/qld-detsi> <http://www.w3.org/2004/02/skos/core#prefLabel> "Department of Environment Tourism Science and Innovation"@en .
+<https://linked.data.gov.au/org/qld-detsi> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/qld-detsi> <https://schema.org/name> "Department of Environment Tourism Science and Innovation" .
+<https://linked.data.gov.au/org/qld-detsi> <https://schema.org/url> "https://www.detsi.qld.gov.au"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<https://linked.data.gov.au/org/qld-dres> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://linked.data.gov.au/org/qld-dres> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<https://linked.data.gov.au/org/qld-dres> <http://www.w3.org/2004/02/skos/core#definition> "The Department of Resources was renamed the Department of Natural Resources and Mines, Manufacturing and Regional and Rural Development in 2025"@en .
+<https://linked.data.gov.au/org/qld-dres> <http://www.w3.org/2004/02/skos/core#inScheme> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/qld-dres> <http://www.w3.org/2004/02/skos/core#prefLabel> "Qld Department of Resources"@en .
+<https://linked.data.gov.au/org/qld-dres> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/qld-dres> <https://schema.org/name> "Qld Department of Resources" .
+<https://linked.data.gov.au/org/qld-dres> <https://schema.org/url> "https://www.resources.qld.gov.au"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<https://linked.data.gov.au/org/qld-tmr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://linked.data.gov.au/org/qld-tmr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<https://linked.data.gov.au/org/qld-tmr> <http://www.w3.org/2004/02/skos/core#definition> "The Department of Transport and Main Roads moves and connects people, places, goods and services safely, efficiently and effectively across Queensland.\nWe plan, manage and deliver Queensland's integrated transport environment to achieve sustainable transport solutions for road, rail, air and sea."@en .
+<https://linked.data.gov.au/org/qld-tmr> <http://www.w3.org/2004/02/skos/core#inScheme> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/qld-tmr> <http://www.w3.org/2004/02/skos/core#notation> "39 407 690 291"^^<http://id.loc.gov/vocabulary/identifiers/ausbn> .
+<https://linked.data.gov.au/org/qld-tmr> <http://www.w3.org/2004/02/skos/core#prefLabel> "Qld Department of Transport and Main Roads"@en .
+<https://linked.data.gov.au/org/qld-tmr> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/qld-tmr> <https://schema.org/name> "Qld Department of Transport and Main Roads" .
+<https://linked.data.gov.au/org/qld-tmr> <https://schema.org/url> "https://www.tmr.qld.gov.au"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<https://linked.data.gov.au/org/qld-tsgehp> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://linked.data.gov.au/org/qld-tsgehp> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<https://linked.data.gov.au/org/qld-tsgehp> <http://www.w3.org/2004/02/skos/core#definition> "Part of Department of the Environment, Tourism, Science and Innovation (DETSI)"@en .
+<https://linked.data.gov.au/org/qld-tsgehp> <http://www.w3.org/2004/02/skos/core#inScheme> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/qld-tsgehp> <http://www.w3.org/2004/02/skos/core#prefLabel> "Qld Threatened Species Group"@en .
+<https://linked.data.gov.au/org/qld-tsgehp> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/qld-tsgehp> <https://schema.org/name> "Qld Threatened Species Group" .
+<https://linked.data.gov.au/org/qld-tsgehp> <https://schema.org/url> "https://www.detsi.qld.gov.au"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<https://linked.data.gov.au/org/qld-wildnet> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://linked.data.gov.au/org/qld-wildnet> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<https://linked.data.gov.au/org/qld-wildnet> <http://www.w3.org/2004/02/skos/core#definition> "WildNet is home to wildlife sightings, survey results, species profiles and multimedia."@en .
+<https://linked.data.gov.au/org/qld-wildnet> <http://www.w3.org/2004/02/skos/core#inScheme> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/qld-wildnet> <http://www.w3.org/2004/02/skos/core#prefLabel> "WildNet platform"@en .
+<https://linked.data.gov.au/org/qld-wildnet> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/qld-wildnet> <https://schema.org/name> "WildNet platform" .
+<https://linked.data.gov.au/org/qld-wildnet> <https://schema.org/url> "https://www.qld.gov.au/environment/plants-animals/species-information/wildnet"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<https://linked.data.gov.au/org/qm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://linked.data.gov.au/org/qm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<https://linked.data.gov.au/org/qm> <http://www.w3.org/2004/02/skos/core#definition> "Queensland Museum is the keeping place for the State Collection, a magnificent assemblage of 1.2 million cultural objects, natural history specimens and geological treasures and more than 14 million research items. Every year, we bring our collections to life through fieldwork, contemporary acquisitions, world-class research and a dynamic program of exhibitions, workshops, talks, lectures and major events including World Science Festival Brisbane."@en .
+<https://linked.data.gov.au/org/qm> <http://www.w3.org/2004/02/skos/core#inScheme> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/qm> <http://www.w3.org/2004/02/skos/core#notation> "91 522 611 802"^^<http://id.loc.gov/vocabulary/identifiers/ausbn> .
+<https://linked.data.gov.au/org/qm> <http://www.w3.org/2004/02/skos/core#prefLabel> "Queensland Museum"@en .
+<https://linked.data.gov.au/org/qm> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/qm> <https://schema.org/name> "Queensland Museum" .
+<https://linked.data.gov.au/org/qm> <https://schema.org/url> "https://www.museum.qld.gov.au"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<https://linked.data.gov.au/org/qnc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://linked.data.gov.au/org/qnc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<https://linked.data.gov.au/org/qnc> <http://www.w3.org/2004/02/skos/core#definition> "The Queensland Naturalists’ Club Inc aims to study all branches of natural history, to encourage the preservation and protection of native flora and fauna and their environments. We also focus on publishing worthwhile observations on natural history and record club activities."@en .
+<https://linked.data.gov.au/org/qnc> <http://www.w3.org/2004/02/skos/core#inScheme> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/qnc> <http://www.w3.org/2004/02/skos/core#notation> "22 586 275 203"^^<http://id.loc.gov/vocabulary/identifiers/ausbn> .
+<https://linked.data.gov.au/org/qnc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Queensland-Naturalists-Club"@en .
+<https://linked.data.gov.au/org/qnc> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/qnc> <https://schema.org/name> "Queensland-Naturalists-Club" .
+<https://linked.data.gov.au/org/qnc> <https://schema.org/url> "https://www.qnc.org.au"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<https://linked.data.gov.au/org/qpws> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://linked.data.gov.au/org/qpws> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<https://linked.data.gov.au/org/qpws> <http://www.w3.org/2004/02/skos/core#definition> "Part of Qld DETSI"@en .
+<https://linked.data.gov.au/org/qpws> <http://www.w3.org/2004/02/skos/core#inScheme> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/qpws> <http://www.w3.org/2004/02/skos/core#prefLabel> "Queensland Parks and Wildlife Service"@en .
+<https://linked.data.gov.au/org/qpws> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/qpws> <https://schema.org/name> "Queensland Parks and Wildlife Service" .
+<https://linked.data.gov.au/org/qpws> <https://schema.org/url> "https://parks.desi.qld.gov.au"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<https://linked.data.gov.au/org/qvmag> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://linked.data.gov.au/org/qvmag> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<https://linked.data.gov.au/org/qvmag> <http://www.w3.org/2004/02/skos/core#definition> "The Queen Victoria Museum and Art Gallery (QVMAG) is the cultural hub of Launceston and the leading destination for art, history and natural sciences in Northern Tasmania. "@en .
+<https://linked.data.gov.au/org/qvmag> <http://www.w3.org/2004/02/skos/core#inScheme> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/qvmag> <http://www.w3.org/2004/02/skos/core#notation> "73 149 070 625"^^<http://id.loc.gov/vocabulary/identifiers/ausbn> .
+<https://linked.data.gov.au/org/qvmag> <http://www.w3.org/2004/02/skos/core#prefLabel> "Queen Victoria Museum & Art Gallery"@en .
+<https://linked.data.gov.au/org/qvmag> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/qvmag> <https://schema.org/name> "Queen Victoria Museum & Art Gallery" .
+<https://linked.data.gov.au/org/qvmag> <https://schema.org/url> "https://www.qvmag.tas.gov.au"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<https://linked.data.gov.au/org/rbgdt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://linked.data.gov.au/org/rbgdt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<https://linked.data.gov.au/org/rbgdt> <http://www.w3.org/2004/02/skos/core#definition> "Botanic Gardens of Sydney encompasses three world-leading botanic gardens, Australia’s premier botanical research institute, and Sydney’s leading outdoor activation precinct.\n\nAs Australia’s oldest scientific institution, we are custodians of more than $1.2 billion in state significant cultural, heritage and botanical collections.\n\nThe Gardens are a leading entity within the tourism sector with a focus on engaging international, national and regional visitors.\n\nBotanic Gardens of Sydney is the registered business name of the Royal Botanic Gardens and Domain Trust, which is constituted under the Royal Botanic Gardens and Domain Trust Act 1980."@en .
+<https://linked.data.gov.au/org/rbgdt> <http://www.w3.org/2004/02/skos/core#inScheme> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/rbgdt> <http://www.w3.org/2004/02/skos/core#prefLabel> "Royal Botanic Gardens and Domain Trust"@en .
+<https://linked.data.gov.au/org/rbgdt> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/rbgdt> <https://schema.org/name> "Royal Botanic Gardens and Domain Trust" .
+<https://linked.data.gov.au/org/rbgdt> <https://schema.org/url> "https://www.service.nsw.gov.au/nswgovdirectory/royal-botanic-gardens-and-domain-trust-the"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<https://linked.data.gov.au/org/rbgv> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://linked.data.gov.au/org/rbgv> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<https://linked.data.gov.au/org/rbgv> <http://www.w3.org/2004/02/skos/core#definition> "Royal Botanic Gardens Victoria plays a leading role in the conservation of plants through biodiversity research, programs to protect rare and threatened plants, and the study of habitats. This work is supported by education and visitor programs about the importance of plants to life.\n\nThe organisation encompasses two diverse sites at Melbourne and Cranbourne and the State Botanical Collection housed at the National Herbarium of Victoria. Royal Botanic Gardens Victoria is managed by the Royal Botanic Gardens Board Victoria, which is responsible to the Minister for Environment."@en .
+<https://linked.data.gov.au/org/rbgv> <http://www.w3.org/2004/02/skos/core#inScheme> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/rbgv> <http://www.w3.org/2004/02/skos/core#prefLabel> "Royal Botanic Gardens Victoria"@en .
+<https://linked.data.gov.au/org/rbgv> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/rbgv> <https://schema.org/name> "Royal Botanic Gardens Victoria" .
+<https://linked.data.gov.au/org/rbgv> <https://schema.org/url> "https://www.rbg.vic.gov.au"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<https://linked.data.gov.au/org/reefcatchments> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://linked.data.gov.au/org/reefcatchments> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<https://linked.data.gov.au/org/reefcatchments> <http://www.w3.org/2004/02/skos/core#definition> "Reef Catchments is the Natural Resource Management (NRM) organisation for the Mackay Whitsunday Isaac region. We facilitate change and work for long-term solutions to sustain, protect, and improve our region’s natural resources and environment, both now and into the future."@en .
+<https://linked.data.gov.au/org/reefcatchments> <http://www.w3.org/2004/02/skos/core#inScheme> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/reefcatchments> <http://www.w3.org/2004/02/skos/core#notation> "26 873 357 348"^^<http://id.loc.gov/vocabulary/identifiers/ausbn> .
+<https://linked.data.gov.au/org/reefcatchments> <http://www.w3.org/2004/02/skos/core#prefLabel> "Reef Catchments"@en .
+<https://linked.data.gov.au/org/reefcatchments> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/reefcatchments> <https://schema.org/name> "Reef Catchments" .
+<https://linked.data.gov.au/org/reefcatchments> <https://schema.org/url> "https://reefcatchments.com.au"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<https://linked.data.gov.au/org/riotinto> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://linked.data.gov.au/org/riotinto> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<https://linked.data.gov.au/org/riotinto> <http://www.w3.org/2004/02/skos/core#definition> "Rio Tinto Group is a British-Australian multinational company that is the world's second largest metals and mining corporation."@en .
+<https://linked.data.gov.au/org/riotinto> <http://www.w3.org/2004/02/skos/core#inScheme> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/riotinto> <http://www.w3.org/2004/02/skos/core#notation> "96 004 458 404"^^<http://id.loc.gov/vocabulary/identifiers/ausbn> .
+<https://linked.data.gov.au/org/riotinto> <http://www.w3.org/2004/02/skos/core#prefLabel> "Rio Tinto"@en .
+<https://linked.data.gov.au/org/riotinto> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/riotinto> <https://schema.org/name> "Rio Tinto" .
+<https://linked.data.gov.au/org/riotinto> <https://schema.org/url> "https://www.riotinto.com"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<https://linked.data.gov.au/org/sa-dew> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://linked.data.gov.au/org/sa-dew> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<https://linked.data.gov.au/org/sa-dew> <http://www.w3.org/2004/02/skos/core#definition> "The Department for Environment and Water (DEW) manages a complex portfolio of natural and built assets that are critical to the wellbeing and economic prosperity of all South Australians."@en .
+<https://linked.data.gov.au/org/sa-dew> <http://www.w3.org/2004/02/skos/core#inScheme> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/sa-dew> <http://www.w3.org/2004/02/skos/core#prefLabel> "SA Department for Environment and Water"@en .
+<https://linked.data.gov.au/org/sa-dew> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/sa-dew> <https://schema.org/name> "SA Department for Environment and Water" .
+<https://linked.data.gov.au/org/sa-dew> <https://schema.org/url> "https://www.environment.sa.gov.au"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<https://linked.data.gov.au/org/sa-dewnr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://linked.data.gov.au/org/sa-dewnr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<https://linked.data.gov.au/org/sa-dewnr> <http://www.w3.org/2004/02/skos/core#definition> "The South Australian Department for Environment, Water and Natural Resources (DEWNR) has changed its name. It is now the Department for Environment and Water (DEW). This name change occurred on March 22, 2018, according to State Records South Australia. The change was due to adjustments in ministerial portfolios and reporting lines. "@en .
+<https://linked.data.gov.au/org/sa-dewnr> <http://www.w3.org/2004/02/skos/core#inScheme> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/sa-dewnr> <http://www.w3.org/2004/02/skos/core#notation> "36 702 093 234"^^<http://id.loc.gov/vocabulary/identifiers/ausbn> .
+<https://linked.data.gov.au/org/sa-dewnr> <http://www.w3.org/2004/02/skos/core#prefLabel> "SA Department for Environment and Water"@en .
+<https://linked.data.gov.au/org/sa-dewnr> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/sa-dewnr> <https://schema.org/name> "SA Department for Environment and Water" .
+<https://linked.data.gov.au/org/sa-dewnr> <https://schema.org/url> "https://www.environment.sa.gov.au"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<https://linked.data.gov.au/org/sa-herbarium> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://linked.data.gov.au/org/sa-herbarium> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<https://linked.data.gov.au/org/sa-herbarium> <http://www.w3.org/2004/02/skos/core#definition> "The State Herbarium of South Australia, sometimes called the South Australian Herbarium, and having the herbarium code, AD, is located in Adelaide, South Australia. It is one of several State and Commonwealth herbaria in Australia. The Department for Environment and Water is the state agency which is responsible for the Herbarium, but the Board of the Botanic Gardens and State Herbarium (established by an Act of Parliament, most recently the Botanic Gardens and State Herbarium Act 1978) is charged with its establishment and maintenance.\n\nThe herbarium is responsible for Electronic Flora of South Australia. It also produces the journal, Swainsona (formerly Journal of the Adelaide Botanic Gardens)."@en .
+<https://linked.data.gov.au/org/sa-herbarium> <http://www.w3.org/2004/02/skos/core#inScheme> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/sa-herbarium> <http://www.w3.org/2004/02/skos/core#prefLabel> "State Herbarium of South Australia"@en .
+<https://linked.data.gov.au/org/sa-herbarium> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/sa-herbarium> <https://schema.org/name> "State Herbarium of South Australia" .
+<https://linked.data.gov.au/org/sa-herbarium> <https://schema.org/url> "https://www.botanicgardens.sa.gov.au/science/research/state-herbarium"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<https://linked.data.gov.au/org/sam> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://linked.data.gov.au/org/sam> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<https://linked.data.gov.au/org/sam> <http://www.w3.org/2004/02/skos/core#definition> "The South Australian Museum has been committed to making Australia’s natural and cultural heritage accessible, engaging and fun for over 165 years. It is a place where families can learn and grow together. Today the Museum is one of the most visited museums in Australia and holds collections of national and international significance. It is a leader in remote and regional community engagement, and in Australian Aboriginal heritage and scientific research."@en .
+<https://linked.data.gov.au/org/sam> <http://www.w3.org/2004/02/skos/core#inScheme> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/sam> <http://www.w3.org/2004/02/skos/core#notation> "39 808 959 302"^^<http://id.loc.gov/vocabulary/identifiers/ausbn> .
+<https://linked.data.gov.au/org/sam> <http://www.w3.org/2004/02/skos/core#prefLabel> "South Australian Museum"@en .
+<https://linked.data.gov.au/org/sam> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/sam> <https://schema.org/name> "South Australian Museum" .
+<https://linked.data.gov.au/org/sam> <https://schema.org/url> "https://www.samuseum.sa.gov.au"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<https://linked.data.gov.au/org/scienceforwildlife> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://linked.data.gov.au/org/scienceforwildlife> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<https://linked.data.gov.au/org/scienceforwildlife> <http://www.w3.org/2004/02/skos/core#definition> "Science for Wildlife is a leading not-for-profit conservation organisation working to ensure a future for wildlife and the places they call home.\n\nBringing the best available science to wildlife conservation in Australia and beyond, through the creation and sharing of ecological knowledge we empower people to participate in conservation that has an on-the-ground, enduring impact. Working with iconic and important species in key areas, our research and conservation work is designed to bring broader ecosystem benefits, maximising gains for many other animals and their habitats. We work beyond fences, at a landscape scale to bring real world solutions to conservation challenges. Our work is highly regarded by government and industry partners and informs conservation policy and action both nationally and globally."@en .
+<https://linked.data.gov.au/org/scienceforwildlife> <http://www.w3.org/2004/02/skos/core#inScheme> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/scienceforwildlife> <http://www.w3.org/2004/02/skos/core#prefLabel> "Science for Wildlife"@en .
+<https://linked.data.gov.au/org/scienceforwildlife> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/scienceforwildlife> <https://schema.org/name> "Science for Wildlife" .
+<https://linked.data.gov.au/org/scienceforwildlife> <https://schema.org/url> "https://www.scienceforwildlife.org"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<https://linked.data.gov.au/org/scion> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://linked.data.gov.au/org/scion> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<https://linked.data.gov.au/org/scion> <http://www.w3.org/2004/02/skos/core#definition> "Scion is a group of the New Zealand Institute for Bioeconomy Science"@en .
+<https://linked.data.gov.au/org/scion> <http://www.w3.org/2004/02/skos/core#inScheme> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/scion> <http://www.w3.org/2004/02/skos/core#prefLabel> "Scion Crown Research Institute of NZ"@en .
+<https://linked.data.gov.au/org/scion> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/scion> <https://schema.org/name> "Scion Crown Research Institute of NZ" .
+<https://linked.data.gov.au/org/scion> <https://schema.org/url> "https://www.scionresearch.com"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<https://linked.data.gov.au/org/sfsgi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://linked.data.gov.au/org/sfsgi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<https://linked.data.gov.au/org/sfsgi> <http://www.w3.org/2004/02/skos/core#definition> "The Sydney Fungal Studies Group Incorporated (SFSGI) consists of mycological and other academics, students, and many other, non-academic but interested people of all age groups.\n\nThe SFSGI aims to advance the study of fungi at all levels, particularly the larger fungi, to educate people at all stages of skill and knowledge in the science of mycology, and to interact with groups and societies having mycological or closely related interests.\n\nMembership is open to all, with the only requirements being that they are interested in contributing to the activities of the Group, subscribe to the aims of the Group, and that they respect the basic principles of nature conservation."@en .
+<https://linked.data.gov.au/org/sfsgi> <http://www.w3.org/2004/02/skos/core#inScheme> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/sfsgi> <http://www.w3.org/2004/02/skos/core#notation> "76 384 308 862"^^<http://id.loc.gov/vocabulary/identifiers/ausbn> .
+<https://linked.data.gov.au/org/sfsgi> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sydney Fungal Studies Group"@en .
+<https://linked.data.gov.au/org/sfsgi> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/sfsgi> <https://schema.org/name> "Sydney Fungal Studies Group" .
+<https://linked.data.gov.au/org/sfsgi> <https://schema.org/url> "https://www.sydneyfungalstudies.org.au"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<https://linked.data.gov.au/org/sunwater> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://linked.data.gov.au/org/sunwater> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<https://linked.data.gov.au/org/sunwater> <http://www.w3.org/2004/02/skos/core#definition> "Sunwater is a Queensland-based water service provider, making the most of the available water supply for our agriculture, urban and industrial customers."@en .
+<https://linked.data.gov.au/org/sunwater> <http://www.w3.org/2004/02/skos/core#inScheme> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/sunwater> <http://www.w3.org/2004/02/skos/core#notation> "17 020 276 523"^^<http://id.loc.gov/vocabulary/identifiers/ausbn> .
+<https://linked.data.gov.au/org/sunwater> <http://www.w3.org/2004/02/skos/core#prefLabel> "SunWater"@en .
+<https://linked.data.gov.au/org/sunwater> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/sunwater> <https://schema.org/name> "SunWater" .
+<https://linked.data.gov.au/org/sunwater> <https://schema.org/url> "https://www.sunwater.com.au"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<https://linked.data.gov.au/org/tas-nre> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://linked.data.gov.au/org/tas-nre> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<https://linked.data.gov.au/org/tas-nre> <http://www.w3.org/2004/02/skos/core#definition> "The Department of Natural Resources and Environment Tasmania (NRE Tas) is responsible for delivering a sustainable Tasmania. \nWe deliver a sustainable Tasmania by protecting and enhancing Tasmania's cultural and natural values; facilitating productive and sustainable industries; and by promoting the sustainable use, presentation, and enjoyment of our cultural and natural values."@en .
+<https://linked.data.gov.au/org/tas-nre> <http://www.w3.org/2004/02/skos/core#inScheme> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/tas-nre> <http://www.w3.org/2004/02/skos/core#prefLabel> "Department of Natural Resources and Environment Tasmania"@en .
+<https://linked.data.gov.au/org/tas-nre> <http://www.w3.org/2004/02/skos/core#altLabel> "NRE Tas" .
+<https://linked.data.gov.au/org/tas-nre> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/tas-nre> <https://schema.org/name> "Department of Natural Resources and Environment Tasmania" .
+<https://linked.data.gov.au/org/tas-nre> <https://schema.org/url> "https://www.nre.tas.gov.au"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<https://linked.data.gov.au/org/tas-nva> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://linked.data.gov.au/org/tas-nva> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<https://linked.data.gov.au/org/tas-nva> <http://www.w3.org/2004/02/skos/core#definition> "The Natural Values Atlas provides authoritative and comprehensive information on Tasmania's natural values."@en .
+<https://linked.data.gov.au/org/tas-nva> <http://www.w3.org/2004/02/skos/core#inScheme> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/tas-nva> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tasmanian Natural Values Atlas"@en .
+<https://linked.data.gov.au/org/tas-nva> <http://www.w3.org/2004/02/skos/core#altLabel> "NVA" .
+<https://linked.data.gov.au/org/tas-nva> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/tas-nva> <https://schema.org/name> "Tasmanian Natural Values Atlas" .
+<https://linked.data.gov.au/org/tas-nva> <https://schema.org/url> "https://www.naturalvaluesatlas.tas.gov.au"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<https://linked.data.gov.au/org/te-papa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://linked.data.gov.au/org/te-papa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<https://linked.data.gov.au/org/te-papa> <http://www.w3.org/2004/02/skos/core#definition> "Te Papa is New Zealand's national museum, renowned for being bicultural, scholarly, innovative, and fun. Our success is built on our relationships with and our ability to represent our community."@en .
+<https://linked.data.gov.au/org/te-papa> <http://www.w3.org/2004/02/skos/core#inScheme> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/te-papa> <http://www.w3.org/2004/02/skos/core#prefLabel> "Museum of New Zealand Te Papa Tongarewa"@en .
+<https://linked.data.gov.au/org/te-papa> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/te-papa> <https://schema.org/name> "Museum of New Zealand Te Papa Tongarewa" .
+<https://linked.data.gov.au/org/te-papa> <https://schema.org/url> "https://www.tepapa.govt.nz"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<https://linked.data.gov.au/org/tern> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://linked.data.gov.au/org/tern> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organisation> .
+<https://linked.data.gov.au/org/tern> <http://www.w3.org/2004/02/skos/core#definition> "Terrestrial Ecosystems Research Network"@en .
+<https://linked.data.gov.au/org/tern> <http://www.w3.org/2004/02/skos/core#historyNote> "From AGLDWG Orgs Catalogue https://catalogue.linked.data.gov.au/index.php/org/tern" .
+<https://linked.data.gov.au/org/tern> <http://www.w3.org/2004/02/skos/core#inScheme> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/tern> <http://www.w3.org/2004/02/skos/core#prefLabel> "Terrestrial Ecosystems Research Network"@en .
+<https://linked.data.gov.au/org/tern> <http://www.w3.org/2004/02/skos/core#broader> <https://linked.data.gov.au/org/dcceew> .
+<https://linked.data.gov.au/org/tern> <https://schema.org/isPartOf> <https://linked.data.gov.au/org/dcceew> .
+<https://linked.data.gov.au/org/tern> <https://schema.org/description> "Australia’s land ecosystem observatory." .
+<https://linked.data.gov.au/org/tern> <https://schema.org/name> "Terrestrial Ecosystems Research Network" .
+<https://linked.data.gov.au/org/tern> <https://schema.org/url> "https://tern.org.au"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<https://linked.data.gov.au/org/tern> <http://purl.org/dc/terms/replaces> <https://w3id.org/tern/resources/a083902d-d821-41be-b663-1d7cb33eea66> .
+<https://linked.data.gov.au/org/tmag> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://linked.data.gov.au/org/tmag> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<https://linked.data.gov.au/org/tmag> <http://www.w3.org/2004/02/skos/core#definition> "Tasmanian Museum and Art Gallery (TMAG) is Tasmania's leading natural and cultural heritage organisation. It is a combined museum, art gallery and herbarium which safeguards the physical evidence of Tasmania's natural and cultural heritage, and the cultural identity of Tasmanians.\n\nTMAG is Australia's second-oldest museum and has its origins in the collections of Australia's oldest scientific society, the Royal Society of Tasmania, established in 1843.  The first permanent home of the museum opened on the corner of Argyle and Macquarie streets in 1863 and the museum has gradually expanded from this corner to occupy the entire city block."@en .
+<https://linked.data.gov.au/org/tmag> <http://www.w3.org/2004/02/skos/core#inScheme> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/tmag> <http://www.w3.org/2004/02/skos/core#notation> "17 334 217 592"^^<http://id.loc.gov/vocabulary/identifiers/ausbn> .
+<https://linked.data.gov.au/org/tmag> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tasmanian Museum and Art Gallery"@en .
+<https://linked.data.gov.au/org/tmag> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/tmag> <https://schema.org/name> "Tasmanian Museum and Art Gallery" .
+<https://linked.data.gov.au/org/tmag> <https://schema.org/url> "https://www.tmag.tas.gov.au"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<https://linked.data.gov.au/org/uadelaide> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://linked.data.gov.au/org/uadelaide> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<https://linked.data.gov.au/org/uadelaide> <http://www.w3.org/2004/02/skos/core#definition> "The University of Adelaide is a public research university based in Adelaide, South Australia. Established in 1874, it is the third-oldest university in Australia."@en .
+<https://linked.data.gov.au/org/uadelaide> <http://www.w3.org/2004/02/skos/core#inScheme> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/uadelaide> <http://www.w3.org/2004/02/skos/core#notation> "61 249 878 937"^^<http://id.loc.gov/vocabulary/identifiers/ausbn> .
+<https://linked.data.gov.au/org/uadelaide> <http://www.w3.org/2004/02/skos/core#prefLabel> "University of Adelaide"@en .
+<https://linked.data.gov.au/org/uadelaide> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/uadelaide> <https://schema.org/name> "University of Adelaide" .
+<https://linked.data.gov.au/org/uadelaide> <https://schema.org/url> "https://www.adelaide.edu.au"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<https://linked.data.gov.au/org/umweltaust> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://linked.data.gov.au/org/umweltaust> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<https://linked.data.gov.au/org/umweltaust> <http://www.w3.org/2004/02/skos/core#definition> "An employee-owned environmental and social professional services consultancy"@en .
+<https://linked.data.gov.au/org/umweltaust> <http://www.w3.org/2004/02/skos/core#inScheme> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/umweltaust> <http://www.w3.org/2004/02/skos/core#notation> "18 059 519 041"^^<http://id.loc.gov/vocabulary/identifiers/ausbn> .
+<https://linked.data.gov.au/org/umweltaust> <http://www.w3.org/2004/02/skos/core#prefLabel> "Umwelt Australia Pty Ltd"@en .
+<https://linked.data.gov.au/org/umweltaust> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/umweltaust> <https://schema.org/name> "Umwelt Australia Pty Ltd" .
+<https://linked.data.gov.au/org/umweltaust> <https://schema.org/url> "https://www.umwelt.com.au"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<https://linked.data.gov.au/org/une> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://linked.data.gov.au/org/une> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<https://linked.data.gov.au/org/une> <http://www.w3.org/2004/02/skos/core#definition> "The University of New England (UNE) is a public university in the New England region of the state of New South Wales, Australia. Founded in 1938, it was the first Australian university to be established outside of a state capital."@en .
+<https://linked.data.gov.au/org/une> <http://www.w3.org/2004/02/skos/core#inScheme> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/une> <http://www.w3.org/2004/02/skos/core#notation> "75 792 454 315"^^<http://id.loc.gov/vocabulary/identifiers/ausbn> .
+<https://linked.data.gov.au/org/une> <http://www.w3.org/2004/02/skos/core#prefLabel> "University of New England"@en .
+<https://linked.data.gov.au/org/une> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/une> <https://schema.org/name> "University of New England" .
+<https://linked.data.gov.au/org/une> <https://schema.org/url> "https://www.une.edu.au"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<https://linked.data.gov.au/org/unsw> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://linked.data.gov.au/org/unsw> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<https://linked.data.gov.au/org/unsw> <http://www.w3.org/2004/02/skos/core#definition> "The University of New South Wales (UNSW) is a public research university based in Sydney, New South Wales, Australia. It is one of the founding members of Group of Eight, a coalition of Australian research-intensive universities."@en .
+<https://linked.data.gov.au/org/unsw> <http://www.w3.org/2004/02/skos/core#inScheme> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/unsw> <http://www.w3.org/2004/02/skos/core#notation> "57 195 873 179"^^<http://id.loc.gov/vocabulary/identifiers/ausbn> .
+<https://linked.data.gov.au/org/unsw> <http://www.w3.org/2004/02/skos/core#prefLabel> "The University of NSW"@en .
+<https://linked.data.gov.au/org/unsw> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/unsw> <https://schema.org/name> "The University of NSW" .
+<https://linked.data.gov.au/org/unsw> <https://schema.org/url> "https://www.unsw.edu.au"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<https://linked.data.gov.au/org/uom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://linked.data.gov.au/org/uom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<https://linked.data.gov.au/org/uom> <http://www.w3.org/2004/02/skos/core#definition> "The University of Melbourne is a public research university located in Melbourne, Australia. Founded in 1853, it is Australia's second oldest university and the oldest in Victoria. Its main campus is located in Parkville, an inner suburb north of Melbourne's central business district, with several other campuses located across Victoria."@en .
+<https://linked.data.gov.au/org/uom> <http://www.w3.org/2004/02/skos/core#inScheme> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/uom> <http://www.w3.org/2004/02/skos/core#prefLabel> "The University of Melbourne"@en .
+<https://linked.data.gov.au/org/uom> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/uom> <https://schema.org/name> "The University of Melbourne" .
+<https://linked.data.gov.au/org/uom> <https://schema.org/url> "https://www.unimelb.edu.au"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<https://linked.data.gov.au/org/uq> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://linked.data.gov.au/org/uq> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<https://linked.data.gov.au/org/uq> <http://www.w3.org/2004/02/skos/core#definition> "Ranked in the world's top 50, The University of Queensland is one of Australia's leading research and teaching institutions."@en .
+<https://linked.data.gov.au/org/uq> <http://www.w3.org/2004/02/skos/core#inScheme> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/uq> <http://www.w3.org/2004/02/skos/core#notation> "63 942 912 684"^^<http://id.loc.gov/vocabulary/identifiers/ausbn> .
+<https://linked.data.gov.au/org/uq> <http://www.w3.org/2004/02/skos/core#prefLabel> "University of Queensland"@en .
+<https://linked.data.gov.au/org/uq> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/uq> <https://schema.org/name> "University of Queensland" .
+<https://linked.data.gov.au/org/uq> <https://schema.org/url> "https://www.uq.edu.au"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<https://linked.data.gov.au/org/vic-deeca> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://linked.data.gov.au/org/vic-deeca> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<https://linked.data.gov.au/org/vic-deeca> <http://www.w3.org/2004/02/skos/core#definition> "DEECA brings together Victoria’s energy, environment, water, agriculture, forestry, resources, climate action, and emergency management functions into a single department to maximise connections between the environment, community, industry and economy."@en .
+<https://linked.data.gov.au/org/vic-deeca> <http://www.w3.org/2004/02/skos/core#inScheme> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/vic-deeca> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vic Department of Energy, Environment and Climate Action"@en .
+<https://linked.data.gov.au/org/vic-deeca> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/vic-deeca> <https://schema.org/name> "Vic Department of Energy, Environment and Climate Action" .
+<https://linked.data.gov.au/org/vic-deeca> <https://schema.org/url> "https://www.deeca.vic.gov.au"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<https://linked.data.gov.au/org/wa-bio> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://linked.data.gov.au/org/wa-bio> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<https://linked.data.gov.au/org/wa-bio> <http://www.w3.org/2004/02/skos/core#definition> "The Biodiversity Information Office (BIO) is responsible for making Western Australian biodiversity data more discoverable, accessible, and useable.  To deliver this change, BIO has developed the Dandjoo biodiversity data platform to mobilise data from all environment-related sectors, including government, industry, research, and the community.  BIO’s day-to-day work also includes a program of data-sharing and outreach work, identifying and sourcing priority datasets for release."@en .
+<https://linked.data.gov.au/org/wa-bio> <http://www.w3.org/2004/02/skos/core#inScheme> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/wa-bio> <http://www.w3.org/2004/02/skos/core#prefLabel> "WA Biodiversity Information Office"@en .
+<https://linked.data.gov.au/org/wa-bio> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/wa-bio> <https://schema.org/name> "WA Biodiversity Information Office" .
+<https://linked.data.gov.au/org/wa-bio> <https://schema.org/url> "https://bio.wa.gov.au"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<https://linked.data.gov.au/org/wa-dbca> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://linked.data.gov.au/org/wa-dbca> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<https://linked.data.gov.au/org/wa-dbca> <http://www.w3.org/2004/02/skos/core#definition> "The Department of Biodiversity, Conservation and Attractions (DBCA) is the Western Australian government department responsible for managing lands and waters described in the Conservation and Land Management Act 1984, the Rottnest Island Authority Act 1987, the Swan and Canning Rivers Management Act 2006, the Botanic Gardens and Parks Authority Act 1998, and the Zoological Parks Authority Act 2001, and implementing the state's conservation and environment legislation and regulations. The Department reports to the Minister for Environment and the Minister for Tourism. "@en .
+<https://linked.data.gov.au/org/wa-dbca> <http://www.w3.org/2004/02/skos/core#inScheme> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/wa-dbca> <http://www.w3.org/2004/02/skos/core#notation> "38 052 249 024"^^<http://id.loc.gov/vocabulary/identifiers/ausbn> .
+<https://linked.data.gov.au/org/wa-dbca> <http://www.w3.org/2004/02/skos/core#prefLabel> "WA Department of Biodiversity, Conservation and Attractions"@en .
+<https://linked.data.gov.au/org/wa-dbca> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/wa-dbca> <https://schema.org/name> "WA Department of Biodiversity, Conservation and Attractions" .
+<https://linked.data.gov.au/org/wa-dbca> <https://schema.org/url> "https://www.dbca.wa.gov.au"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<https://linked.data.gov.au/org/wa-herbarium> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://linked.data.gov.au/org/wa-herbarium> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<https://linked.data.gov.au/org/wa-herbarium> <http://www.w3.org/2004/02/skos/core#definition> "The Western Australian Herbarium is responsible for the description and documentation of Western Australia's exceptional botanical species diversity."@en .
+<https://linked.data.gov.au/org/wa-herbarium> <http://www.w3.org/2004/02/skos/core#inScheme> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/wa-herbarium> <http://www.w3.org/2004/02/skos/core#prefLabel> "WA Herbarium"@en .
+<https://linked.data.gov.au/org/wa-herbarium> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/wa-herbarium> <https://schema.org/name> "WA Herbarium" .
+<https://linked.data.gov.au/org/wa-herbarium> <https://schema.org/url> "https://www.dbca.wa.gov.au/science/research-tools-and-repositories/western-australian-herbarium"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<https://linked.data.gov.au/org/wabsi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://linked.data.gov.au/org/wabsi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<https://linked.data.gov.au/org/wabsi> <http://www.w3.org/2004/02/skos/core#definition> "A joint venture partnership with leading Western Australian science research organisations, with multi-disciplinary research expertise.\n\nAn independent, collaboration mechanism to facilitate end user driven, relevant biodiversity science research.\n\nFunded by the Western Australian Government’s Department of Jobs, Tourism, Science and Innovation."@en .
+<https://linked.data.gov.au/org/wabsi> <http://www.w3.org/2004/02/skos/core#inScheme> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/wabsi> <http://www.w3.org/2004/02/skos/core#prefLabel> "Western Australian Biodiversity Science Institute"@en .
+<https://linked.data.gov.au/org/wabsi> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/wabsi> <https://schema.org/name> "Western Australian Biodiversity Science Institute" .
+<https://linked.data.gov.au/org/wabsi> <https://schema.org/url> "https://wabsi.org.au"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<https://linked.data.gov.au/org/wam> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://linked.data.gov.au/org/wam> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<https://linked.data.gov.au/org/wam> <http://www.w3.org/2004/02/skos/core#definition> "The Western Australian Museum is the State's premier cultural organisation, housing WA's scientific and cultural collection.\n\nFor over 120 years the Museum has been making the State's natural and social heritage accessible and engaging through research, exhibition and public programs.\n\nToday, the Museum has seven public locations across the state - and a Collection and Research Centre that houses more than eight million objects."@en .
+<https://linked.data.gov.au/org/wam> <http://www.w3.org/2004/02/skos/core#inScheme> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/wam> <http://www.w3.org/2004/02/skos/core#notation> "95 249 517 733"^^<http://id.loc.gov/vocabulary/identifiers/ausbn> .
+<https://linked.data.gov.au/org/wam> <http://www.w3.org/2004/02/skos/core#prefLabel> "Western Australian Museum"@en .
+<https://linked.data.gov.au/org/wam> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/wam> <https://schema.org/name> "Western Australian Museum" .
+<https://linked.data.gov.au/org/wam> <https://schema.org/url> "https://visit.museum.wa.gov.au"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<https://linked.data.gov.au/org/western-shield> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://linked.data.gov.au/org/western-shield> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<https://linked.data.gov.au/org/western-shield> <http://www.w3.org/2004/02/skos/core#definition> "WA’s largest conservation program, Western Shield, works to manage introduced predators for native species conservation. Learn what animals are protected, where DBCA’s fauna recovery sites are located, and what management tools are used. "@en .
+<https://linked.data.gov.au/org/western-shield> <http://www.w3.org/2004/02/skos/core#inScheme> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/western-shield> <http://www.w3.org/2004/02/skos/core#prefLabel> "Western Shield"@en .
+<https://linked.data.gov.au/org/western-shield> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/western-shield> <https://schema.org/name> "Western Shield" .
+<https://linked.data.gov.au/org/western-shield> <https://schema.org/url> "http://www.dbca.wa.gov.au/management/threat-management/invasive-animals/western-shield"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<https://linked.data.gov.au/org/wmbaustralia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://linked.data.gov.au/org/wmbaustralia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<https://linked.data.gov.au/org/wmbaustralia> <http://www.w3.org/2004/02/skos/core#definition> "Acquired by BTM in 2008"@en .
+<https://linked.data.gov.au/org/wmbaustralia> <http://www.w3.org/2004/02/skos/core#inScheme> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/wmbaustralia> <http://www.w3.org/2004/02/skos/core#notation> "54 010 830 421"^^<http://id.loc.gov/vocabulary/identifiers/ausbn> .
+<https://linked.data.gov.au/org/wmbaustralia> <http://www.w3.org/2004/02/skos/core#prefLabel> "WBM Oceanics Australia"@en .
+<https://linked.data.gov.au/org/wmbaustralia> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/wmbaustralia> <https://schema.org/name> "WBM Oceanics Australia" .
+<https://linked.data.gov.au/org/wmbaustralia> <https://schema.org/url> "https://www.bmt.org/services/environment-solutions"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<https://linked.data.gov.au/org/wwf-australia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://linked.data.gov.au/org/wwf-australia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<https://linked.data.gov.au/org/wwf-australia> <http://www.w3.org/2004/02/skos/core#definition> "At WWF-Australia we’ve been protecting nature’s wonders for more than 40 years. And now we’re working with communities, governments, companies and others not just to protect our natural world but to restore and regenerate it."@en .
+<https://linked.data.gov.au/org/wwf-australia> <http://www.w3.org/2004/02/skos/core#inScheme> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/wwf-australia> <http://www.w3.org/2004/02/skos/core#notation> "57 001 594 074"^^<http://id.loc.gov/vocabulary/identifiers/ausbn> .
+<https://linked.data.gov.au/org/wwf-australia> <http://www.w3.org/2004/02/skos/core#prefLabel> "WWF Australia"@en .
+<https://linked.data.gov.au/org/wwf-australia> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/wwf-australia> <https://schema.org/name> "WWF Australia" .
+<https://linked.data.gov.au/org/wwf-australia> <https://schema.org/url> "https://wwf.org.au"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<http://www.publish.csiro.au/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://www.publish.csiro.au/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://www.publish.csiro.au/> <http://www.w3.org/2004/02/skos/core#definition> "CSIRO Publishing is an Australian science publisher of books, peer-reviewed journals, and news."@en .
+<http://www.publish.csiro.au/> <https://schema.org/identifier> "https://ror.org/051hpv692"^^<http://id.loc.gov/vocabulary/identifiers/loc> .
+<http://www.publish.csiro.au/> <http://www.w3.org/2004/02/skos/core#broader> <https://linked.data.gov.au/org/csiro> .
+<http://www.publish.csiro.au/> <http://www.w3.org/2004/02/skos/core#exactMatch> <https://linked.data.gov.au/org/csiro-publishing> .
+<http://www.publish.csiro.au/> <http://www.w3.org/2004/02/skos/core#inScheme> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<http://www.publish.csiro.au/> <https://schema.org/name> "CSIRO Publishing" .
+<http://www.publish.csiro.au/> <https://schema.org/url> "https://www.publish.csiro.au/"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<https://kurrawong.ai> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://kurrawong.ai> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<https://kurrawong.ai> <http://www.w3.org/2004/02/skos/core#inScheme> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://kurrawong.ai> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://kurrawong.ai> <https://schema.org/name> "KurrawongAI" .
+<https://kurrawong.ai> <http://www.w3.org/2004/02/skos/core#prefLabel> "KurrawongAI" .
+<https://kurrawong.ai> <https://schema.org/url> "https://kurrawong.ai"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<https://linked.data.gov.au/org/bdr-team> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://linked.data.gov.au/org/bdr-team> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<https://linked.data.gov.au/org/bdr-team> <https://schema.org/name> "BDR Team" .
+<https://linked.data.gov.au/org/bdr-team> <http://www.w3.org/2004/02/skos/core#definition> "Biodiversity Data Repository team"@en .
+<https://linked.data.gov.au/org/bdr-team> <https://schema.org/url> "https://bdr.gov.au/" .
+<https://linked.data.gov.au/def/abares> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://linked.data.gov.au/def/abares> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<https://linked.data.gov.au/def/abares> <https://schema.org/name> "Australian Bureau of Agricultural and Resource Economics and Sciences." .
+<https://linked.data.gov.au/def/abares> <http://www.w3.org/2004/02/skos/core#prefLabel> "Australian Bureau of Agricultural and Resource Economics and Sciences." .
+<https://linked.data.gov.au/def/abares> <https://schema.org/description> "The Australian Bureau of Agricultural and Resource Economics and Sciences is the research arm of the Australian Government Department of Agriculture, Fisheries and Forestry."@en .
+<https://linked.data.gov.au/def/abares> <http://www.w3.org/2004/02/skos/core#definition> "The Australian Bureau of Agricultural and Resource Economics and Sciences is the research arm of the Australian Government Department of Agriculture, Fisheries and Forestry."@en .
+<https://linked.data.gov.au/def/abares> <https://schema.org/alternateName> "ABARES" .
+<https://linked.data.gov.au/def/abares> <https://schema.org/identifier> "https://ror.org/00rev1511"^^<http://id.loc.gov/vocabulary/identifiers/ror> .
+<https://linked.data.gov.au/def/abares> <http://www.w3.org/2004/02/skos/core#broader> <https://linked.data.gov.au/org/daff> .
+<https://linked.data.gov.au/def/abares> <https://schema.org/isPartOf> <https://linked.data.gov.au/org/daff> .
+<https://linked.data.gov.au/def/abares> <https://schema.org/url> "https://www.agriculture.gov.au/abares"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<https://linked.data.gov.au/org/daff> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://linked.data.gov.au/org/daff> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<https://linked.data.gov.au/org/daff> <http://www.w3.org/2004/02/skos/core#inScheme> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/daff> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/daff> <https://schema.org/description> "DAFF works to enhance Australia's agricultural, fisheries and forestry industries. DAFF creates new and maintains existing agricultural export opportunities, to provide gains for Australian agriculture. DAFF manages biosecurity risks to Australia to protect Australia's multi-billion dollar agricultural industries and our way of life.\n\nThis is one of the successor Departments to the Department of Agriculture, Water and the Environment." .
+<https://linked.data.gov.au/org/daff> <https://schema.org/name> "Department of Agriculture, Fisheries and Forestry" .
+<https://linked.data.gov.au/org/daff> <http://www.w3.org/2004/02/skos/core#definition> "DAFF works to enhance Australia's agricultural, fisheries and forestry industries. DAFF creates new and maintains existing agricultural export opportunities, to provide gains for Australian agriculture. DAFF manages biosecurity risks to Australia to protect Australia's multi-billion dollar agricultural industries and our way of life.\n\nThis is one of the successor Departments to the Department of Agriculture, Water and the Environment." .
+<https://linked.data.gov.au/org/daff> <http://www.w3.org/2004/02/skos/core#prefLabel> "Department of Agriculture, Fisheries and Forestry" .
+<https://linked.data.gov.au/org/daff> <https://schema.org/url> "https://www.agriculture.gov.au"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<https://linked.data.gov.au/org/agldwg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://linked.data.gov.au/org/agldwg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<https://linked.data.gov.au/org/agldwg> <http://www.w3.org/2004/02/skos/core#inScheme> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/agldwg> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/agldwg> <https://schema.org/description> "The informal Australian government Working Group charged with assisting any government with matters relating to Linked Data." .
+<https://linked.data.gov.au/org/agldwg> <https://schema.org/name> "Australian Government Linked Data Working Group" .
+<https://linked.data.gov.au/org/agldwg> <http://www.w3.org/2004/02/skos/core#definition> "The informal Australian government Working Group charged with assisting any government with matters relating to Linked Data." .
+<https://linked.data.gov.au/org/agldwg> <http://www.w3.org/2004/02/skos/core#prefLabel> "Australian Government Linked Data Working Group" .
+<https://linked.data.gov.au/org/agldwg> <https://schema.org/url> "http://www.linked.data.gov.au"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<https://linked.data.gov.au/org/ausbigg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://linked.data.gov.au/org/ausbigg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<https://linked.data.gov.au/org/ausbigg> <http://www.w3.org/2004/02/skos/core#inScheme> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/ausbigg> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/ausbigg> <https://schema.org/description> "The Australian Biodiversity Information Governance Group (AusBIGG) comprises Australian Commonwealth, State &amp; Territory and environmental research organisations involved in the collection and management of biodiversity information.\n\nAusBIGG was established in 2021 and its main role, as of 2023, is the governance of the Australian Biodiversity Information Standard." .
+<https://linked.data.gov.au/org/ausbigg> <https://schema.org/name> "Australian Biodiversity Information Governance Group" .
+<https://linked.data.gov.au/org/ausbigg> <http://www.w3.org/2004/02/skos/core#definition> "The Australian Biodiversity Information Governance Group (AusBIGG) comprises Australian Commonwealth, State &amp; Territory and environmental research organisations involved in the collection and management of biodiversity information.\n\nAusBIGG was established in 2021 and its main role, as of 2023, is the governance of the Australian Biodiversity Information Standard." .
+<https://linked.data.gov.au/org/ausbigg> <http://www.w3.org/2004/02/skos/core#prefLabel> "Australian Biodiversity Information Governance Group" .
+<https://linked.data.gov.au/org/ausbigg> <https://schema.org/url> "https://github.com/AusBIGG/"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<https://linked.data.gov.au/org/dcceew> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://linked.data.gov.au/org/dcceew> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<https://linked.data.gov.au/org/dcceew> <http://www.w3.org/2004/02/skos/core#inScheme> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/dcceew> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/dcceew> <https://schema.org/identifier> "https://ror.org/01db6n192"^^<http://id.loc.gov/vocabulary/identifiers/ror> .
+<https://linked.data.gov.au/org/dcceew> <https://schema.org/description> "The Federal Government department that leads Australia’s response to climate change and sustainable energy use, and protects our environment, heritage and water." .
+<https://linked.data.gov.au/org/dcceew> <https://schema.org/name> "Department of Climate Change, Energy, the Environment and Water" .
+<https://linked.data.gov.au/org/dcceew> <http://www.w3.org/2004/02/skos/core#definition> "The Federal Government department that leads Australia’s response to climate change and sustainable energy use, and protects our environment, heritage and water." .
+<https://linked.data.gov.au/org/dcceew> <http://www.w3.org/2004/02/skos/core#prefLabel> "Department of Climate Change, Energy, the Environment and Water" .
+<https://linked.data.gov.au/org/dcceew> <https://schema.org/url> "https://www.dcceew.gov.au"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<https://linked.data.gov.au/org/idn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://linked.data.gov.au/org/idn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<https://linked.data.gov.au/org/idn> <http://www.w3.org/2004/02/skos/core#inScheme> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/idn> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://linked.data.gov.au/org/idn> <https://schema.org/description> "The Indigenous Data Network of Australia." .
+<https://linked.data.gov.au/org/idn> <https://schema.org/name> "Indigenous Data Network" .
+<https://linked.data.gov.au/org/idn> <http://www.w3.org/2004/02/skos/core#definition> "The Indigenous Data Network of Australia." .
+<https://linked.data.gov.au/org/idn> <http://www.w3.org/2004/02/skos/core#prefLabel> "Indigenous Data Network" .
+<https://linked.data.gov.au/org/idn> <https://schema.org/url> "https://www.idnau.org"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<https://w3id.org/tern/resources/a083902d-d821-41be-b663-1d7cb33eea66> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/tern/resources/a083902d-d821-41be-b663-1d7cb33eea66> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<https://w3id.org/tern/resources/a083902d-d821-41be-b663-1d7cb33eea66> <http://www.w3.org/2004/02/skos/core#inScheme> <https://linked.data.gov.au/dataset/bdr/orgs> .
+<https://w3id.org/tern/resources/a083902d-d821-41be-b663-1d7cb33eea66> <http://www.w3.org/2004/02/skos/core#broader> <https://linked.data.gov.au/org/dcceew> .
+<https://w3id.org/tern/resources/a083902d-d821-41be-b663-1d7cb33eea66> <https://schema.org/isPartOf> <https://linked.data.gov.au/org/dcceew> .
+<https://w3id.org/tern/resources/a083902d-d821-41be-b663-1d7cb33eea66> <https://schema.org/identifier> "https://ror.org/03wxseg04"^^<http://id.loc.gov/vocabulary/identifiers/ror> .
+<https://w3id.org/tern/resources/a083902d-d821-41be-b663-1d7cb33eea66> <https://schema.org/description> "TERN is Australia’s land ecosystem observatory." .
+<https://w3id.org/tern/resources/a083902d-d821-41be-b663-1d7cb33eea66> <https://schema.org/name> "Terrestrial Ecosystem Research Network" .
+<https://w3id.org/tern/resources/a083902d-d821-41be-b663-1d7cb33eea66> <http://www.w3.org/2004/02/skos/core#definition> "TERN is Australia’s land ecosystem observatory." .
+<https://w3id.org/tern/resources/a083902d-d821-41be-b663-1d7cb33eea66> <http://www.w3.org/2004/02/skos/core#prefLabel> "Terrestrial Ecosystem Research Network" .
+<https://w3id.org/tern/resources/a083902d-d821-41be-b663-1d7cb33eea66> <https://schema.org/url> "https://www.tern.org.au"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+<https://w3id.org/tern/resources/a083902d-d821-41be-b663-1d7cb33eea66> <http://www.w3.org/2004/02/skos/core#exactMatch> <https://linked.data.gov.au/org/tern> .
+<http://linkeddata.tern.org.au/def/agent/a083902d-d821-41be-b663-1d7cb33eea66> <http://www.w3.org/2002/07/owl#deprecated> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+<http://linkeddata.tern.org.au/def/agent/a083902d-d821-41be-b663-1d7cb33eea66> <http://purl.org/dc/terms/isReplacedBy> <https://linked.data.gov.au/org/tern> .
+<https://ror.org/030c92375> <http://www.w3.org/2002/07/owl#deprecated> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+<https://ror.org/030c92375> <http://purl.org/dc/terms/isReplacedBy> <https://linked.data.gov.au/org/dcceew> .
+<https://linked.data.gov.au/dataset/bdr/orgs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<https://linked.data.gov.au/dataset/bdr/orgs> <http://www.w3.org/2004/02/skos/core#definition> "Organisations known to own & submit data to the Biodiversity Date Repository"@en .
+<https://linked.data.gov.au/dataset/bdr/orgs> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://linked.data.gov.au/org/act> .
+<https://linked.data.gov.au/dataset/bdr/orgs> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://linked.data.gov.au/org/act-atlas> .
+<https://linked.data.gov.au/dataset/bdr/orgs> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://linked.data.gov.au/org/am> .
+<https://linked.data.gov.au/dataset/bdr/orgs> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://linked.data.gov.au/org/ambseh> .
+<https://linked.data.gov.au/dataset/bdr/orgs> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://linked.data.gov.au/org/amnh> .
+<https://linked.data.gov.au/dataset/bdr/orgs> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://linked.data.gov.au/org/ath> .
+<https://linked.data.gov.au/dataset/bdr/orgs> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://linked.data.gov.au/org/awc> .
+<https://linked.data.gov.au/dataset/bdr/orgs> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://linked.data.gov.au/org/awmm> .
+<https://linked.data.gov.au/dataset/bdr/orgs> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://linked.data.gov.au/org/baam> .
+<https://linked.data.gov.au/dataset/bdr/orgs> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://linked.data.gov.au/org/bdbsa> .
+<https://linked.data.gov.au/dataset/bdr/orgs> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://linked.data.gov.au/org/bhp> .
+<https://linked.data.gov.au/dataset/bdr/orgs> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://linked.data.gov.au/org/biepa> .
+<https://linked.data.gov.au/dataset/bdr/orgs> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://linked.data.gov.au/org/birdlife> .
+<https://linked.data.gov.au/dataset/bdr/orgs> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://linked.data.gov.au/org/canbr> .
+<https://linked.data.gov.au/dataset/bdr/orgs> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://linked.data.gov.au/org/cooloolacc> .
+<https://linked.data.gov.au/dataset/bdr/orgs> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://linked.data.gov.au/org/csiro> .
+<https://linked.data.gov.au/dataset/bdr/orgs> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://linked.data.gov.au/org/dafwa> .
+<https://linked.data.gov.au/dataset/bdr/orgs> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://linked.data.gov.au/org/des> .
+<https://linked.data.gov.au/dataset/bdr/orgs> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://linked.data.gov.au/org/ecosmartecology> .
+<https://linked.data.gov.au/dataset/bdr/orgs> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://linked.data.gov.au/org/gaia-resources> .
+<https://linked.data.gov.au/dataset/bdr/orgs> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://linked.data.gov.au/org/gccc> .
+<https://linked.data.gov.au/dataset/bdr/orgs> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://linked.data.gov.au/org/jcu> .
+<https://linked.data.gov.au/dataset/bdr/orgs> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://linked.data.gov.au/org/latrobe> .
+<https://linked.data.gov.au/dataset/bdr/orgs> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://linked.data.gov.au/org/lcai> .
+<https://linked.data.gov.au/dataset/bdr/orgs> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://linked.data.gov.au/org/macleaymuseum> .
+<https://linked.data.gov.au/dataset/bdr/orgs> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://linked.data.gov.au/org/mboca> .
+<https://linked.data.gov.au/dataset/bdr/orgs> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://linked.data.gov.au/org/mgrt> .
+<https://linked.data.gov.au/dataset/bdr/orgs> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://linked.data.gov.au/org/mjdenv> .
+<https://linked.data.gov.au/dataset/bdr/orgs> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://linked.data.gov.au/org/mrcca> .
+<https://linked.data.gov.au/dataset/bdr/orgs> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://linked.data.gov.au/org/museumsvictoria> .
+<https://linked.data.gov.au/dataset/bdr/orgs> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://linked.data.gov.au/org/mwlr> .
+<https://linked.data.gov.au/dataset/bdr/orgs> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://linked.data.gov.au/org/naturemapr> .
+<https://linked.data.gov.au/dataset/bdr/orgs> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://linked.data.gov.au/org/nhm> .
+<https://linked.data.gov.au/dataset/bdr/orgs> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://linked.data.gov.au/org/npansw> .
+<https://linked.data.gov.au/dataset/bdr/orgs> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://linked.data.gov.au/org/nsw-bionet> .
+<https://linked.data.gov.au/dataset/bdr/orgs> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://linked.data.gov.au/org/nsw-daff> .
+<https://linked.data.gov.au/dataset/bdr/orgs> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://linked.data.gov.au/org/nsw-dcceew> .
+<https://linked.data.gov.au/dataset/bdr/orgs> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://linked.data.gov.au/org/nsw-dpe> .
+<https://linked.data.gov.au/dataset/bdr/orgs> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://linked.data.gov.au/org/nsw-dpie> .
+<https://linked.data.gov.au/dataset/bdr/orgs> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://linked.data.gov.au/org/nsw-npws> .
+<https://linked.data.gov.au/dataset/bdr/orgs> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://linked.data.gov.au/org/nt-atlas> .
+<https://linked.data.gov.au/dataset/bdr/orgs> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://linked.data.gov.au/org/nt-dipe> .
+<https://linked.data.gov.au/dataset/bdr/orgs> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://linked.data.gov.au/org/nt-dlpe> .
+<https://linked.data.gov.au/dataset/bdr/orgs> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://linked.data.gov.au/org/nt-dlrm> .
+<https://linked.data.gov.au/dataset/bdr/orgs> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://linked.data.gov.au/org/nt-herbarium> .
+<https://linked.data.gov.au/dataset/bdr/orgs> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://linked.data.gov.au/org/qld-daff> .
+<https://linked.data.gov.au/dataset/bdr/orgs> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://linked.data.gov.au/org/qld-derm> .
+<https://linked.data.gov.au/dataset/bdr/orgs> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://linked.data.gov.au/org/qld-detsi> .
+<https://linked.data.gov.au/dataset/bdr/orgs> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://linked.data.gov.au/org/qld-dres> .
+<https://linked.data.gov.au/dataset/bdr/orgs> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://linked.data.gov.au/org/qld-tmr> .
+<https://linked.data.gov.au/dataset/bdr/orgs> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://linked.data.gov.au/org/qld-tsgehp> .
+<https://linked.data.gov.au/dataset/bdr/orgs> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://linked.data.gov.au/org/qld-wildnet> .
+<https://linked.data.gov.au/dataset/bdr/orgs> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://linked.data.gov.au/org/qm> .
+<https://linked.data.gov.au/dataset/bdr/orgs> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://linked.data.gov.au/org/qnc> .
+<https://linked.data.gov.au/dataset/bdr/orgs> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://linked.data.gov.au/org/qpws> .
+<https://linked.data.gov.au/dataset/bdr/orgs> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://linked.data.gov.au/org/qvmag> .
+<https://linked.data.gov.au/dataset/bdr/orgs> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://linked.data.gov.au/org/rbgdt> .
+<https://linked.data.gov.au/dataset/bdr/orgs> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://linked.data.gov.au/org/rbgv> .
+<https://linked.data.gov.au/dataset/bdr/orgs> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://linked.data.gov.au/org/reefcatchments> .
+<https://linked.data.gov.au/dataset/bdr/orgs> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://linked.data.gov.au/org/riotinto> .
+<https://linked.data.gov.au/dataset/bdr/orgs> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://linked.data.gov.au/org/sa-dew> .
+<https://linked.data.gov.au/dataset/bdr/orgs> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://linked.data.gov.au/org/sa-dewnr> .
+<https://linked.data.gov.au/dataset/bdr/orgs> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://linked.data.gov.au/org/sa-herbarium> .
+<https://linked.data.gov.au/dataset/bdr/orgs> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://linked.data.gov.au/org/sam> .
+<https://linked.data.gov.au/dataset/bdr/orgs> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://linked.data.gov.au/org/scienceforwildlife> .
+<https://linked.data.gov.au/dataset/bdr/orgs> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://linked.data.gov.au/org/scion> .
+<https://linked.data.gov.au/dataset/bdr/orgs> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://linked.data.gov.au/org/sfsgi> .
+<https://linked.data.gov.au/dataset/bdr/orgs> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://linked.data.gov.au/org/sunwater> .
+<https://linked.data.gov.au/dataset/bdr/orgs> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://linked.data.gov.au/org/te-papa> .
+<https://linked.data.gov.au/dataset/bdr/orgs> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://linked.data.gov.au/org/tmag> .
+<https://linked.data.gov.au/dataset/bdr/orgs> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://linked.data.gov.au/org/uadelaide> .
+<https://linked.data.gov.au/dataset/bdr/orgs> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://linked.data.gov.au/org/umweltaust> .
+<https://linked.data.gov.au/dataset/bdr/orgs> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://linked.data.gov.au/org/une> .
+<https://linked.data.gov.au/dataset/bdr/orgs> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://linked.data.gov.au/org/unsw> .
+<https://linked.data.gov.au/dataset/bdr/orgs> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://linked.data.gov.au/org/uom> .
+<https://linked.data.gov.au/dataset/bdr/orgs> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://linked.data.gov.au/org/uq> .
+<https://linked.data.gov.au/dataset/bdr/orgs> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://linked.data.gov.au/org/vic-deeca> .
+<https://linked.data.gov.au/dataset/bdr/orgs> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://linked.data.gov.au/org/wa-bio> .
+<https://linked.data.gov.au/dataset/bdr/orgs> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://linked.data.gov.au/org/wa-dbca> .
+<https://linked.data.gov.au/dataset/bdr/orgs> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://linked.data.gov.au/org/wa-herbarium> .
+<https://linked.data.gov.au/dataset/bdr/orgs> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://linked.data.gov.au/org/wabsi> .
+<https://linked.data.gov.au/dataset/bdr/orgs> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://linked.data.gov.au/org/wam> .
+<https://linked.data.gov.au/dataset/bdr/orgs> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://linked.data.gov.au/org/western-shield> .
+<https://linked.data.gov.au/dataset/bdr/orgs> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://linked.data.gov.au/org/wmbaustralia> .
+<https://linked.data.gov.au/dataset/bdr/orgs> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://linked.data.gov.au/org/wwf-australia> .
+<https://linked.data.gov.au/dataset/bdr/orgs> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <http://www.publish.csiro.au/> .
+<https://linked.data.gov.au/dataset/bdr/orgs> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://kurrawong.ai> .
+<https://linked.data.gov.au/dataset/bdr/orgs> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://linked.data.gov.au/org/agldwg> .
+<https://linked.data.gov.au/dataset/bdr/orgs> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://linked.data.gov.au/org/ausbigg> .
+<https://linked.data.gov.au/dataset/bdr/orgs> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://linked.data.gov.au/org/dcceew> .
+<https://linked.data.gov.au/dataset/bdr/orgs> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://linked.data.gov.au/org/idn> .
+<https://linked.data.gov.au/dataset/bdr/orgs> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://linked.data.gov.au/org/daff> .
+<https://linked.data.gov.au/dataset/bdr/orgs> <http://www.w3.org/2004/02/skos/core#historyNote> "2026-05: Updated following BDR reference data audit ,\n        2025-08: Added from data supplied to the BDR from jurisdictions via https://submit.bdr.gov.au in mid-2025\" ,\n\nThis vocabulary was initially developed for the Biodiversity Data Repository and is live in that it grows with new data submissions from new organisations" .
+<https://linked.data.gov.au/dataset/bdr/orgs> <http://www.w3.org/2004/02/skos/core#historyNote> "Added from data supplied to tne BDR from jurisdictions via https://submit.bdr.gov.au in mid-2025" .
+<https://linked.data.gov.au/dataset/bdr/orgs> <http://www.w3.org/2004/02/skos/core#historyNote> "This vocabulary was developed for the Biodiversity Data Repository and is live in that it grows with new data submissions from new organisations" .
+<https://linked.data.gov.au/dataset/bdr/orgs> <http://www.w3.org/2004/02/skos/core#prefLabel> "BDR Organisations"@en .
+<https://linked.data.gov.au/dataset/bdr/orgs> <https://schema.org/creator> <https://linked.data.gov.au/org/dcceew> .
+<https://linked.data.gov.au/dataset/bdr/orgs> <https://schema.org/dateCreated> "2024-07-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://linked.data.gov.au/dataset/bdr/orgs> <https://schema.org/dateModified> "2026-05-21"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://linked.data.gov.au/dataset/bdr/orgs> <https://schema.org/license> <http://purl.org/NET/rdflicense/cc-by4.0> .
+<https://linked.data.gov.au/dataset/bdr/orgs> <https://schema.org/publisher> <https://linked.data.gov.au/org/dcceew> .
+<https://linked.data.gov.au/dataset/bdr/orgs> <https://schema.org/status> <https://def.isotc211.org/codeset/ItemStatus/experimental> .
