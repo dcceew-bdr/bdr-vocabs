@@ -1,5 +1,21 @@
 # BDR Vocabularies
 
+> **Deprecated publishing source**
+>
+> This repository is no longer the publishing source for BDR vocabulary catalogue content.
+>
+> Current published BDR vocabulary files are maintained in:
+>
+> https://github.com/dcceew-bdr/bdr-catalogues/tree/main/resources/vocabularies/bdr
+>
+> Do not make routine vocabulary content updates in this repository unless you are recovering or migrating historical/source material. Changes made here may not appear on the BDR Resources site.
+
+Vocabularies created for use specifically with the Biodiversity Data Repository systems and data.
+
+This repository is retained temporarily while source scripts, generated data inputs, and historical working files are reviewed and migrated.
+
+-------------------------
+
 Vocabularies created for use specifically with the [Biodiversity Data Repository](https://bdr.gov.au) systems and data.
 
 These vocabularies are presented online as part of the BDR's catalogues of information at:
