@@ -84,7 +84,7 @@ cs:
     skos:scopeNote "See the ABIS Specification, <https://linked.data.gov.au/def/abis> - BDR Profile Section, for the definition of BDR Submission Manifest Actions"@en ;
     schema:creator <https://linked.data.gov.au/org/dcceew> ;
     schema:dateCreated "2025-03-18"^^xsd:date ;
-    schema:dateModified "2026-01-19"^^xsd:date ;
+    schema:dateModified "2026-07-09"^^xsd:date ;
     schema:license <http://purl.org/NET/rdflicense/cc-by4.0> ;
     schema:publisher <https://linked.data.gov.au/org/dcceew> ;
     skos:hasTopConcept 
@@ -96,4 +96,5 @@ cs:
         :Annotate ,
         :Attach ;
     schema:status status:stable ;
+    schema:version "1" ;
 .
