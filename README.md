@@ -1,5 +1,19 @@
 # BDR Vocabularies
 
+== Repository status
+
+This repository is no longer the primary source for BDR catalogue vocabulary artefacts.
+
+The BDR vocabulary catalogue is now vendored in:
+https://github.com/dcceew-bdr/bdr-catalogues
+
+Updates made only in this repository will not automatically appear on the BDR resources site:
+https://resources.bdr.gov.au/catalogues/bdr-cat:vocabularies/collections/bdr-cat:bdr-cv
+
+This repository is retained temporarily for historical source material, migration support, and review of any remaining generation scripts or working files.
+
+-------------------------
+
 Vocabularies created for use specifically with the [Biodiversity Data Repository](https://bdr.gov.au) systems and data.
 
 These vocabularies are presented online as part of the BDR's catalogues of information at:
